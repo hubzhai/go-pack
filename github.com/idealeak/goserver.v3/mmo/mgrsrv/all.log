@@ -1,0 +1,449 @@
+[2018-05-28][19:20:55] [Info] [@ modulemgr.go.76] module [      net-module] registe;interval=0s,priority=2147483647
+[2018-05-28][19:20:55] [Info] [@ modulemgr.go.76] module [      dtc-module] registe;interval=1h0m0s,priority=1
+[2018-05-28][19:20:55] [Info] [@ loader.go.66] package [          module] load success
+[2018-05-28][19:20:55] [Info] [@ config.go.77] =================
+[2018-05-28][19:20:55] [Info] [@ config.go.77] manager server
+[2018-05-28][19:20:55] [Info] [@ config.go.77] =================
+[2018-05-28][19:20:55] [Info] [@ loader.go.66] package [          netlib] load success
+[2018-05-28][19:20:55] [Trace] [@ timer.go.32] Timer Start
+[2018-05-28][19:20:55] [Trace] [@ timer.go.42] Timer Start [ok]
+[2018-05-28][19:20:55] [Info] [@ loader.go.66] package [           timer] load success
+[2018-05-28][19:20:55] [Error] [@ loader.go.73] Package tx init data not exist.
+[2018-05-28][19:20:55] [Info] [@ loader.go.66] package [         cmdline] load success
+[2018-05-28][19:20:55] [Error] [@ loader.go.73] Package signal init data not exist.
+[2018-05-28][19:20:55] [Info] [@ loader.go.66] package [            core] load success
+[2018-05-28][19:20:55] [Error] [@ loader.go.73] Package profile init data not exist.
+[2018-05-28][19:20:55] [Info] [@ modulemgr.go.138] Startup PreloadModules
+[2018-05-28][19:20:55] [Info] [@ modulemgr.go.144] Startup PreloadModules [ok]
+[2018-05-28][19:20:55] [Info] [@ modulemgr.go.166] Start Initialize Modules
+[2018-05-28][19:20:55] [Info] [@ modulemgr.go.170] module [      dtc-module] init...
+[2018-05-28][19:20:55] [Info] [@ modulemgr.go.172] module [      dtc-module] init[ok]
+[2018-05-28][19:20:55] [Info] [@ modulemgr.go.170] module [      net-module] init...
+[2018-05-28][19:20:55] [Info] [@ tcp_acceptor.go.61] ManagerService listen at [::]:5555
+[2018-05-28][19:20:55] [Info] [@ modulemgr.go.172] module [      net-module] init[ok]
+[2018-05-28][19:20:55] [Info] [@ modulemgr.go.176] Start Initialize Modules [ok]
+[2018-05-28][19:20:55] [Trace] [@ tcp_session.go.156] s.sc.decoder.Decode(packetid:-1004) err:proto: can't skip unknown wire type 6 for protocol.SSPacketAuth 
+[2018-05-28][19:20:55] [Trace] [@ tcp_session.go.156] s.sc.decoder.Decode(packetid:-1004) err:proto: can't skip unknown wire type 6 for protocol.SSPacketAuth 
+[2018-05-28][19:20:55] [Warn] [@ tcp_session.go.117] 1 ->close: TcpSession.recvRoutine err: proto: can't skip unknown wire type 6 for protocol.SSPacketAuth
+[2018-05-28][19:20:55] [Trace] [@ tcp_session.go.182] 1 shutRead
+[2018-05-28][19:20:55] [Warn] [@ tcp_session.go.60] 1 ->close: TcpSession.sendRoutine err: [comm expt]normal close send
+[2018-05-28][19:20:55] [Trace] [@ tcp_session.go.193] 1 shutWrite
+[2018-05-28][19:20:55] [Warn] [@ tcp_session.go.117] 2 ->close: TcpSession.recvRoutine err: proto: can't skip unknown wire type 6 for protocol.SSPacketAuth
+[2018-05-28][19:20:55] [Trace] [@ tcp_session.go.182] 2 shutRead
+[2018-05-28][19:20:55] [Warn] [@ tcp_session.go.60] 2 ->close: TcpSession.sendRoutine err: [comm expt]normal close send
+[2018-05-28][19:20:55] [Trace] [@ tcp_session.go.193] 2 shutWrite
+[2018-05-28][19:20:55] [Warn] [@ serverserviceregiste.go.40] SessionHandlerServiceRegiste:OnSessionClosed ClearServiceBySession
+[2018-05-28][19:20:55] [Warn] [@ serverserviceregiste.go.40] SessionHandlerServiceRegiste:OnSessionClosed ClearServiceBySession
+[2018-05-28][19:20:56] [Trace] [@ tcp_session.go.156] s.sc.decoder.Decode(packetid:-1004) err:proto: can't skip unknown wire type 7 for protocol.SSPacketAuth 
+[2018-05-28][19:20:56] [Warn] [@ tcp_session.go.117] 3 ->close: TcpSession.recvRoutine err: proto: can't skip unknown wire type 7 for protocol.SSPacketAuth
+[2018-05-28][19:20:56] [Trace] [@ tcp_session.go.182] 3 shutRead
+[2018-05-28][19:20:56] [Warn] [@ tcp_session.go.60] 3 ->close: TcpSession.sendRoutine err: [comm expt]normal close send
+[2018-05-28][19:20:56] [Trace] [@ tcp_session.go.193] 3 shutWrite
+[2018-05-28][19:20:56] [Warn] [@ serverserviceregiste.go.40] SessionHandlerServiceRegiste:OnSessionClosed ClearServiceBySession
+[2018-05-28][19:20:59] [Trace] [@ tcp_session.go.156] s.sc.decoder.Decode(packetid:-1004) err:proto: can't skip unknown wire type 6 for protocol.SSPacketAuth 
+[2018-05-28][19:20:59] [Warn] [@ tcp_session.go.117] 4 ->close: TcpSession.recvRoutine err: proto: can't skip unknown wire type 6 for protocol.SSPacketAuth
+[2018-05-28][19:20:59] [Trace] [@ tcp_session.go.182] 4 shutRead
+[2018-05-28][19:20:59] [Warn] [@ tcp_session.go.60] 4 ->close: TcpSession.sendRoutine err: [comm expt]normal close send
+[2018-05-28][19:20:59] [Trace] [@ tcp_session.go.193] 4 shutWrite
+[2018-05-28][19:20:59] [Warn] [@ serverserviceregiste.go.40] SessionHandlerServiceRegiste:OnSessionClosed ClearServiceBySession
+[2018-05-29][16:40:13] [Info] [@ modulemgr.go.76] module [      net-module] registe;interval=0s,priority=2147483647
+[2018-05-29][16:40:13] [Info] [@ modulemgr.go.76] module [      dtc-module] registe;interval=1h0m0s,priority=1
+[2018-05-29][16:40:13] [Error] [@ loader.go.73] Package signal init data not exist.
+[2018-05-29][16:40:13] [Info] [@ loader.go.66] package [            core] load success
+[2018-05-29][16:40:13] [Error] [@ loader.go.73] Package profile init data not exist.
+[2018-05-29][16:40:13] [Info] [@ loader.go.66] package [          module] load success
+[2018-05-29][16:40:13] [Info] [@ config.go.77] =================
+[2018-05-29][16:40:13] [Info] [@ config.go.77] manager server
+[2018-05-29][16:40:13] [Info] [@ config.go.77] =================
+[2018-05-29][16:40:13] [Info] [@ loader.go.66] package [          netlib] load success
+[2018-05-29][16:40:13] [Trace] [@ timer.go.32] Timer Start
+[2018-05-29][16:40:13] [Trace] [@ timer.go.42] Timer Start [ok]
+[2018-05-29][16:40:13] [Info] [@ loader.go.66] package [           timer] load success
+[2018-05-29][16:40:13] [Error] [@ loader.go.73] Package tx init data not exist.
+[2018-05-29][16:40:13] [Info] [@ loader.go.66] package [         cmdline] load success
+[2018-05-29][16:40:13] [Info] [@ modulemgr.go.138] Startup PreloadModules
+[2018-05-29][16:40:13] [Info] [@ modulemgr.go.144] Startup PreloadModules [ok]
+[2018-05-29][16:40:13] [Info] [@ modulemgr.go.166] Start Initialize Modules
+[2018-05-29][16:40:13] [Info] [@ modulemgr.go.170] module [      dtc-module] init...
+[2018-05-29][16:40:13] [Info] [@ modulemgr.go.172] module [      dtc-module] init[ok]
+[2018-05-29][16:40:13] [Info] [@ modulemgr.go.170] module [      net-module] init...
+[2018-05-29][16:40:13] [Info] [@ tcp_acceptor.go.61] ManagerService listen at [::]:5555
+[2018-05-29][16:40:13] [Info] [@ modulemgr.go.172] module [      net-module] init[ok]
+[2018-05-29][16:40:13] [Info] [@ modulemgr.go.176] Start Initialize Modules [ok]
+[2018-05-29][16:40:14] [Trace] [@ tcp_session.go.157] s.sc.decoder.Decode(packetid:-1004) err:field/encoding mismatch: wrong type for field 
+[2018-05-29][16:40:14] [Warn] [@ tcp_session.go.117] 1 ->close: TcpSession.recvRoutine err: field/encoding mismatch: wrong type for field
+[2018-05-29][16:40:14] [Trace] [@ tcp_session.go.183] 1 shutRead
+[2018-05-29][16:40:14] [Warn] [@ tcp_session.go.60] 1 ->close: TcpSession.sendRoutine err: [comm expt]normal close send
+[2018-05-29][16:40:14] [Trace] [@ tcp_session.go.194] 1 shutWrite
+[2018-05-29][16:40:14] [Warn] [@ serverserviceregiste.go.40] SessionHandlerServiceRegiste:OnSessionClosed ClearServiceBySession
+[2018-05-29][16:40:17] [Trace] [@ tcp_session.go.157] s.sc.decoder.Decode(packetid:-1004) err:field/encoding mismatch: wrong type for field 
+[2018-05-29][16:40:17] [Warn] [@ tcp_session.go.117] 2 ->close: TcpSession.recvRoutine err: field/encoding mismatch: wrong type for field
+[2018-05-29][16:40:17] [Trace] [@ tcp_session.go.183] 2 shutRead
+[2018-05-29][16:40:17] [Warn] [@ tcp_session.go.60] 2 ->close: TcpSession.sendRoutine err: [comm expt]normal close send
+[2018-05-29][16:40:17] [Trace] [@ tcp_session.go.194] 2 shutWrite
+[2018-05-29][16:40:17] [Warn] [@ serverserviceregiste.go.40] SessionHandlerServiceRegiste:OnSessionClosed ClearServiceBySession
+[2018-05-29][16:40:18] [Trace] [@ tcp_session.go.157] s.sc.decoder.Decode(packetid:-1004) err:unexpected EOF 
+[2018-05-29][16:40:18] [Warn] [@ tcp_session.go.117] 3 ->close: TcpSession.recvRoutine err: unexpected EOF
+[2018-05-29][16:40:18] [Trace] [@ tcp_session.go.183] 3 shutRead
+[2018-05-29][16:40:18] [Warn] [@ tcp_session.go.60] 3 ->close: TcpSession.sendRoutine err: [comm expt]normal close send
+[2018-05-29][16:40:18] [Trace] [@ tcp_session.go.194] 3 shutWrite
+[2018-05-29][16:40:18] [Trace] [@ tcp_session.go.157] s.sc.decoder.Decode(packetid:-1004) err:unexpected EOF 
+[2018-05-29][16:40:18] [Warn] [@ tcp_session.go.117] 4 ->close: TcpSession.recvRoutine err: unexpected EOF
+[2018-05-29][16:40:18] [Trace] [@ tcp_session.go.183] 4 shutRead
+[2018-05-29][16:40:18] [Warn] [@ tcp_session.go.60] 4 ->close: TcpSession.sendRoutine err: [comm expt]normal close send
+[2018-05-29][16:40:18] [Trace] [@ tcp_session.go.194] 4 shutWrite
+[2018-05-29][16:40:18] [Warn] [@ serverserviceregiste.go.40] SessionHandlerServiceRegiste:OnSessionClosed ClearServiceBySession
+[2018-05-29][16:40:18] [Warn] [@ serverserviceregiste.go.40] SessionHandlerServiceRegiste:OnSessionClosed ClearServiceBySession
+[2018-05-29][16:49:09] [Info] [@ modulemgr.go.76] module [      net-module] registe;interval=0s,priority=2147483647
+[2018-05-29][16:49:09] [Info] [@ modulemgr.go.76] module [      dtc-module] registe;interval=1h0m0s,priority=1
+[2018-05-29][16:49:09] [Trace] [@ timer.go.32] Timer Start
+[2018-05-29][16:49:09] [Trace] [@ timer.go.42] Timer Start [ok]
+[2018-05-29][16:49:09] [Info] [@ loader.go.66] package [           timer] load success
+[2018-05-29][16:49:09] [Error] [@ loader.go.73] Package tx init data not exist.
+[2018-05-29][16:49:09] [Info] [@ loader.go.66] package [         cmdline] load success
+[2018-05-29][16:49:09] [Error] [@ loader.go.73] Package signal init data not exist.
+[2018-05-29][16:49:09] [Info] [@ loader.go.66] package [            core] load success
+[2018-05-29][16:49:09] [Error] [@ loader.go.73] Package profile init data not exist.
+[2018-05-29][16:49:09] [Info] [@ loader.go.66] package [          module] load success
+[2018-05-29][16:49:09] [Info] [@ config.go.77] =================
+[2018-05-29][16:49:09] [Info] [@ config.go.77] manager server
+[2018-05-29][16:49:09] [Info] [@ config.go.77] =================
+[2018-05-29][16:49:09] [Info] [@ loader.go.66] package [          netlib] load success
+[2018-05-29][16:49:09] [Info] [@ modulemgr.go.138] Startup PreloadModules
+[2018-05-29][16:49:09] [Info] [@ modulemgr.go.144] Startup PreloadModules [ok]
+[2018-05-29][16:49:09] [Info] [@ modulemgr.go.166] Start Initialize Modules
+[2018-05-29][16:49:09] [Info] [@ modulemgr.go.170] module [      dtc-module] init...
+[2018-05-29][16:49:09] [Info] [@ modulemgr.go.172] module [      dtc-module] init[ok]
+[2018-05-29][16:49:09] [Info] [@ modulemgr.go.170] module [      net-module] init...
+[2018-05-29][16:49:09] [Info] [@ tcp_acceptor.go.61] ManagerService listen at [::]:5555
+[2018-05-29][16:49:09] [Info] [@ modulemgr.go.172] module [      net-module] init[ok]
+[2018-05-29][16:49:09] [Info] [@ modulemgr.go.176] Start Initialize Modules [ok]
+[2018-05-29][16:49:09] [Trace] [@ tcp_session.go.157] s.sc.decoder.Decode(packetid:-1004) err:proto: can't skip unknown wire type 6 for protocol.SSPacketAuth 
+[2018-05-29][16:49:09] [Warn] [@ tcp_session.go.117] 1 ->close: TcpSession.recvRoutine err: proto: can't skip unknown wire type 6 for protocol.SSPacketAuth
+[2018-05-29][16:49:09] [Trace] [@ tcp_session.go.183] 1 shutRead
+[2018-05-29][16:49:09] [Warn] [@ tcp_session.go.60] 1 ->close: TcpSession.sendRoutine err: [comm expt]normal close send
+[2018-05-29][16:49:09] [Trace] [@ tcp_session.go.194] 1 shutWrite
+[2018-05-29][16:49:09] [Warn] [@ serverserviceregiste.go.40] SessionHandlerServiceRegiste:OnSessionClosed ClearServiceBySession
+[2018-05-29][16:49:10] [Trace] [@ tcp_session.go.157] s.sc.decoder.Decode(packetid:-1004) err:proto: can't skip unknown wire type 7 for protocol.SSPacketAuth 
+[2018-05-29][16:49:10] [Warn] [@ tcp_session.go.117] 2 ->close: TcpSession.recvRoutine err: proto: can't skip unknown wire type 7 for protocol.SSPacketAuth
+[2018-05-29][16:49:10] [Trace] [@ tcp_session.go.183] 2 shutRead
+[2018-05-29][16:49:10] [Warn] [@ tcp_session.go.60] 2 ->close: TcpSession.sendRoutine err: [comm expt]normal close send
+[2018-05-29][16:49:10] [Trace] [@ tcp_session.go.194] 2 shutWrite
+[2018-05-29][16:49:10] [Warn] [@ serverserviceregiste.go.40] SessionHandlerServiceRegiste:OnSessionClosed ClearServiceBySession
+[2018-05-29][16:49:13] [Trace] [@ tcp_session.go.157] s.sc.decoder.Decode(packetid:-1004) err:proto: can't skip unknown wire type 7 for protocol.SSPacketAuth 
+[2018-05-29][16:49:13] [Warn] [@ tcp_session.go.117] 3 ->close: TcpSession.recvRoutine err: proto: can't skip unknown wire type 7 for protocol.SSPacketAuth
+[2018-05-29][16:49:13] [Trace] [@ tcp_session.go.183] 3 shutRead
+[2018-05-29][16:49:13] [Warn] [@ tcp_session.go.60] 3 ->close: TcpSession.sendRoutine err: [comm expt]normal close send
+[2018-05-29][16:49:13] [Trace] [@ tcp_session.go.194] 3 shutWrite
+[2018-05-29][16:49:13] [Warn] [@ serverserviceregiste.go.40] SessionHandlerServiceRegiste:OnSessionClosed ClearServiceBySession
+[2018-05-29][16:49:14] [Trace] [@ tcp_session.go.157] s.sc.decoder.Decode(packetid:-1004) err:proto: can't skip unknown wire type 7 for protocol.SSPacketAuth 
+[2018-05-29][16:49:14] [Warn] [@ tcp_session.go.117] 4 ->close: TcpSession.recvRoutine err: proto: can't skip unknown wire type 7 for protocol.SSPacketAuth
+[2018-05-29][16:49:14] [Trace] [@ tcp_session.go.183] 4 shutRead
+[2018-05-29][16:49:14] [Warn] [@ tcp_session.go.60] 4 ->close: TcpSession.sendRoutine err: [comm expt]normal close send
+[2018-05-29][16:49:14] [Trace] [@ tcp_session.go.194] 4 shutWrite
+[2018-05-29][16:49:14] [Warn] [@ serverserviceregiste.go.40] SessionHandlerServiceRegiste:OnSessionClosed ClearServiceBySession
+[2018-05-29][16:52:20] [Info] [@ modulemgr.go.76] module [      net-module] registe;interval=0s,priority=2147483647
+[2018-05-29][16:52:20] [Info] [@ modulemgr.go.76] module [      dtc-module] registe;interval=1h0m0s,priority=1
+[2018-05-29][16:52:20] [Error] [@ loader.go.73] Package signal init data not exist.
+[2018-05-29][16:52:20] [Info] [@ loader.go.66] package [            core] load success
+[2018-05-29][16:52:20] [Error] [@ loader.go.73] Package profile init data not exist.
+[2018-05-29][16:52:20] [Info] [@ loader.go.66] package [          module] load success
+[2018-05-29][16:52:20] [Info] [@ config.go.77] =================
+[2018-05-29][16:52:20] [Info] [@ config.go.77] manager server
+[2018-05-29][16:52:20] [Info] [@ config.go.77] =================
+[2018-05-29][16:52:20] [Info] [@ loader.go.66] package [          netlib] load success
+[2018-05-29][16:52:20] [Trace] [@ timer.go.32] Timer Start
+[2018-05-29][16:52:20] [Trace] [@ timer.go.42] Timer Start [ok]
+[2018-05-29][16:52:20] [Info] [@ loader.go.66] package [           timer] load success
+[2018-05-29][16:52:20] [Error] [@ loader.go.73] Package tx init data not exist.
+[2018-05-29][16:52:20] [Info] [@ loader.go.66] package [         cmdline] load success
+[2018-05-29][16:52:20] [Info] [@ modulemgr.go.138] Startup PreloadModules
+[2018-05-29][16:52:20] [Info] [@ modulemgr.go.144] Startup PreloadModules [ok]
+[2018-05-29][16:52:20] [Info] [@ modulemgr.go.166] Start Initialize Modules
+[2018-05-29][16:52:20] [Info] [@ modulemgr.go.170] module [      dtc-module] init...
+[2018-05-29][16:52:20] [Info] [@ modulemgr.go.172] module [      dtc-module] init[ok]
+[2018-05-29][16:52:20] [Info] [@ modulemgr.go.170] module [      net-module] init...
+[2018-05-29][16:52:20] [Info] [@ tcp_acceptor.go.61] ManagerService listen at [::]:5555
+[2018-05-29][16:52:20] [Info] [@ modulemgr.go.172] module [      net-module] init[ok]
+[2018-05-29][16:52:20] [Info] [@ modulemgr.go.176] Start Initialize Modules [ok]
+[2018-05-29][16:52:20] [Trace] [@ tcp_session.go.157] s.sc.decoder.Decode(packetid:-1004) err:proto: can't skip unknown wire type 6 for protocol.SSPacketAuth 
+[2018-05-29][16:52:20] [Warn] [@ tcp_session.go.117] 1 ->close: TcpSession.recvRoutine err: proto: can't skip unknown wire type 6 for protocol.SSPacketAuth
+[2018-05-29][16:52:20] [Trace] [@ tcp_session.go.183] 1 shutRead
+[2018-05-29][16:52:20] [Trace] [@ tcp_session.go.99] s.sc.encoder.Encode errwrite tcp 127.0.0.1:5555->127.0.0.1:9284: wsasend: An established connection was aborted by the software in your host machine.
+[2018-05-29][16:52:20] [Warn] [@ tcp_session.go.60] 1 ->close: TcpSession.sendRoutine err: [comm expt]normal close send
+[2018-05-29][16:52:20] [Trace] [@ tcp_session.go.194] 1 shutWrite
+[2018-05-29][16:52:20] [Warn] [@ serverserviceregiste.go.40] SessionHandlerServiceRegiste:OnSessionClosed ClearServiceBySession
+[2018-05-29][16:52:21] [Trace] [@ tcp_session.go.157] s.sc.decoder.Decode(packetid:-1004) err:proto: can't skip unknown wire type 6 for protocol.SSPacketAuth 
+[2018-05-29][16:52:21] [Warn] [@ tcp_session.go.117] 2 ->close: TcpSession.recvRoutine err: proto: can't skip unknown wire type 6 for protocol.SSPacketAuth
+[2018-05-29][16:52:21] [Trace] [@ tcp_session.go.183] 2 shutRead
+[2018-05-29][16:52:21] [Warn] [@ tcp_session.go.60] 2 ->close: TcpSession.sendRoutine err: [comm expt]normal close send
+[2018-05-29][16:52:21] [Trace] [@ tcp_session.go.194] 2 shutWrite
+[2018-05-29][16:52:21] [Warn] [@ serverserviceregiste.go.40] SessionHandlerServiceRegiste:OnSessionClosed ClearServiceBySession
+[2018-05-29][16:52:24] [Trace] [@ tcp_session.go.157] s.sc.decoder.Decode(packetid:-1004) err:unexpected EOF 
+[2018-05-29][16:52:24] [Warn] [@ tcp_session.go.117] 3 ->close: TcpSession.recvRoutine err: unexpected EOF
+[2018-05-29][16:52:24] [Trace] [@ tcp_session.go.183] 3 shutRead
+[2018-05-29][16:52:24] [Trace] [@ tcp_session.go.99] s.sc.encoder.Encode errwrite tcp 127.0.0.1:5555->127.0.0.1:9292: wsasend: An established connection was aborted by the software in your host machine.
+[2018-05-29][16:52:24] [Warn] [@ tcp_session.go.60] 3 ->close: TcpSession.sendRoutine err: [comm expt]normal close send
+[2018-05-29][16:52:24] [Trace] [@ tcp_session.go.194] 3 shutWrite
+[2018-05-29][16:52:24] [Warn] [@ serverserviceregiste.go.40] SessionHandlerServiceRegiste:OnSessionClosed ClearServiceBySession
+[2018-05-29][16:52:25] [Trace] [@ tcp_session.go.157] s.sc.decoder.Decode(packetid:-1004) err:field/encoding mismatch: wrong type for field 
+[2018-05-29][16:52:25] [Warn] [@ tcp_session.go.117] 4 ->close: TcpSession.recvRoutine err: field/encoding mismatch: wrong type for field
+[2018-05-29][16:52:25] [Trace] [@ tcp_session.go.183] 4 shutRead
+[2018-05-29][16:52:25] [Warn] [@ tcp_session.go.60] 4 ->close: TcpSession.sendRoutine err: [comm expt]normal close send
+[2018-05-29][16:52:25] [Trace] [@ tcp_session.go.194] 4 shutWrite
+[2018-05-29][16:52:25] [Warn] [@ serverserviceregiste.go.40] SessionHandlerServiceRegiste:OnSessionClosed ClearServiceBySession
+[2018-05-29][16:55:01] [Trace] [@ tcp_session.go.157] s.sc.decoder.Decode(packetid:-1004) err:field/encoding mismatch: wrong type for field 
+[2018-05-29][16:55:01] [Warn] [@ tcp_session.go.117] 5 ->close: TcpSession.recvRoutine err: field/encoding mismatch: wrong type for field
+[2018-05-29][16:55:01] [Trace] [@ tcp_session.go.183] 5 shutRead
+[2018-05-29][16:55:01] [Warn] [@ tcp_session.go.60] 5 ->close: TcpSession.sendRoutine err: [comm expt]normal close send
+[2018-05-29][16:55:01] [Trace] [@ tcp_session.go.194] 5 shutWrite
+[2018-05-29][16:55:01] [Warn] [@ serverserviceregiste.go.40] SessionHandlerServiceRegiste:OnSessionClosed ClearServiceBySession
+[2018-05-29][16:55:12] [Trace] [@ tcp_session.go.157] s.sc.decoder.Decode(packetid:-1004) err:proto: can't skip unknown wire type 6 for protocol.SSPacketAuth 
+[2018-05-29][16:55:12] [Warn] [@ tcp_session.go.117] 6 ->close: TcpSession.recvRoutine err: proto: can't skip unknown wire type 6 for protocol.SSPacketAuth
+[2018-05-29][16:55:12] [Trace] [@ tcp_session.go.183] 6 shutRead
+[2018-05-29][16:55:12] [Warn] [@ tcp_session.go.60] 6 ->close: TcpSession.sendRoutine err: [comm expt]normal close send
+[2018-05-29][16:55:12] [Trace] [@ tcp_session.go.194] 6 shutWrite
+[2018-05-29][16:55:12] [Warn] [@ serverserviceregiste.go.40] SessionHandlerServiceRegiste:OnSessionClosed ClearServiceBySession
+[2018-05-29][16:59:50] [Info] [@ modulemgr.go.76] module [      net-module] registe;interval=0s,priority=2147483647
+[2018-05-29][16:59:50] [Info] [@ modulemgr.go.76] module [      dtc-module] registe;interval=1h0m0s,priority=1
+[2018-05-29][16:59:50] [Error] [@ loader.go.73] Package signal init data not exist.
+[2018-05-29][16:59:50] [Info] [@ loader.go.66] package [            core] load success
+[2018-05-29][16:59:50] [Error] [@ loader.go.73] Package profile init data not exist.
+[2018-05-29][16:59:50] [Info] [@ loader.go.66] package [          module] load success
+[2018-05-29][16:59:50] [Info] [@ config.go.77] =================
+[2018-05-29][16:59:50] [Info] [@ config.go.77] manager server
+[2018-05-29][16:59:50] [Info] [@ config.go.77] =================
+[2018-05-29][16:59:50] [Info] [@ loader.go.66] package [          netlib] load success
+[2018-05-29][16:59:50] [Trace] [@ timer.go.32] Timer Start
+[2018-05-29][16:59:50] [Trace] [@ timer.go.42] Timer Start [ok]
+[2018-05-29][16:59:50] [Info] [@ loader.go.66] package [           timer] load success
+[2018-05-29][16:59:50] [Error] [@ loader.go.73] Package tx init data not exist.
+[2018-05-29][16:59:50] [Info] [@ loader.go.66] package [         cmdline] load success
+[2018-05-29][16:59:50] [Info] [@ modulemgr.go.138] Startup PreloadModules
+[2018-05-29][16:59:50] [Info] [@ modulemgr.go.144] Startup PreloadModules [ok]
+[2018-05-29][16:59:50] [Info] [@ modulemgr.go.166] Start Initialize Modules
+[2018-05-29][16:59:50] [Info] [@ modulemgr.go.170] module [      dtc-module] init...
+[2018-05-29][16:59:50] [Info] [@ modulemgr.go.172] module [      dtc-module] init[ok]
+[2018-05-29][16:59:50] [Info] [@ modulemgr.go.170] module [      net-module] init...
+[2018-05-29][16:59:50] [Info] [@ tcp_acceptor.go.61] ManagerService listen at [::]:5555
+[2018-05-29][16:59:50] [Info] [@ modulemgr.go.172] module [      net-module] init[ok]
+[2018-05-29][16:59:50] [Info] [@ modulemgr.go.176] Start Initialize Modules [ok]
+[2018-05-29][16:59:51] [Trace] [@ tcp_session.go.157] s.sc.decoder.Decode(packetid:-1004) err:unexpected EOF 
+[2018-05-29][16:59:51] [Warn] [@ tcp_session.go.117] 1 ->close: TcpSession.recvRoutine err: unexpected EOF
+[2018-05-29][16:59:51] [Trace] [@ tcp_session.go.183] 1 shutRead
+[2018-05-29][16:59:51] [Warn] [@ tcp_session.go.60] 1 ->close: TcpSession.sendRoutine err: [comm expt]normal close send
+[2018-05-29][16:59:51] [Trace] [@ tcp_session.go.194] 1 shutWrite
+[2018-05-29][16:59:51] [Warn] [@ serverserviceregiste.go.40] SessionHandlerServiceRegiste:OnSessionClosed ClearServiceBySession
+[2018-05-29][16:59:54] [Trace] [@ tcp_session.go.157] s.sc.decoder.Decode(packetid:-1004) err:proto: can't skip unknown wire type 7 for protocol.SSPacketAuth 
+[2018-05-29][16:59:54] [Warn] [@ tcp_session.go.117] 2 ->close: TcpSession.recvRoutine err: proto: can't skip unknown wire type 7 for protocol.SSPacketAuth
+[2018-05-29][16:59:54] [Trace] [@ tcp_session.go.183] 2 shutRead
+[2018-05-29][16:59:54] [Warn] [@ tcp_session.go.60] 2 ->close: TcpSession.sendRoutine err: [comm expt]normal close send
+[2018-05-29][16:59:54] [Trace] [@ tcp_session.go.194] 2 shutWrite
+[2018-05-29][16:59:54] [Warn] [@ serverserviceregiste.go.40] SessionHandlerServiceRegiste:OnSessionClosed ClearServiceBySession
+[2018-05-29][16:59:54] [Trace] [@ tcp_session.go.157] s.sc.decoder.Decode(packetid:-1004) err:proto: can't skip unknown wire type 7 for protocol.SSPacketAuth 
+[2018-05-29][16:59:54] [Warn] [@ tcp_session.go.117] 3 ->close: TcpSession.recvRoutine err: proto: can't skip unknown wire type 7 for protocol.SSPacketAuth
+[2018-05-29][16:59:54] [Trace] [@ tcp_session.go.183] 3 shutRead
+[2018-05-29][16:59:54] [Warn] [@ tcp_session.go.60] 3 ->close: TcpSession.sendRoutine err: [comm expt]normal close send
+[2018-05-29][16:59:54] [Trace] [@ tcp_session.go.194] 3 shutWrite
+[2018-05-29][16:59:55] [Warn] [@ serverserviceregiste.go.40] SessionHandlerServiceRegiste:OnSessionClosed ClearServiceBySession
+[2018-05-29][16:59:55] [Trace] [@ tcp_session.go.157] s.sc.decoder.Decode(packetid:-1004) err:proto: can't skip unknown wire type 7 for protocol.SSPacketAuth 
+[2018-05-29][16:59:55] [Warn] [@ tcp_session.go.117] 4 ->close: TcpSession.recvRoutine err: proto: can't skip unknown wire type 7 for protocol.SSPacketAuth
+[2018-05-29][16:59:55] [Trace] [@ tcp_session.go.183] 4 shutRead
+[2018-05-29][16:59:55] [Warn] [@ tcp_session.go.60] 4 ->close: TcpSession.sendRoutine err: [comm expt]normal close send
+[2018-05-29][16:59:55] [Trace] [@ tcp_session.go.194] 4 shutWrite
+[2018-05-29][16:59:55] [Warn] [@ serverserviceregiste.go.40] SessionHandlerServiceRegiste:OnSessionClosed ClearServiceBySession
+[2018-05-29][17:03:35] [Info] [@ modulemgr.go.76] module [      net-module] registe;interval=0s,priority=2147483647
+[2018-05-29][17:03:35] [Info] [@ modulemgr.go.76] module [      dtc-module] registe;interval=1h0m0s,priority=1
+[2018-05-29][17:03:35] [Info] [@ loader.go.66] package [          module] load success
+[2018-05-29][17:03:35] [Info] [@ config.go.77] =================
+[2018-05-29][17:03:35] [Info] [@ config.go.77] manager server
+[2018-05-29][17:03:35] [Info] [@ config.go.77] =================
+[2018-05-29][17:03:35] [Info] [@ loader.go.66] package [          netlib] load success
+[2018-05-29][17:03:35] [Trace] [@ timer.go.32] Timer Start
+[2018-05-29][17:03:35] [Trace] [@ timer.go.42] Timer Start [ok]
+[2018-05-29][17:03:35] [Info] [@ loader.go.66] package [           timer] load success
+[2018-05-29][17:03:35] [Error] [@ loader.go.73] Package tx init data not exist.
+[2018-05-29][17:03:35] [Info] [@ loader.go.66] package [         cmdline] load success
+[2018-05-29][17:03:35] [Error] [@ loader.go.73] Package signal init data not exist.
+[2018-05-29][17:03:35] [Info] [@ loader.go.66] package [            core] load success
+[2018-05-29][17:03:35] [Error] [@ loader.go.73] Package profile init data not exist.
+[2018-05-29][17:03:35] [Info] [@ modulemgr.go.138] Startup PreloadModules
+[2018-05-29][17:03:35] [Info] [@ modulemgr.go.144] Startup PreloadModules [ok]
+[2018-05-29][17:03:35] [Info] [@ modulemgr.go.166] Start Initialize Modules
+[2018-05-29][17:03:35] [Info] [@ modulemgr.go.170] module [      dtc-module] init...
+[2018-05-29][17:03:35] [Info] [@ modulemgr.go.172] module [      dtc-module] init[ok]
+[2018-05-29][17:03:35] [Info] [@ modulemgr.go.170] module [      net-module] init...
+[2018-05-29][17:03:35] [Info] [@ tcp_acceptor.go.61] ManagerService listen at [::]:5555
+[2018-05-29][17:03:35] [Info] [@ modulemgr.go.172] module [      net-module] init[ok]
+[2018-05-29][17:03:35] [Info] [@ modulemgr.go.176] Start Initialize Modules [ok]
+[2018-05-29][17:03:42] [Trace] [@ tcp_session.go.157] s.sc.decoder.Decode(packetid:-1004) err:proto: can't skip unknown wire type 7 for protocol.SSPacketAuth 
+[2018-05-29][17:03:42] [Warn] [@ tcp_session.go.117] 1 ->close: TcpSession.recvRoutine err: proto: can't skip unknown wire type 7 for protocol.SSPacketAuth
+[2018-05-29][17:03:42] [Trace] [@ tcp_session.go.183] 1 shutRead
+[2018-05-29][17:03:42] [Warn] [@ tcp_session.go.60] 1 ->close: TcpSession.sendRoutine err: [comm expt]normal close send
+[2018-05-29][17:03:42] [Trace] [@ tcp_session.go.194] 1 shutWrite
+[2018-05-29][17:03:42] [Warn] [@ serverserviceregiste.go.40] SessionHandlerServiceRegiste:OnSessionClosed ClearServiceBySession
+[2018-05-29][17:05:50] [Info] [@ modulemgr.go.76] module [      net-module] registe;interval=0s,priority=2147483647
+[2018-05-29][17:05:50] [Info] [@ modulemgr.go.76] module [      dtc-module] registe;interval=1h0m0s,priority=1
+[2018-05-29][17:05:50] [Info] [@ config.go.77] =================
+[2018-05-29][17:05:50] [Info] [@ config.go.77] manager server
+[2018-05-29][17:05:50] [Info] [@ config.go.77] =================
+[2018-05-29][17:05:50] [Info] [@ loader.go.66] package [          netlib] load success
+[2018-05-29][17:05:50] [Trace] [@ timer.go.32] Timer Start
+[2018-05-29][17:05:50] [Trace] [@ timer.go.42] Timer Start [ok]
+[2018-05-29][17:05:50] [Info] [@ loader.go.66] package [           timer] load success
+[2018-05-29][17:05:50] [Error] [@ loader.go.73] Package tx init data not exist.
+[2018-05-29][17:05:50] [Info] [@ loader.go.66] package [         cmdline] load success
+[2018-05-29][17:05:50] [Error] [@ loader.go.73] Package signal init data not exist.
+[2018-05-29][17:05:50] [Info] [@ loader.go.66] package [            core] load success
+[2018-05-29][17:05:50] [Error] [@ loader.go.73] Package profile init data not exist.
+[2018-05-29][17:05:50] [Info] [@ loader.go.66] package [          module] load success
+[2018-05-29][17:05:50] [Info] [@ modulemgr.go.138] Startup PreloadModules
+[2018-05-29][17:05:50] [Info] [@ modulemgr.go.144] Startup PreloadModules [ok]
+[2018-05-29][17:05:51] [Info] [@ modulemgr.go.166] Start Initialize Modules
+[2018-05-29][17:05:51] [Info] [@ modulemgr.go.170] module [      dtc-module] init...
+[2018-05-29][17:05:51] [Info] [@ modulemgr.go.172] module [      dtc-module] init[ok]
+[2018-05-29][17:05:51] [Info] [@ modulemgr.go.170] module [      net-module] init...
+[2018-05-29][17:05:51] [Info] [@ tcp_acceptor.go.61] ManagerService listen at [::]:5555
+[2018-05-29][17:05:51] [Info] [@ modulemgr.go.172] module [      net-module] init[ok]
+[2018-05-29][17:05:51] [Info] [@ modulemgr.go.176] Start Initialize Modules [ok]
+[2018-05-29][17:05:58] [Trace] [@ tcp_session.go.157] s.sc.decoder.Decode(packetid:-1004) err:proto: can't skip unknown wire type 7 for protocol.SSPacketAuth 
+[2018-05-29][17:05:58] [Warn] [@ tcp_session.go.117] 1 ->close: TcpSession.recvRoutine err: proto: can't skip unknown wire type 7 for protocol.SSPacketAuth
+[2018-05-29][17:05:58] [Trace] [@ tcp_session.go.183] 1 shutRead
+[2018-05-29][17:05:58] [Warn] [@ tcp_session.go.60] 1 ->close: TcpSession.sendRoutine err: [comm expt]normal close send
+[2018-05-29][17:05:58] [Trace] [@ tcp_session.go.194] 1 shutWrite
+[2018-05-29][17:05:58] [Warn] [@ serverserviceregiste.go.40] SessionHandlerServiceRegiste:OnSessionClosed ClearServiceBySession
+[2018-05-29][17:27:29] [Info] [@ modulemgr.go.76] module [      net-module] registe;interval=0s,priority=2147483647
+[2018-05-29][17:27:29] [Info] [@ modulemgr.go.76] module [      dtc-module] registe;interval=1h0m0s,priority=1
+[2018-05-29][17:27:29] [Trace] [@ timer.go.32] Timer Start
+[2018-05-29][17:27:29] [Trace] [@ timer.go.42] Timer Start [ok]
+[2018-05-29][17:27:29] [Info] [@ loader.go.66] package [           timer] load success
+[2018-05-29][17:27:29] [Error] [@ loader.go.73] Package tx init data not exist.
+[2018-05-29][17:27:29] [Info] [@ loader.go.66] package [         cmdline] load success
+[2018-05-29][17:27:29] [Error] [@ loader.go.73] Package signal init data not exist.
+[2018-05-29][17:27:29] [Info] [@ loader.go.66] package [            core] load success
+[2018-05-29][17:27:29] [Error] [@ loader.go.73] Package profile init data not exist.
+[2018-05-29][17:27:29] [Info] [@ loader.go.66] package [          module] load success
+[2018-05-29][17:27:29] [Info] [@ config.go.77] =================
+[2018-05-29][17:27:29] [Info] [@ config.go.77] manager server
+[2018-05-29][17:27:29] [Info] [@ config.go.77] =================
+[2018-05-29][17:27:29] [Info] [@ loader.go.66] package [          netlib] load success
+[2018-05-29][17:27:29] [Info] [@ modulemgr.go.138] Startup PreloadModules
+[2018-05-29][17:27:29] [Info] [@ modulemgr.go.144] Startup PreloadModules [ok]
+[2018-05-29][17:27:29] [Info] [@ modulemgr.go.166] Start Initialize Modules
+[2018-05-29][17:27:29] [Info] [@ modulemgr.go.170] module [      dtc-module] init...
+[2018-05-29][17:27:29] [Info] [@ modulemgr.go.172] module [      dtc-module] init[ok]
+[2018-05-29][17:27:29] [Info] [@ modulemgr.go.170] module [      net-module] init...
+[2018-05-29][17:27:29] [Info] [@ tcp_acceptor.go.61] ManagerService listen at [::]:5555
+[2018-05-29][17:27:29] [Info] [@ modulemgr.go.172] module [      net-module] init[ok]
+[2018-05-29][17:27:29] [Info] [@ modulemgr.go.176] Start Initialize Modules [ok]
+[2018-05-29][17:28:31] [Info] [@ modulemgr.go.76] module [      net-module] registe;interval=0s,priority=2147483647
+[2018-05-29][17:28:31] [Info] [@ modulemgr.go.76] module [      dtc-module] registe;interval=1h0m0s,priority=1
+[2018-05-29][17:28:31] [Error] [@ loader.go.73] Package signal init data not exist.
+[2018-05-29][17:28:31] [Info] [@ loader.go.66] package [            core] load success
+[2018-05-29][17:28:31] [Error] [@ loader.go.73] Package profile init data not exist.
+[2018-05-29][17:28:31] [Info] [@ loader.go.66] package [          module] load success
+[2018-05-29][17:28:31] [Info] [@ config.go.77] =================
+[2018-05-29][17:28:31] [Info] [@ config.go.77] manager server
+[2018-05-29][17:28:31] [Info] [@ config.go.77] =================
+[2018-05-29][17:28:31] [Info] [@ loader.go.66] package [          netlib] load success
+[2018-05-29][17:28:31] [Trace] [@ timer.go.32] Timer Start
+[2018-05-29][17:28:31] [Trace] [@ timer.go.42] Timer Start [ok]
+[2018-05-29][17:28:31] [Info] [@ loader.go.66] package [           timer] load success
+[2018-05-29][17:28:31] [Error] [@ loader.go.73] Package tx init data not exist.
+[2018-05-29][17:28:31] [Info] [@ loader.go.66] package [         cmdline] load success
+[2018-05-29][17:28:31] [Info] [@ modulemgr.go.138] Startup PreloadModules
+[2018-05-29][17:28:31] [Info] [@ modulemgr.go.144] Startup PreloadModules [ok]
+[2018-05-29][17:28:31] [Info] [@ modulemgr.go.166] Start Initialize Modules
+[2018-05-29][17:28:31] [Info] [@ modulemgr.go.170] module [      dtc-module] init...
+[2018-05-29][17:28:31] [Info] [@ modulemgr.go.172] module [      dtc-module] init[ok]
+[2018-05-29][17:28:31] [Info] [@ modulemgr.go.170] module [      net-module] init...
+[2018-05-29][17:28:31] [Info] [@ tcp_acceptor.go.61] ManagerService listen at [::]:5555
+[2018-05-29][17:28:31] [Info] [@ modulemgr.go.172] module [      net-module] init[ok]
+[2018-05-29][17:28:31] [Info] [@ modulemgr.go.176] Start Initialize Modules [ok]
+[2018-05-29][17:29:42] [Info] [@ modulemgr.go.76] module [      net-module] registe;interval=0s,priority=2147483647
+[2018-05-29][17:29:42] [Info] [@ modulemgr.go.76] module [      dtc-module] registe;interval=1h0m0s,priority=1
+[2018-05-29][17:29:42] [Error] [@ loader.go.73] Package profile init data not exist.
+[2018-05-29][17:29:42] [Info] [@ loader.go.66] package [          module] load success
+[2018-05-29][17:29:42] [Info] [@ config.go.77] =================
+[2018-05-29][17:29:42] [Info] [@ config.go.77] manager server
+[2018-05-29][17:29:42] [Info] [@ config.go.77] =================
+[2018-05-29][17:29:42] [Info] [@ loader.go.66] package [          netlib] load success
+[2018-05-29][17:29:42] [Trace] [@ timer.go.32] Timer Start
+[2018-05-29][17:29:42] [Trace] [@ timer.go.42] Timer Start [ok]
+[2018-05-29][17:29:42] [Info] [@ loader.go.66] package [           timer] load success
+[2018-05-29][17:29:42] [Error] [@ loader.go.73] Package tx init data not exist.
+[2018-05-29][17:29:42] [Info] [@ loader.go.66] package [         cmdline] load success
+[2018-05-29][17:29:42] [Error] [@ loader.go.73] Package signal init data not exist.
+[2018-05-29][17:29:42] [Info] [@ loader.go.66] package [            core] load success
+[2018-05-29][17:29:42] [Info] [@ modulemgr.go.138] Startup PreloadModules
+[2018-05-29][17:29:42] [Info] [@ modulemgr.go.144] Startup PreloadModules [ok]
+[2018-05-29][17:29:42] [Info] [@ modulemgr.go.166] Start Initialize Modules
+[2018-05-29][17:29:42] [Info] [@ modulemgr.go.170] module [      dtc-module] init...
+[2018-05-29][17:29:42] [Info] [@ modulemgr.go.172] module [      dtc-module] init[ok]
+[2018-05-29][17:29:42] [Info] [@ modulemgr.go.170] module [      net-module] init...
+[2018-05-29][17:29:42] [Info] [@ tcp_acceptor.go.61] ManagerService listen at [::]:5555
+[2018-05-29][17:29:42] [Info] [@ modulemgr.go.172] module [      net-module] init[ok]
+[2018-05-29][17:29:42] [Info] [@ modulemgr.go.176] Start Initialize Modules [ok]
+[2018-05-29][17:29:42] [Trace] [@ tcp_session.go.157] s.sc.decoder.Decode(packetid:-1004) err:proto: can't skip unknown wire type 7 for protocol.SSPacketAuth 
+[2018-05-29][17:29:42] [Warn] [@ tcp_session.go.117] 1 ->close: TcpSession.recvRoutine err: proto: can't skip unknown wire type 7 for protocol.SSPacketAuth
+[2018-05-29][17:29:42] [Trace] [@ tcp_session.go.183] 1 shutRead
+[2018-05-29][17:29:42] [Warn] [@ tcp_session.go.60] 1 ->close: TcpSession.sendRoutine err: [comm expt]normal close send
+[2018-05-29][17:29:42] [Trace] [@ tcp_session.go.194] 1 shutWrite
+[2018-05-29][17:29:42] [Warn] [@ serverserviceregiste.go.40] SessionHandlerServiceRegiste:OnSessionClosed ClearServiceBySession
+[2018-05-29][17:32:30] [Info] [@ modulemgr.go.76] module [      net-module] registe;interval=0s,priority=2147483647
+[2018-05-29][17:32:30] [Info] [@ modulemgr.go.76] module [      dtc-module] registe;interval=1h0m0s,priority=1
+[2018-05-29][17:32:30] [Trace] [@ timer.go.32] Timer Start
+[2018-05-29][17:32:30] [Trace] [@ timer.go.42] Timer Start [ok]
+[2018-05-29][17:32:30] [Info] [@ loader.go.66] package [           timer] load success
+[2018-05-29][17:32:30] [Error] [@ loader.go.73] Package tx init data not exist.
+[2018-05-29][17:32:30] [Info] [@ loader.go.66] package [         cmdline] load success
+[2018-05-29][17:32:30] [Error] [@ loader.go.73] Package signal init data not exist.
+[2018-05-29][17:32:30] [Info] [@ loader.go.66] package [            core] load success
+[2018-05-29][17:32:30] [Error] [@ loader.go.73] Package profile init data not exist.
+[2018-05-29][17:32:30] [Info] [@ loader.go.66] package [          module] load success
+[2018-05-29][17:32:30] [Info] [@ config.go.77] =================
+[2018-05-29][17:32:30] [Info] [@ config.go.77] manager server
+[2018-05-29][17:32:30] [Info] [@ config.go.77] =================
+[2018-05-29][17:32:30] [Info] [@ loader.go.66] package [          netlib] load success
+[2018-05-29][17:32:30] [Info] [@ modulemgr.go.138] Startup PreloadModules
+[2018-05-29][17:32:30] [Info] [@ modulemgr.go.144] Startup PreloadModules [ok]
+[2018-05-29][17:32:30] [Info] [@ modulemgr.go.166] Start Initialize Modules
+[2018-05-29][17:32:30] [Info] [@ modulemgr.go.170] module [      dtc-module] init...
+[2018-05-29][17:32:30] [Info] [@ modulemgr.go.172] module [      dtc-module] init[ok]
+[2018-05-29][17:32:30] [Info] [@ modulemgr.go.170] module [      net-module] init...
+[2018-05-29][17:32:30] [Info] [@ tcp_acceptor.go.61] ManagerService listen at [::]:5555
+[2018-05-29][17:32:30] [Info] [@ modulemgr.go.172] module [      net-module] init[ok]
+[2018-05-29][17:32:30] [Info] [@ modulemgr.go.176] Start Initialize Modules [ok]
+[2018-05-29][17:32:36] [Trace] [@ tcp_session.go.157] s.sc.decoder.Decode(packetid:-1004) err:proto: can't skip unknown wire type 7 for protocol.SSPacketAuth 
+[2018-05-29][17:32:36] [Warn] [@ tcp_session.go.117] 1 ->close: TcpSession.recvRoutine err: proto: can't skip unknown wire type 7 for protocol.SSPacketAuth
+[2018-05-29][17:32:36] [Trace] [@ tcp_session.go.183] 1 shutRead
+[2018-05-29][17:32:36] [Warn] [@ tcp_session.go.60] 1 ->close: TcpSession.sendRoutine err: [comm expt]normal close send
+[2018-05-29][17:32:36] [Trace] [@ tcp_session.go.194] 1 shutWrite
+[2018-05-29][17:32:36] [Warn] [@ serverserviceregiste.go.40] SessionHandlerServiceRegiste:OnSessionClosed ClearServiceBySession
+[2018-05-29][17:34:04] [Info] [@ modulemgr.go.76] module [      net-module] registe;interval=0s,priority=2147483647
+[2018-05-29][17:34:04] [Info] [@ modulemgr.go.76] module [      dtc-module] registe;interval=1h0m0s,priority=1
+[2018-05-29][17:34:04] [Info] [@ loader.go.66] package [         cmdline] load success
+[2018-05-29][17:34:04] [Error] [@ loader.go.73] Package signal init data not exist.
+[2018-05-29][17:34:04] [Info] [@ loader.go.66] package [            core] load success
+[2018-05-29][17:34:04] [Error] [@ loader.go.73] Package profile init data not exist.
+[2018-05-29][17:34:04] [Info] [@ loader.go.66] package [          module] load success
+[2018-05-29][17:34:04] [Info] [@ config.go.77] =================
+[2018-05-29][17:34:04] [Info] [@ config.go.77] manager server
+[2018-05-29][17:34:04] [Info] [@ config.go.77] =================
+[2018-05-29][17:34:04] [Info] [@ loader.go.66] package [          netlib] load success
+[2018-05-29][17:34:04] [Trace] [@ timer.go.32] Timer Start
+[2018-05-29][17:34:04] [Trace] [@ timer.go.42] Timer Start [ok]
+[2018-05-29][17:34:04] [Info] [@ loader.go.66] package [           timer] load success
+[2018-05-29][17:34:04] [Error] [@ loader.go.73] Package tx init data not exist.
+[2018-05-29][17:34:04] [Info] [@ modulemgr.go.138] Startup PreloadModules
+[2018-05-29][17:34:04] [Info] [@ modulemgr.go.144] Startup PreloadModules [ok]
+[2018-05-29][17:34:05] [Info] [@ modulemgr.go.166] Start Initialize Modules
+[2018-05-29][17:34:05] [Info] [@ modulemgr.go.170] module [      dtc-module] init...
+[2018-05-29][17:34:05] [Info] [@ modulemgr.go.172] module [      dtc-module] init[ok]
+[2018-05-29][17:34:05] [Info] [@ modulemgr.go.170] module [      net-module] init...
+[2018-05-29][17:34:05] [Info] [@ tcp_acceptor.go.61] ManagerService listen at [::]:5555
+[2018-05-29][17:34:05] [Info] [@ modulemgr.go.172] module [      net-module] init[ok]
+[2018-05-29][17:34:05] [Info] [@ modulemgr.go.176] Start Initialize Modules [ok]
+[2018-05-29][17:34:06] [Trace] [@ authentication.go.64] AuthenticationFilter rawtext=1527586446;1234567890 IsInnerLink(true)
+[2018-05-29][17:34:06] [Trace] [@ serversessionmgr.go.35] ServerSessionMgr.RegisteSession Id:601 Type:6 AreaId:1 Name:"WorldServer" Data:"" 
+[2018-05-29][17:34:06] [Trace] [@ servicemgr.go.49] (this *serviceMgr) RegisteService: WorldService Ip=127.0.0.1 Port=6001

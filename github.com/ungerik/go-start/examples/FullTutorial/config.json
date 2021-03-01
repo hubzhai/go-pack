@@ -1,0 +1,42 @@
+{
+    "email": {
+        "Host": "smtp.gmail.com",
+        "Username": "gostarttutorial@gmail.com",
+        "Password": "gopher123",
+        "From": {
+            "Name": "Gopher"
+        }
+    },
+    "mongo": {
+        "Database": "gostarttutorial",
+        "User": "",
+        "Password": ""
+    },
+    "media": {
+        "Admin": {
+            "ButtonClass": "button"
+        }
+    },
+    "user": {
+        "CollectionName": "users"
+    },
+    "view": {
+        "ListenAndServeAt": "0.0.0.0:80",
+        "Debug": {
+            "ListenAndServeAt": "0.0.0.0:8080"
+        },
+        "ProductionServerIPs": [
+        ],
+        "SiteName": "go-start Tutorial",
+        "BaseDirs": [
+            ".",
+            "../../",
+            "../../media/"
+        ],
+        "RedirectSubdomains": ["www"],
+        "Page": {
+            "DefaultMetaViewport": "width=1000px"
+        },
+        "CookieSecret": "Test123"
+    }
+}

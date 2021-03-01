@@ -1,0 +1,513 @@
+[2018-01-24][12:03:31] [Info] [@ modulemgr.go.66] module [      net-module] registe;interval=0s,priority=2147483647
+[2018-01-24][12:03:31] [Info] [@ modulemgr.go.66] module [      dtc-module] registe;interval=1h0m0s,priority=1
+[2018-01-24][12:03:31] [Info] [@ loader.go.87] package [            core] load success
+[2018-01-24][12:03:31] [Info] [@ loader.go.87] package [          module] load success
+[2018-01-24][12:03:31] [Info] [@ config.go.75] =================
+[2018-01-24][12:03:31] [Info] [@ config.go.75] echo server
+[2018-01-24][12:03:31] [Info] [@ config.go.75] =================
+[2018-01-24][12:03:31] [Info] [@ loader.go.87] package [          netlib] load success
+[2018-01-24][12:03:31] [Trace] [@ timer.go.32] Timer Start
+[2018-01-24][12:03:31] [Trace] [@ timer.go.42] Timer Start [ok]
+[2018-01-24][12:03:31] [Info] [@ loader.go.87] package [           timer] load success
+[2018-01-24][12:03:31] [Info] [@ modulemgr.go.128] Startup PreloadModules
+[2018-01-24][12:03:31] [Info] [@ modulemgr.go.134] Startup PreloadModules [ok]
+[2018-01-24][12:03:31] [Info] [@ modulemgr.go.156] Start Initialize Modules
+[2018-01-24][12:03:31] [Info] [@ modulemgr.go.160] module [      dtc-module] init...
+[2018-01-24][12:03:31] [Info] [@ modulemgr.go.162] module [      dtc-module] init[ok]
+[2018-01-24][12:03:31] [Info] [@ modulemgr.go.160] module [      net-module] init...
+[2018-01-24][12:03:31] [Info] [@ modulemgr.go.162] module [      net-module] init[ok]
+[2018-01-24][12:03:31] [Info] [@ modulemgr.go.166] Start Initialize Modules [ok]
+[2018-01-24][12:03:37] [Trace] [@ trace.go.38] SessionFilterTrace.OnSessionOpened sid=1
+[2018-01-24][12:03:37] [Trace] [@ trace.go.53] SessionFilterTrace.OnPacketReceived sid=1 packetid=-1004 packet=*protocol.SSPacketAuth
+[2018-01-24][12:03:37] [Trace] [@ authentication.go.64] AuthenticationFilter rawtext=1516766617;1234567890 IsInnerLink(true)
+[2018-01-24][12:03:37] [Trace] [@ trace.go.53] SessionFilterTrace.OnPacketReceived sid=1 packetid=1000 packet=*protocol.CSPacketPing
+[2018-01-24][12:03:37] [Trace] [@ trace.go.69] SessionFilterTrace.OnPacketSent sid=1 size=50
+[2018-01-24][12:06:26] [Info] [@ ws_session.go.150] s.conn.NextReader err:read tcp 127.0.0.1:2345->127.0.0.1:7119: wsarecv: An existing connection was forcibly closed by the remote host.
+[2018-01-24][12:06:26] [Trace] [@ ws_session.go.124] 1 ->close: Session.procRecv err: read tcp 127.0.0.1:2345->127.0.0.1:7119: wsarecv: An existing connection was forcibly closed by the remote host.
+[2018-01-24][12:06:26] [Trace] [@ ws_session.go.201] 1 shutRead
+[2018-01-24][12:06:26] [Trace] [@ ws_session.go.58] 1 ->close: Session.procSend err: [comm expt]normal close send
+[2018-01-24][12:06:26] [Trace] [@ ws_session.go.213] 1 shutWrite
+[2018-01-24][12:06:26] [Trace] [@ trace.go.43] SessionFilterTrace.OnSessionClosed sid=1
+[2018-01-24][12:07:23] [Info] [@ modulemgr.go.66] module [      net-module] registe;interval=0s,priority=2147483647
+[2018-01-24][12:07:23] [Info] [@ modulemgr.go.66] module [      dtc-module] registe;interval=1h0m0s,priority=1
+[2018-01-24][12:07:23] [Info] [@ loader.go.87] package [          module] load success
+[2018-01-24][12:07:23] [Info] [@ config.go.75] =================
+[2018-01-24][12:07:23] [Info] [@ config.go.75] echo server
+[2018-01-24][12:07:23] [Info] [@ config.go.75] =================
+[2018-01-24][12:07:23] [Info] [@ loader.go.87] package [          netlib] load success
+[2018-01-24][12:07:23] [Trace] [@ timer.go.32] Timer Start
+[2018-01-24][12:07:23] [Trace] [@ timer.go.42] Timer Start [ok]
+[2018-01-24][12:07:23] [Info] [@ loader.go.87] package [           timer] load success
+[2018-01-24][12:07:23] [Info] [@ loader.go.87] package [            core] load success
+[2018-01-24][12:07:23] [Info] [@ modulemgr.go.128] Startup PreloadModules
+[2018-01-24][12:07:23] [Info] [@ modulemgr.go.134] Startup PreloadModules [ok]
+[2018-01-24][12:07:23] [Info] [@ modulemgr.go.156] Start Initialize Modules
+[2018-01-24][12:07:23] [Info] [@ modulemgr.go.160] module [      dtc-module] init...
+[2018-01-24][12:07:23] [Info] [@ modulemgr.go.162] module [      dtc-module] init[ok]
+[2018-01-24][12:07:23] [Info] [@ modulemgr.go.160] module [      net-module] init...
+[2018-01-24][12:07:23] [Info] [@ modulemgr.go.162] module [      net-module] init[ok]
+[2018-01-24][12:07:23] [Info] [@ modulemgr.go.166] Start Initialize Modules [ok]
+[2018-01-24][12:07:24] [Trace] [@ trace.go.38] SessionFilterTrace.OnSessionOpened sid=1
+[2018-01-24][12:07:24] [Trace] [@ trace.go.53] SessionFilterTrace.OnPacketReceived sid=1 packetid=-1004 packet=*protocol.SSPacketAuth
+[2018-01-24][12:07:24] [Trace] [@ authentication.go.64] AuthenticationFilter rawtext=1516766844;1234567890 IsInnerLink(true)
+[2018-01-24][12:07:24] [Trace] [@ trace.go.53] SessionFilterTrace.OnPacketReceived sid=1 packetid=1000 packet=*protocol.CSPacketPing
+[2018-01-24][12:07:24] [Trace] [@ trace.go.69] SessionFilterTrace.OnPacketSent sid=1 size=50
+[2018-01-24][12:21:01] [Info] [@ modulemgr.go.66] module [      net-module] registe;interval=0s,priority=2147483647
+[2018-01-24][12:21:01] [Info] [@ modulemgr.go.66] module [      dtc-module] registe;interval=1h0m0s,priority=1
+[2018-01-24][12:21:01] [Info] [@ loader.go.87] package [            core] load success
+[2018-01-24][12:21:01] [Info] [@ loader.go.87] package [          module] load success
+[2018-01-24][12:21:01] [Info] [@ config.go.75] =================
+[2018-01-24][12:21:01] [Info] [@ config.go.75] echo server
+[2018-01-24][12:21:01] [Info] [@ config.go.75] =================
+[2018-01-24][12:21:01] [Info] [@ loader.go.87] package [          netlib] load success
+[2018-01-24][12:21:01] [Trace] [@ timer.go.32] Timer Start
+[2018-01-24][12:21:01] [Trace] [@ timer.go.42] Timer Start [ok]
+[2018-01-24][12:21:01] [Info] [@ loader.go.87] package [           timer] load success
+[2018-01-24][12:21:01] [Info] [@ modulemgr.go.128] Startup PreloadModules
+[2018-01-24][12:21:01] [Info] [@ modulemgr.go.134] Startup PreloadModules [ok]
+[2018-01-24][12:21:01] [Info] [@ modulemgr.go.156] Start Initialize Modules
+[2018-01-24][12:21:01] [Info] [@ modulemgr.go.160] module [      dtc-module] init...
+[2018-01-24][12:21:01] [Info] [@ modulemgr.go.162] module [      dtc-module] init[ok]
+[2018-01-24][12:21:01] [Info] [@ modulemgr.go.160] module [      net-module] init...
+[2018-01-24][12:21:01] [Info] [@ modulemgr.go.162] module [      net-module] init[ok]
+[2018-01-24][12:21:01] [Info] [@ modulemgr.go.166] Start Initialize Modules [ok]
+[2018-01-24][12:21:07] [Trace] [@ trace.go.38] SessionFilterTrace.OnSessionOpened sid=1
+[2018-01-24][12:21:07] [Trace] [@ trace.go.53] SessionFilterTrace.OnPacketReceived sid=1 packetid=-1004 packet=*protocol.SSPacketAuth
+[2018-01-24][12:21:07] [Trace] [@ authentication.go.64] AuthenticationFilter rawtext=1516767667;1234567890 IsInnerLink(true)
+[2018-01-24][12:21:07] [Trace] [@ trace.go.53] SessionFilterTrace.OnPacketReceived sid=1 packetid=1000 packet=*protocol.CSPacketPing
+[2018-01-24][12:21:07] [Trace] [@ ws_session.go.182] packet:1000 packet receiveddddddddddddddddddddd
+[2018-01-24][12:21:07] [Trace] [@ trace.go.69] SessionFilterTrace.OnPacketSent sid=1 size=50
+[2018-01-24][12:23:24] [Info] [@ ws_session.go.150] s.conn.NextReader err:read tcp 127.0.0.1:2345->127.0.0.1:7522: wsarecv: An existing connection was forcibly closed by the remote host.
+[2018-01-24][12:23:24] [Trace] [@ ws_session.go.124] 1 ->close: Session.procRecv err: read tcp 127.0.0.1:2345->127.0.0.1:7522: wsarecv: An existing connection was forcibly closed by the remote host.
+[2018-01-24][12:23:24] [Trace] [@ ws_session.go.202] 1 shutRead
+[2018-01-24][12:23:24] [Trace] [@ ws_session.go.58] 1 ->close: Session.procSend err: [comm expt]normal close send
+[2018-01-24][12:23:24] [Trace] [@ ws_session.go.214] 1 shutWrite
+[2018-01-24][12:23:25] [Trace] [@ trace.go.43] SessionFilterTrace.OnSessionClosed sid=1
+[2018-01-24][12:23:35] [Info] [@ modulemgr.go.66] module [      net-module] registe;interval=0s,priority=2147483647
+[2018-01-24][12:23:35] [Info] [@ modulemgr.go.66] module [      dtc-module] registe;interval=1h0m0s,priority=1
+[2018-01-24][12:23:35] [Info] [@ loader.go.87] package [            core] load success
+[2018-01-24][12:23:35] [Info] [@ loader.go.87] package [          module] load success
+[2018-01-24][12:23:35] [Info] [@ config.go.75] =================
+[2018-01-24][12:23:35] [Info] [@ config.go.75] echo server
+[2018-01-24][12:23:35] [Info] [@ config.go.75] =================
+[2018-01-24][12:23:35] [Info] [@ loader.go.87] package [          netlib] load success
+[2018-01-24][12:23:35] [Trace] [@ timer.go.32] Timer Start
+[2018-01-24][12:23:35] [Trace] [@ timer.go.42] Timer Start [ok]
+[2018-01-24][12:23:35] [Info] [@ loader.go.87] package [           timer] load success
+[2018-01-24][12:23:35] [Info] [@ modulemgr.go.128] Startup PreloadModules
+[2018-01-24][12:23:35] [Info] [@ modulemgr.go.134] Startup PreloadModules [ok]
+[2018-01-24][12:23:36] [Info] [@ modulemgr.go.156] Start Initialize Modules
+[2018-01-24][12:23:36] [Info] [@ modulemgr.go.160] module [      dtc-module] init...
+[2018-01-24][12:23:36] [Info] [@ modulemgr.go.162] module [      dtc-module] init[ok]
+[2018-01-24][12:23:36] [Info] [@ modulemgr.go.160] module [      net-module] init...
+[2018-01-24][12:23:36] [Info] [@ modulemgr.go.162] module [      net-module] init[ok]
+[2018-01-24][12:23:36] [Info] [@ modulemgr.go.166] Start Initialize Modules [ok]
+[2018-01-24][12:23:40] [Trace] [@ trace.go.38] SessionFilterTrace.OnSessionOpened sid=1
+[2018-01-24][12:23:40] [Trace] [@ trace.go.53] SessionFilterTrace.OnPacketReceived sid=1 packetid=-1004 packet=*protocol.SSPacketAuth
+[2018-01-24][12:23:40] [Trace] [@ authentication.go.64] AuthenticationFilter rawtext=1516767820;1234567890 IsInnerLink(true)
+[2018-01-24][12:23:40] [Trace] [@ trace.go.53] SessionFilterTrace.OnPacketReceived sid=1 packetid=1000 packet=*protocol.CSPacketPing
+[2018-01-24][12:23:40] [Trace] [@ ws_session.go.182] packet:1000 packet receiveddddddddddddddddddddd
+[2018-01-24][12:23:40] [Trace] [@ trace.go.69] SessionFilterTrace.OnPacketSent sid=1 size=50
+[2018-01-24][12:25:01] [Info] [@ ws_session.go.150] s.conn.NextReader err:read tcp 127.0.0.1:2345->127.0.0.1:7574: wsarecv: An existing connection was forcibly closed by the remote host.
+[2018-01-24][12:25:01] [Trace] [@ ws_session.go.124] 1 ->close: Session.procRecv err: read tcp 127.0.0.1:2345->127.0.0.1:7574: wsarecv: An existing connection was forcibly closed by the remote host.
+[2018-01-24][12:25:01] [Trace] [@ ws_session.go.202] 1 shutRead
+[2018-01-24][12:25:01] [Trace] [@ ws_session.go.58] 1 ->close: Session.procSend err: [comm expt]normal close send
+[2018-01-24][12:25:01] [Trace] [@ ws_session.go.214] 1 shutWrite
+[2018-01-24][12:25:01] [Trace] [@ trace.go.43] SessionFilterTrace.OnSessionClosed sid=1
+[2018-01-24][12:25:20] [Info] [@ modulemgr.go.66] module [      net-module] registe;interval=0s,priority=2147483647
+[2018-01-24][12:25:20] [Info] [@ modulemgr.go.66] module [      dtc-module] registe;interval=1h0m0s,priority=1
+[2018-01-24][12:25:20] [Info] [@ loader.go.87] package [            core] load success
+[2018-01-24][12:25:20] [Info] [@ loader.go.87] package [          module] load success
+[2018-01-24][12:25:20] [Info] [@ config.go.75] =================
+[2018-01-24][12:25:20] [Info] [@ config.go.75] echo server
+[2018-01-24][12:25:20] [Info] [@ config.go.75] =================
+[2018-01-24][12:25:20] [Info] [@ loader.go.87] package [          netlib] load success
+[2018-01-24][12:25:20] [Trace] [@ timer.go.32] Timer Start
+[2018-01-24][12:25:20] [Trace] [@ timer.go.42] Timer Start [ok]
+[2018-01-24][12:25:20] [Info] [@ loader.go.87] package [           timer] load success
+[2018-01-24][12:25:20] [Info] [@ modulemgr.go.128] Startup PreloadModules
+[2018-01-24][12:25:20] [Info] [@ modulemgr.go.134] Startup PreloadModules [ok]
+[2018-01-24][12:25:20] [Info] [@ modulemgr.go.156] Start Initialize Modules
+[2018-01-24][12:25:20] [Info] [@ modulemgr.go.160] module [      dtc-module] init...
+[2018-01-24][12:25:20] [Info] [@ modulemgr.go.162] module [      dtc-module] init[ok]
+[2018-01-24][12:25:20] [Info] [@ modulemgr.go.160] module [      net-module] init...
+[2018-01-24][12:25:20] [Info] [@ modulemgr.go.162] module [      net-module] init[ok]
+[2018-01-24][12:25:20] [Info] [@ modulemgr.go.166] Start Initialize Modules [ok]
+[2018-01-24][12:25:23] [Trace] [@ trace.go.38] SessionFilterTrace.OnSessionOpened sid=1
+[2018-01-24][12:25:23] [Trace] [@ trace.go.53] SessionFilterTrace.OnPacketReceived sid=1 packetid=-1004 packet=*protocol.SSPacketAuth
+[2018-01-24][12:25:23] [Trace] [@ authentication.go.64] AuthenticationFilter rawtext=1516767923;1234567890 IsInnerLink(true)
+[2018-01-24][12:25:23] [Trace] [@ trace.go.53] SessionFilterTrace.OnPacketReceived sid=1 packetid=1000 packet=*protocol.CSPacketPing
+[2018-01-24][12:25:23] [Trace] [@ ws_acceptor.go.172] =====packet:1000done
+[2018-01-24][12:25:23] [Trace] [@ trace.go.69] SessionFilterTrace.OnPacketSent sid=1 size=50
+[2018-01-24][12:27:02] [Info] [@ modulemgr.go.66] module [      net-module] registe;interval=0s,priority=2147483647
+[2018-01-24][12:27:02] [Info] [@ modulemgr.go.66] module [      dtc-module] registe;interval=1h0m0s,priority=1
+[2018-01-24][12:27:02] [Info] [@ config.go.75] =================
+[2018-01-24][12:27:02] [Info] [@ config.go.75] echo server
+[2018-01-24][12:27:02] [Info] [@ config.go.75] =================
+[2018-01-24][12:27:02] [Info] [@ loader.go.87] package [          netlib] load success
+[2018-01-24][12:27:02] [Trace] [@ timer.go.32] Timer Start
+[2018-01-24][12:27:02] [Trace] [@ timer.go.42] Timer Start [ok]
+[2018-01-24][12:27:02] [Info] [@ loader.go.87] package [           timer] load success
+[2018-01-24][12:27:02] [Info] [@ loader.go.87] package [            core] load success
+[2018-01-24][12:27:02] [Info] [@ loader.go.87] package [          module] load success
+[2018-01-24][12:27:02] [Info] [@ modulemgr.go.128] Startup PreloadModules
+[2018-01-24][12:27:02] [Info] [@ modulemgr.go.134] Startup PreloadModules [ok]
+[2018-01-24][12:27:03] [Info] [@ modulemgr.go.156] Start Initialize Modules
+[2018-01-24][12:27:03] [Info] [@ modulemgr.go.160] module [      dtc-module] init...
+[2018-01-24][12:27:03] [Info] [@ modulemgr.go.162] module [      dtc-module] init[ok]
+[2018-01-24][12:27:03] [Info] [@ modulemgr.go.160] module [      net-module] init...
+[2018-01-24][12:27:03] [Info] [@ modulemgr.go.162] module [      net-module] init[ok]
+[2018-01-24][12:27:03] [Info] [@ modulemgr.go.166] Start Initialize Modules [ok]
+[2018-01-24][12:27:07] [Trace] [@ trace.go.38] SessionFilterTrace.OnSessionOpened sid=1
+[2018-01-24][12:27:07] [Trace] [@ trace.go.53] SessionFilterTrace.OnPacketReceived sid=1 packetid=-1004 packet=*protocol.SSPacketAuth
+[2018-01-24][12:27:07] [Trace] [@ authentication.go.64] AuthenticationFilter rawtext=1516768027;1234567890 IsInnerLink(true)
+[2018-01-24][12:27:07] [Trace] [@ trace.go.53] SessionFilterTrace.OnPacketReceived sid=1 packetid=1000 packet=*protocol.CSPacketPing
+[2018-01-24][12:27:08] [Trace] [@ ws_acceptor.go.172] =====packet:1000done
+[2018-01-24][12:27:08] [Trace] [@ trace.go.69] SessionFilterTrace.OnPacketSent sid=1 size=50
+[2018-01-24][12:27:50] [Info] [@ ws_session.go.150] s.conn.NextReader err:read tcp 127.0.0.1:2345->127.0.0.1:7696: wsarecv: An existing connection was forcibly closed by the remote host.
+[2018-01-24][12:27:50] [Trace] [@ ws_session.go.124] 1 ->close: Session.procRecv err: read tcp 127.0.0.1:2345->127.0.0.1:7696: wsarecv: An existing connection was forcibly closed by the remote host.
+[2018-01-24][12:27:50] [Trace] [@ ws_session.go.201] 1 shutRead
+[2018-01-24][12:27:50] [Trace] [@ ws_session.go.58] 1 ->close: Session.procSend err: [comm expt]normal close send
+[2018-01-24][12:27:50] [Trace] [@ ws_session.go.213] 1 shutWrite
+[2018-01-24][12:27:50] [Trace] [@ trace.go.43] SessionFilterTrace.OnSessionClosed sid=1
+[2018-01-24][12:27:58] [Trace] [@ trace.go.38] SessionFilterTrace.OnSessionOpened sid=2
+[2018-01-24][12:27:58] [Trace] [@ trace.go.53] SessionFilterTrace.OnPacketReceived sid=2 packetid=-1004 packet=*protocol.SSPacketAuth
+[2018-01-24][12:27:58] [Trace] [@ authentication.go.64] AuthenticationFilter rawtext=1516768078;1234567890 IsInnerLink(true)
+[2018-01-24][12:27:58] [Trace] [@ trace.go.53] SessionFilterTrace.OnPacketReceived sid=2 packetid=1000 packet=*protocol.CSPacketPing
+[2018-01-24][12:27:58] [Trace] [@ ws_acceptor.go.172] =====packet:1000done
+[2018-01-24][12:27:58] [Trace] [@ trace.go.69] SessionFilterTrace.OnPacketSent sid=2 size=50
+[2018-01-24][12:28:04] [Info] [@ ws_session.go.150] s.conn.NextReader err:read tcp 127.0.0.1:2345->127.0.0.1:7717: wsarecv: An existing connection was forcibly closed by the remote host.
+[2018-01-24][12:28:04] [Trace] [@ ws_session.go.124] 2 ->close: Session.procRecv err: read tcp 127.0.0.1:2345->127.0.0.1:7717: wsarecv: An existing connection was forcibly closed by the remote host.
+[2018-01-24][12:28:04] [Trace] [@ ws_session.go.201] 2 shutRead
+[2018-01-24][12:28:04] [Trace] [@ ws_session.go.58] 2 ->close: Session.procSend err: [comm expt]normal close send
+[2018-01-24][12:28:04] [Trace] [@ ws_session.go.213] 2 shutWrite
+[2018-01-24][12:28:04] [Trace] [@ trace.go.43] SessionFilterTrace.OnSessionClosed sid=2
+[2018-01-24][12:28:39] [Trace] [@ trace.go.38] SessionFilterTrace.OnSessionOpened sid=3
+[2018-01-24][12:28:39] [Trace] [@ trace.go.53] SessionFilterTrace.OnPacketReceived sid=3 packetid=-1004 packet=*protocol.SSPacketAuth
+[2018-01-24][12:28:39] [Trace] [@ authentication.go.64] AuthenticationFilter rawtext=1516768119;1234567890 IsInnerLink(true)
+[2018-01-24][12:28:39] [Trace] [@ trace.go.53] SessionFilterTrace.OnPacketReceived sid=3 packetid=1000 packet=*protocol.CSPacketPing
+[2018-01-24][12:28:39] [Trace] [@ ws_acceptor.go.172] =====packet:1000done
+[2018-01-24][12:28:39] [Trace] [@ trace.go.69] SessionFilterTrace.OnPacketSent sid=3 size=50
+[2018-01-24][12:28:44] [Info] [@ ws_session.go.150] s.conn.NextReader err:read tcp 127.0.0.1:2345->127.0.0.1:7734: wsarecv: An existing connection was forcibly closed by the remote host.
+[2018-01-24][12:28:44] [Trace] [@ ws_session.go.124] 3 ->close: Session.procRecv err: read tcp 127.0.0.1:2345->127.0.0.1:7734: wsarecv: An existing connection was forcibly closed by the remote host.
+[2018-01-24][12:28:44] [Trace] [@ ws_session.go.201] 3 shutRead
+[2018-01-24][12:28:44] [Trace] [@ ws_session.go.58] 3 ->close: Session.procSend err: [comm expt]normal close send
+[2018-01-24][12:28:44] [Trace] [@ ws_session.go.213] 3 shutWrite
+[2018-01-24][12:28:44] [Trace] [@ trace.go.43] SessionFilterTrace.OnSessionClosed sid=3
+[2018-01-24][12:29:03] [Trace] [@ trace.go.38] SessionFilterTrace.OnSessionOpened sid=4
+[2018-01-24][12:29:03] [Trace] [@ trace.go.53] SessionFilterTrace.OnPacketReceived sid=4 packetid=-1004 packet=*protocol.SSPacketAuth
+[2018-01-24][12:29:03] [Trace] [@ authentication.go.64] AuthenticationFilter rawtext=1516768143;1234567890 IsInnerLink(true)
+[2018-01-24][12:29:03] [Trace] [@ trace.go.53] SessionFilterTrace.OnPacketReceived sid=4 packetid=1000 packet=*protocol.CSPacketPing
+[2018-01-24][12:29:03] [Trace] [@ ws_acceptor.go.172] =====packet:1000done
+[2018-01-24][12:29:03] [Trace] [@ trace.go.69] SessionFilterTrace.OnPacketSent sid=4 size=50
+[2018-01-24][12:29:03] [Trace] [@ trace.go.53] SessionFilterTrace.OnPacketReceived sid=4 packetid=1000 packet=*protocol.CSPacketPing
+[2018-01-24][12:29:03] [Trace] [@ ws_acceptor.go.172] =====packet:1000done
+[2018-01-24][12:29:03] [Trace] [@ trace.go.69] SessionFilterTrace.OnPacketSent sid=4 size=50
+[2018-01-24][12:29:03] [Trace] [@ trace.go.53] SessionFilterTrace.OnPacketReceived sid=4 packetid=1000 packet=*protocol.CSPacketPing
+[2018-01-24][12:29:03] [Trace] [@ ws_acceptor.go.172] =====packet:1000done
+[2018-01-24][12:29:03] [Trace] [@ trace.go.69] SessionFilterTrace.OnPacketSent sid=4 size=50
+[2018-01-24][12:29:03] [Trace] [@ trace.go.53] SessionFilterTrace.OnPacketReceived sid=4 packetid=1000 packet=*protocol.CSPacketPing
+[2018-01-24][12:29:04] [Trace] [@ ws_acceptor.go.172] =====packet:1000done
+[2018-01-24][12:29:04] [Trace] [@ trace.go.69] SessionFilterTrace.OnPacketSent sid=4 size=50
+[2018-01-24][12:29:04] [Trace] [@ trace.go.53] SessionFilterTrace.OnPacketReceived sid=4 packetid=1000 packet=*protocol.CSPacketPing
+[2018-01-24][12:29:04] [Trace] [@ ws_acceptor.go.172] =====packet:1000done
+[2018-01-24][12:29:04] [Trace] [@ trace.go.69] SessionFilterTrace.OnPacketSent sid=4 size=50
+[2018-01-24][12:29:04] [Trace] [@ trace.go.53] SessionFilterTrace.OnPacketReceived sid=4 packetid=1000 packet=*protocol.CSPacketPing
+[2018-01-24][12:29:04] [Trace] [@ ws_acceptor.go.172] =====packet:1000done
+[2018-01-24][12:29:04] [Trace] [@ trace.go.69] SessionFilterTrace.OnPacketSent sid=4 size=50
+[2018-01-24][12:29:04] [Trace] [@ trace.go.53] SessionFilterTrace.OnPacketReceived sid=4 packetid=1000 packet=*protocol.CSPacketPing
+[2018-01-24][12:29:04] [Trace] [@ ws_acceptor.go.172] =====packet:1000done
+[2018-01-24][12:29:04] [Trace] [@ trace.go.69] SessionFilterTrace.OnPacketSent sid=4 size=50
+[2018-01-24][12:29:04] [Trace] [@ trace.go.53] SessionFilterTrace.OnPacketReceived sid=4 packetid=1000 packet=*protocol.CSPacketPing
+[2018-01-24][12:29:04] [Trace] [@ ws_acceptor.go.172] =====packet:1000done
+[2018-01-24][12:29:04] [Trace] [@ trace.go.69] SessionFilterTrace.OnPacketSent sid=4 size=50
+[2018-01-24][12:29:04] [Trace] [@ trace.go.53] SessionFilterTrace.OnPacketReceived sid=4 packetid=1000 packet=*protocol.CSPacketPing
+[2018-01-24][12:29:04] [Trace] [@ ws_acceptor.go.172] =====packet:1000done
+[2018-01-24][12:29:04] [Trace] [@ trace.go.69] SessionFilterTrace.OnPacketSent sid=4 size=50
+[2018-01-24][12:29:04] [Trace] [@ trace.go.53] SessionFilterTrace.OnPacketReceived sid=4 packetid=1000 packet=*protocol.CSPacketPing
+[2018-01-24][12:29:04] [Trace] [@ ws_acceptor.go.172] =====packet:1000done
+[2018-01-24][12:29:04] [Trace] [@ trace.go.69] SessionFilterTrace.OnPacketSent sid=4 size=50
+[2018-01-24][12:29:05] [Trace] [@ trace.go.53] SessionFilterTrace.OnPacketReceived sid=4 packetid=1000 packet=*protocol.CSPacketPing
+[2018-01-24][12:29:05] [Trace] [@ ws_acceptor.go.172] =====packet:1000done
+[2018-01-24][12:29:05] [Trace] [@ trace.go.69] SessionFilterTrace.OnPacketSent sid=4 size=50
+[2018-01-24][12:29:05] [Trace] [@ trace.go.53] SessionFilterTrace.OnPacketReceived sid=4 packetid=1000 packet=*protocol.CSPacketPing
+[2018-01-24][12:29:05] [Trace] [@ ws_acceptor.go.172] =====packet:1000done
+[2018-01-24][12:29:05] [Trace] [@ trace.go.69] SessionFilterTrace.OnPacketSent sid=4 size=50
+[2018-01-24][12:29:05] [Trace] [@ trace.go.53] SessionFilterTrace.OnPacketReceived sid=4 packetid=1000 packet=*protocol.CSPacketPing
+[2018-01-24][12:29:05] [Trace] [@ ws_acceptor.go.172] =====packet:1000done
+[2018-01-24][12:29:05] [Trace] [@ trace.go.69] SessionFilterTrace.OnPacketSent sid=4 size=50
+[2018-01-24][12:29:05] [Trace] [@ trace.go.53] SessionFilterTrace.OnPacketReceived sid=4 packetid=1000 packet=*protocol.CSPacketPing
+[2018-01-24][12:29:05] [Trace] [@ ws_acceptor.go.172] =====packet:1000done
+[2018-01-24][12:29:05] [Trace] [@ trace.go.69] SessionFilterTrace.OnPacketSent sid=4 size=50
+[2018-01-24][12:29:05] [Trace] [@ trace.go.53] SessionFilterTrace.OnPacketReceived sid=4 packetid=1000 packet=*protocol.CSPacketPing
+[2018-01-24][12:29:05] [Trace] [@ ws_acceptor.go.172] =====packet:1000done
+[2018-01-24][12:29:05] [Trace] [@ trace.go.69] SessionFilterTrace.OnPacketSent sid=4 size=50
+[2018-01-24][12:29:05] [Trace] [@ trace.go.53] SessionFilterTrace.OnPacketReceived sid=4 packetid=1000 packet=*protocol.CSPacketPing
+[2018-01-24][12:29:05] [Trace] [@ ws_acceptor.go.172] =====packet:1000done
+[2018-01-24][12:29:05] [Trace] [@ trace.go.69] SessionFilterTrace.OnPacketSent sid=4 size=50
+[2018-01-24][12:29:06] [Trace] [@ trace.go.53] SessionFilterTrace.OnPacketReceived sid=4 packetid=1000 packet=*protocol.CSPacketPing
+[2018-01-24][12:29:06] [Trace] [@ ws_acceptor.go.172] =====packet:1000done
+[2018-01-24][12:29:06] [Trace] [@ trace.go.69] SessionFilterTrace.OnPacketSent sid=4 size=50
+[2018-01-24][12:29:06] [Trace] [@ trace.go.53] SessionFilterTrace.OnPacketReceived sid=4 packetid=1000 packet=*protocol.CSPacketPing
+[2018-01-24][12:29:06] [Trace] [@ ws_acceptor.go.172] =====packet:1000done
+[2018-01-24][12:29:06] [Trace] [@ trace.go.69] SessionFilterTrace.OnPacketSent sid=4 size=50
+[2018-01-24][12:29:06] [Trace] [@ trace.go.53] SessionFilterTrace.OnPacketReceived sid=4 packetid=1000 packet=*protocol.CSPacketPing
+[2018-01-24][12:29:06] [Trace] [@ ws_acceptor.go.172] =====packet:1000done
+[2018-01-24][12:29:06] [Trace] [@ trace.go.69] SessionFilterTrace.OnPacketSent sid=4 size=50
+[2018-01-24][12:29:06] [Trace] [@ trace.go.53] SessionFilterTrace.OnPacketReceived sid=4 packetid=1000 packet=*protocol.CSPacketPing
+[2018-01-24][12:29:06] [Trace] [@ ws_acceptor.go.172] =====packet:1000done
+[2018-01-24][12:29:06] [Trace] [@ trace.go.69] SessionFilterTrace.OnPacketSent sid=4 size=50
+[2018-01-24][12:29:06] [Trace] [@ trace.go.53] SessionFilterTrace.OnPacketReceived sid=4 packetid=1000 packet=*protocol.CSPacketPing
+[2018-01-24][12:29:06] [Trace] [@ ws_acceptor.go.172] =====packet:1000done
+[2018-01-24][12:29:06] [Trace] [@ trace.go.69] SessionFilterTrace.OnPacketSent sid=4 size=50
+[2018-01-24][12:29:06] [Trace] [@ trace.go.53] SessionFilterTrace.OnPacketReceived sid=4 packetid=1000 packet=*protocol.CSPacketPing
+[2018-01-24][12:29:06] [Trace] [@ ws_acceptor.go.172] =====packet:1000done
+[2018-01-24][12:29:06] [Trace] [@ trace.go.69] SessionFilterTrace.OnPacketSent sid=4 size=50
+[2018-01-24][12:29:07] [Trace] [@ trace.go.53] SessionFilterTrace.OnPacketReceived sid=4 packetid=1000 packet=*protocol.CSPacketPing
+[2018-01-24][12:29:07] [Trace] [@ ws_acceptor.go.172] =====packet:1000done
+[2018-01-24][12:29:07] [Trace] [@ trace.go.69] SessionFilterTrace.OnPacketSent sid=4 size=50
+[2018-01-24][12:29:07] [Trace] [@ trace.go.53] SessionFilterTrace.OnPacketReceived sid=4 packetid=1000 packet=*protocol.CSPacketPing
+[2018-01-24][12:29:07] [Trace] [@ ws_acceptor.go.172] =====packet:1000done
+[2018-01-24][12:29:07] [Trace] [@ trace.go.69] SessionFilterTrace.OnPacketSent sid=4 size=50
+[2018-01-24][12:29:07] [Trace] [@ trace.go.53] SessionFilterTrace.OnPacketReceived sid=4 packetid=1000 packet=*protocol.CSPacketPing
+[2018-01-24][12:29:07] [Trace] [@ ws_acceptor.go.172] =====packet:1000done
+[2018-01-24][12:29:07] [Trace] [@ trace.go.69] SessionFilterTrace.OnPacketSent sid=4 size=50
+[2018-01-24][12:29:07] [Trace] [@ trace.go.53] SessionFilterTrace.OnPacketReceived sid=4 packetid=1000 packet=*protocol.CSPacketPing
+[2018-01-24][12:29:07] [Trace] [@ ws_acceptor.go.172] =====packet:1000done
+[2018-01-24][12:29:07] [Trace] [@ trace.go.69] SessionFilterTrace.OnPacketSent sid=4 size=50
+[2018-01-24][12:29:07] [Trace] [@ trace.go.53] SessionFilterTrace.OnPacketReceived sid=4 packetid=1000 packet=*protocol.CSPacketPing
+[2018-01-24][12:29:07] [Trace] [@ ws_acceptor.go.172] =====packet:1000done
+[2018-01-24][12:29:07] [Trace] [@ trace.go.69] SessionFilterTrace.OnPacketSent sid=4 size=50
+[2018-01-24][12:29:07] [Trace] [@ trace.go.53] SessionFilterTrace.OnPacketReceived sid=4 packetid=1000 packet=*protocol.CSPacketPing
+[2018-01-24][12:29:07] [Trace] [@ ws_acceptor.go.172] =====packet:1000done
+[2018-01-24][12:29:07] [Trace] [@ trace.go.69] SessionFilterTrace.OnPacketSent sid=4 size=50
+[2018-01-24][12:29:07] [Trace] [@ trace.go.53] SessionFilterTrace.OnPacketReceived sid=4 packetid=1000 packet=*protocol.CSPacketPing
+[2018-01-24][12:29:07] [Trace] [@ ws_acceptor.go.172] =====packet:1000done
+[2018-01-24][12:29:07] [Trace] [@ trace.go.69] SessionFilterTrace.OnPacketSent sid=4 size=50
+[2018-01-24][12:29:07] [Trace] [@ trace.go.53] SessionFilterTrace.OnPacketReceived sid=4 packetid=1000 packet=*protocol.CSPacketPing
+[2018-01-24][12:29:07] [Trace] [@ ws_acceptor.go.172] =====packet:1000done
+[2018-01-24][12:29:07] [Trace] [@ trace.go.69] SessionFilterTrace.OnPacketSent sid=4 size=50
+[2018-01-24][12:29:07] [Trace] [@ trace.go.53] SessionFilterTrace.OnPacketReceived sid=4 packetid=1000 packet=*protocol.CSPacketPing
+[2018-01-24][12:29:07] [Trace] [@ ws_acceptor.go.172] =====packet:1000done
+[2018-01-24][12:29:07] [Trace] [@ trace.go.69] SessionFilterTrace.OnPacketSent sid=4 size=50
+[2018-01-24][12:29:08] [Trace] [@ trace.go.53] SessionFilterTrace.OnPacketReceived sid=4 packetid=1000 packet=*protocol.CSPacketPing
+[2018-01-24][12:29:08] [Trace] [@ ws_acceptor.go.172] =====packet:1000done
+[2018-01-24][12:29:08] [Trace] [@ trace.go.69] SessionFilterTrace.OnPacketSent sid=4 size=50
+[2018-01-24][12:29:08] [Trace] [@ trace.go.53] SessionFilterTrace.OnPacketReceived sid=4 packetid=1000 packet=*protocol.CSPacketPing
+[2018-01-24][12:29:08] [Trace] [@ ws_acceptor.go.172] =====packet:1000done
+[2018-01-24][12:29:08] [Trace] [@ trace.go.69] SessionFilterTrace.OnPacketSent sid=4 size=50
+[2018-01-24][12:29:08] [Trace] [@ trace.go.53] SessionFilterTrace.OnPacketReceived sid=4 packetid=1000 packet=*protocol.CSPacketPing
+[2018-01-24][12:29:08] [Trace] [@ ws_acceptor.go.172] =====packet:1000done
+[2018-01-24][12:29:08] [Trace] [@ trace.go.69] SessionFilterTrace.OnPacketSent sid=4 size=50
+[2018-01-24][12:29:08] [Trace] [@ trace.go.53] SessionFilterTrace.OnPacketReceived sid=4 packetid=1000 packet=*protocol.CSPacketPing
+[2018-01-24][12:29:08] [Trace] [@ ws_acceptor.go.172] =====packet:1000done
+[2018-01-24][12:29:08] [Trace] [@ trace.go.69] SessionFilterTrace.OnPacketSent sid=4 size=50
+[2018-01-24][12:29:08] [Trace] [@ trace.go.53] SessionFilterTrace.OnPacketReceived sid=4 packetid=1000 packet=*protocol.CSPacketPing
+[2018-01-24][12:29:08] [Trace] [@ ws_acceptor.go.172] =====packet:1000done
+[2018-01-24][12:29:08] [Trace] [@ trace.go.69] SessionFilterTrace.OnPacketSent sid=4 size=50
+[2018-01-24][12:29:08] [Trace] [@ trace.go.53] SessionFilterTrace.OnPacketReceived sid=4 packetid=1000 packet=*protocol.CSPacketPing
+[2018-01-24][12:29:08] [Trace] [@ ws_acceptor.go.172] =====packet:1000done
+[2018-01-24][12:29:08] [Trace] [@ trace.go.69] SessionFilterTrace.OnPacketSent sid=4 size=50
+[2018-01-24][12:29:09] [Trace] [@ trace.go.53] SessionFilterTrace.OnPacketReceived sid=4 packetid=1000 packet=*protocol.CSPacketPing
+[2018-01-24][12:29:09] [Trace] [@ ws_acceptor.go.172] =====packet:1000done
+[2018-01-24][12:29:09] [Trace] [@ trace.go.69] SessionFilterTrace.OnPacketSent sid=4 size=50
+[2018-01-24][12:29:09] [Trace] [@ trace.go.53] SessionFilterTrace.OnPacketReceived sid=4 packetid=1000 packet=*protocol.CSPacketPing
+[2018-01-24][12:29:09] [Trace] [@ ws_acceptor.go.172] =====packet:1000done
+[2018-01-24][12:29:09] [Trace] [@ trace.go.69] SessionFilterTrace.OnPacketSent sid=4 size=50
+[2018-01-24][12:29:09] [Trace] [@ trace.go.53] SessionFilterTrace.OnPacketReceived sid=4 packetid=1000 packet=*protocol.CSPacketPing
+[2018-01-24][12:29:09] [Trace] [@ ws_acceptor.go.172] =====packet:1000done
+[2018-01-24][12:29:09] [Trace] [@ trace.go.69] SessionFilterTrace.OnPacketSent sid=4 size=50
+[2018-01-24][12:29:09] [Trace] [@ trace.go.53] SessionFilterTrace.OnPacketReceived sid=4 packetid=1000 packet=*protocol.CSPacketPing
+[2018-01-24][12:29:09] [Trace] [@ ws_acceptor.go.172] =====packet:1000done
+[2018-01-24][12:29:09] [Trace] [@ trace.go.69] SessionFilterTrace.OnPacketSent sid=4 size=50
+[2018-01-24][12:29:09] [Trace] [@ trace.go.53] SessionFilterTrace.OnPacketReceived sid=4 packetid=1000 packet=*protocol.CSPacketPing
+[2018-01-24][12:29:09] [Trace] [@ ws_acceptor.go.172] =====packet:1000done
+[2018-01-24][12:29:09] [Trace] [@ trace.go.69] SessionFilterTrace.OnPacketSent sid=4 size=50
+[2018-01-24][12:29:09] [Trace] [@ trace.go.53] SessionFilterTrace.OnPacketReceived sid=4 packetid=1000 packet=*protocol.CSPacketPing
+[2018-01-24][12:29:09] [Trace] [@ ws_acceptor.go.172] =====packet:1000done
+[2018-01-24][12:29:09] [Trace] [@ trace.go.69] SessionFilterTrace.OnPacketSent sid=4 size=50
+[2018-01-24][12:29:09] [Trace] [@ trace.go.53] SessionFilterTrace.OnPacketReceived sid=4 packetid=1000 packet=*protocol.CSPacketPing
+[2018-01-24][12:29:09] [Trace] [@ ws_acceptor.go.172] =====packet:1000done
+[2018-01-24][12:29:09] [Trace] [@ trace.go.69] SessionFilterTrace.OnPacketSent sid=4 size=50
+[2018-01-24][12:29:09] [Trace] [@ trace.go.53] SessionFilterTrace.OnPacketReceived sid=4 packetid=1000 packet=*protocol.CSPacketPing
+[2018-01-24][12:29:09] [Trace] [@ ws_acceptor.go.172] =====packet:1000done
+[2018-01-24][12:29:09] [Trace] [@ trace.go.69] SessionFilterTrace.OnPacketSent sid=4 size=50
+[2018-01-24][12:29:09] [Trace] [@ trace.go.53] SessionFilterTrace.OnPacketReceived sid=4 packetid=1000 packet=*protocol.CSPacketPing
+[2018-01-24][12:29:09] [Trace] [@ ws_acceptor.go.172] =====packet:1000done
+[2018-01-24][12:29:09] [Trace] [@ trace.go.69] SessionFilterTrace.OnPacketSent sid=4 size=50
+[2018-01-24][12:29:10] [Trace] [@ trace.go.53] SessionFilterTrace.OnPacketReceived sid=4 packetid=1000 packet=*protocol.CSPacketPing
+[2018-01-24][12:29:10] [Trace] [@ ws_acceptor.go.172] =====packet:1000done
+[2018-01-24][12:29:10] [Trace] [@ trace.go.69] SessionFilterTrace.OnPacketSent sid=4 size=50
+[2018-01-24][12:29:10] [Trace] [@ trace.go.53] SessionFilterTrace.OnPacketReceived sid=4 packetid=1000 packet=*protocol.CSPacketPing
+[2018-01-24][12:29:10] [Trace] [@ ws_acceptor.go.172] =====packet:1000done
+[2018-01-24][12:29:10] [Trace] [@ trace.go.69] SessionFilterTrace.OnPacketSent sid=4 size=50
+[2018-01-24][12:29:10] [Trace] [@ trace.go.53] SessionFilterTrace.OnPacketReceived sid=4 packetid=1000 packet=*protocol.CSPacketPing
+[2018-01-24][12:29:10] [Trace] [@ ws_acceptor.go.172] =====packet:1000done
+[2018-01-24][12:29:10] [Trace] [@ trace.go.69] SessionFilterTrace.OnPacketSent sid=4 size=50
+[2018-01-24][12:29:10] [Trace] [@ trace.go.53] SessionFilterTrace.OnPacketReceived sid=4 packetid=1000 packet=*protocol.CSPacketPing
+[2018-01-24][12:29:10] [Trace] [@ ws_acceptor.go.172] =====packet:1000done
+[2018-01-24][12:29:10] [Trace] [@ trace.go.69] SessionFilterTrace.OnPacketSent sid=4 size=50
+[2018-01-24][12:29:10] [Trace] [@ trace.go.53] SessionFilterTrace.OnPacketReceived sid=4 packetid=1000 packet=*protocol.CSPacketPing
+[2018-01-24][12:29:10] [Trace] [@ ws_acceptor.go.172] =====packet:1000done
+[2018-01-24][12:29:10] [Trace] [@ trace.go.69] SessionFilterTrace.OnPacketSent sid=4 size=50
+[2018-01-24][12:29:10] [Trace] [@ trace.go.53] SessionFilterTrace.OnPacketReceived sid=4 packetid=1000 packet=*protocol.CSPacketPing
+[2018-01-24][12:29:10] [Trace] [@ ws_acceptor.go.172] =====packet:1000done
+[2018-01-24][12:29:10] [Trace] [@ trace.go.69] SessionFilterTrace.OnPacketSent sid=4 size=50
+[2018-01-24][12:29:10] [Trace] [@ trace.go.53] SessionFilterTrace.OnPacketReceived sid=4 packetid=1000 packet=*protocol.CSPacketPing
+[2018-01-24][12:29:10] [Trace] [@ ws_acceptor.go.172] =====packet:1000done
+[2018-01-24][12:29:10] [Trace] [@ trace.go.69] SessionFilterTrace.OnPacketSent sid=4 size=50
+[2018-01-24][12:29:10] [Trace] [@ trace.go.53] SessionFilterTrace.OnPacketReceived sid=4 packetid=1000 packet=*protocol.CSPacketPing
+[2018-01-24][12:29:10] [Trace] [@ ws_acceptor.go.172] =====packet:1000done
+[2018-01-24][12:29:10] [Trace] [@ trace.go.69] SessionFilterTrace.OnPacketSent sid=4 size=50
+[2018-01-24][12:29:10] [Info] [@ ws_session.go.150] s.conn.NextReader err:read tcp 127.0.0.1:2345->127.0.0.1:7751: wsarecv: An existing connection was forcibly closed by the remote host.
+[2018-01-24][12:29:10] [Trace] [@ ws_session.go.124] 4 ->close: Session.procRecv err: read tcp 127.0.0.1:2345->127.0.0.1:7751: wsarecv: An existing connection was forcibly closed by the remote host.
+[2018-01-24][12:29:10] [Trace] [@ ws_session.go.201] 4 shutRead
+[2018-01-24][12:29:10] [Trace] [@ ws_session.go.58] 4 ->close: Session.procSend err: [comm expt]normal close send
+[2018-01-24][12:29:10] [Trace] [@ ws_session.go.213] 4 shutWrite
+[2018-01-24][12:29:10] [Trace] [@ trace.go.43] SessionFilterTrace.OnSessionClosed sid=4
+[2018-01-24][12:30:03] [Info] [@ modulemgr.go.66] module [      net-module] registe;interval=0s,priority=2147483647
+[2018-01-24][12:30:03] [Info] [@ modulemgr.go.66] module [      dtc-module] registe;interval=1h0m0s,priority=1
+[2018-01-24][12:30:03] [Info] [@ loader.go.87] package [          module] load success
+[2018-01-24][12:30:03] [Info] [@ config.go.75] =================
+[2018-01-24][12:30:03] [Info] [@ config.go.75] echo server
+[2018-01-24][12:30:03] [Info] [@ config.go.75] =================
+[2018-01-24][12:30:03] [Info] [@ loader.go.87] package [          netlib] load success
+[2018-01-24][12:30:03] [Trace] [@ timer.go.32] Timer Start
+[2018-01-24][12:30:03] [Trace] [@ timer.go.42] Timer Start [ok]
+[2018-01-24][12:30:03] [Info] [@ loader.go.87] package [           timer] load success
+[2018-01-24][12:30:03] [Info] [@ loader.go.87] package [            core] load success
+[2018-01-24][12:30:03] [Info] [@ modulemgr.go.128] Startup PreloadModules
+[2018-01-24][12:30:03] [Info] [@ modulemgr.go.134] Startup PreloadModules [ok]
+[2018-01-24][12:30:03] [Info] [@ modulemgr.go.156] Start Initialize Modules
+[2018-01-24][12:30:03] [Info] [@ modulemgr.go.160] module [      dtc-module] init...
+[2018-01-24][12:30:03] [Info] [@ modulemgr.go.162] module [      dtc-module] init[ok]
+[2018-01-24][12:30:03] [Info] [@ modulemgr.go.160] module [      net-module] init...
+[2018-01-24][12:30:03] [Info] [@ modulemgr.go.162] module [      net-module] init[ok]
+[2018-01-24][12:30:03] [Info] [@ modulemgr.go.166] Start Initialize Modules [ok]
+[2018-01-24][12:30:09] [Trace] [@ trace.go.38] SessionFilterTrace.OnSessionOpened sid=1
+[2018-01-24][12:30:09] [Trace] [@ trace.go.53] SessionFilterTrace.OnPacketReceived sid=1 packetid=-1004 packet=*protocol.SSPacketAuth
+[2018-01-24][12:30:09] [Trace] [@ authentication.go.64] AuthenticationFilter rawtext=1516768209;1234567890 IsInnerLink(true)
+[2018-01-24][12:30:09] [Trace] [@ trace.go.53] SessionFilterTrace.OnPacketReceived sid=1 packetid=1000 packet=*protocol.CSPacketPing
+[2018-01-24][12:30:09] [Trace] [@ trace.go.69] SessionFilterTrace.OnPacketSent sid=1 size=50
+[2018-01-24][12:30:10] [Trace] [@ trace.go.53] SessionFilterTrace.OnPacketReceived sid=1 packetid=1000 packet=*protocol.CSPacketPing
+[2018-01-24][12:30:10] [Trace] [@ trace.go.69] SessionFilterTrace.OnPacketSent sid=1 size=50
+[2018-01-24][12:30:10] [Trace] [@ trace.go.53] SessionFilterTrace.OnPacketReceived sid=1 packetid=1000 packet=*protocol.CSPacketPing
+[2018-01-24][12:30:10] [Trace] [@ trace.go.69] SessionFilterTrace.OnPacketSent sid=1 size=50
+[2018-01-24][12:30:10] [Trace] [@ trace.go.53] SessionFilterTrace.OnPacketReceived sid=1 packetid=1000 packet=*protocol.CSPacketPing
+[2018-01-24][12:30:10] [Trace] [@ trace.go.69] SessionFilterTrace.OnPacketSent sid=1 size=50
+[2018-01-24][12:30:10] [Trace] [@ trace.go.53] SessionFilterTrace.OnPacketReceived sid=1 packetid=1000 packet=*protocol.CSPacketPing
+[2018-01-24][12:30:10] [Trace] [@ trace.go.69] SessionFilterTrace.OnPacketSent sid=1 size=50
+[2018-01-24][12:30:10] [Trace] [@ trace.go.53] SessionFilterTrace.OnPacketReceived sid=1 packetid=1000 packet=*protocol.CSPacketPing
+[2018-01-24][12:30:10] [Trace] [@ trace.go.69] SessionFilterTrace.OnPacketSent sid=1 size=50
+[2018-01-24][12:30:10] [Trace] [@ trace.go.53] SessionFilterTrace.OnPacketReceived sid=1 packetid=1000 packet=*protocol.CSPacketPing
+[2018-01-24][12:30:11] [Trace] [@ trace.go.69] SessionFilterTrace.OnPacketSent sid=1 size=50
+[2018-01-24][12:30:11] [Trace] [@ trace.go.53] SessionFilterTrace.OnPacketReceived sid=1 packetid=1000 packet=*protocol.CSPacketPing
+[2018-01-24][12:30:11] [Trace] [@ trace.go.69] SessionFilterTrace.OnPacketSent sid=1 size=50
+[2018-01-24][12:30:11] [Trace] [@ trace.go.53] SessionFilterTrace.OnPacketReceived sid=1 packetid=1000 packet=*protocol.CSPacketPing
+[2018-01-24][12:30:11] [Trace] [@ trace.go.69] SessionFilterTrace.OnPacketSent sid=1 size=50
+[2018-01-24][12:30:11] [Trace] [@ trace.go.53] SessionFilterTrace.OnPacketReceived sid=1 packetid=1000 packet=*protocol.CSPacketPing
+[2018-01-24][12:30:11] [Trace] [@ trace.go.69] SessionFilterTrace.OnPacketSent sid=1 size=50
+[2018-01-24][12:30:11] [Trace] [@ trace.go.53] SessionFilterTrace.OnPacketReceived sid=1 packetid=1000 packet=*protocol.CSPacketPing
+[2018-01-24][12:30:11] [Trace] [@ trace.go.69] SessionFilterTrace.OnPacketSent sid=1 size=50
+[2018-01-24][12:30:11] [Trace] [@ trace.go.53] SessionFilterTrace.OnPacketReceived sid=1 packetid=1000 packet=*protocol.CSPacketPing
+[2018-01-24][12:30:11] [Trace] [@ trace.go.69] SessionFilterTrace.OnPacketSent sid=1 size=50
+[2018-01-24][12:30:11] [Trace] [@ trace.go.53] SessionFilterTrace.OnPacketReceived sid=1 packetid=1000 packet=*protocol.CSPacketPing
+[2018-01-24][12:30:11] [Trace] [@ trace.go.69] SessionFilterTrace.OnPacketSent sid=1 size=50
+[2018-01-24][12:30:11] [Trace] [@ trace.go.53] SessionFilterTrace.OnPacketReceived sid=1 packetid=1000 packet=*protocol.CSPacketPing
+[2018-01-24][12:30:11] [Trace] [@ trace.go.69] SessionFilterTrace.OnPacketSent sid=1 size=50
+[2018-01-24][12:30:11] [Trace] [@ trace.go.53] SessionFilterTrace.OnPacketReceived sid=1 packetid=1000 packet=*protocol.CSPacketPing
+[2018-01-24][12:30:11] [Trace] [@ trace.go.69] SessionFilterTrace.OnPacketSent sid=1 size=50
+[2018-01-24][12:30:11] [Trace] [@ trace.go.53] SessionFilterTrace.OnPacketReceived sid=1 packetid=1000 packet=*protocol.CSPacketPing
+[2018-01-24][12:30:11] [Trace] [@ trace.go.69] SessionFilterTrace.OnPacketSent sid=1 size=50
+[2018-01-24][12:30:12] [Trace] [@ trace.go.53] SessionFilterTrace.OnPacketReceived sid=1 packetid=1000 packet=*protocol.CSPacketPing
+[2018-01-24][12:30:12] [Trace] [@ trace.go.69] SessionFilterTrace.OnPacketSent sid=1 size=50
+[2018-01-24][12:30:12] [Trace] [@ trace.go.53] SessionFilterTrace.OnPacketReceived sid=1 packetid=1000 packet=*protocol.CSPacketPing
+[2018-01-24][12:30:12] [Trace] [@ trace.go.69] SessionFilterTrace.OnPacketSent sid=1 size=50
+[2018-01-24][12:30:12] [Trace] [@ trace.go.53] SessionFilterTrace.OnPacketReceived sid=1 packetid=1000 packet=*protocol.CSPacketPing
+[2018-01-24][12:30:12] [Trace] [@ trace.go.69] SessionFilterTrace.OnPacketSent sid=1 size=50
+[2018-01-24][12:30:12] [Trace] [@ trace.go.53] SessionFilterTrace.OnPacketReceived sid=1 packetid=1000 packet=*protocol.CSPacketPing
+[2018-01-24][12:30:12] [Trace] [@ trace.go.69] SessionFilterTrace.OnPacketSent sid=1 size=50
+[2018-01-24][12:30:12] [Trace] [@ trace.go.53] SessionFilterTrace.OnPacketReceived sid=1 packetid=1000 packet=*protocol.CSPacketPing
+[2018-01-24][12:30:12] [Trace] [@ trace.go.69] SessionFilterTrace.OnPacketSent sid=1 size=50
+[2018-01-24][12:30:12] [Trace] [@ trace.go.53] SessionFilterTrace.OnPacketReceived sid=1 packetid=1000 packet=*protocol.CSPacketPing
+[2018-01-24][12:30:12] [Trace] [@ trace.go.69] SessionFilterTrace.OnPacketSent sid=1 size=50
+[2018-01-24][12:30:12] [Trace] [@ trace.go.53] SessionFilterTrace.OnPacketReceived sid=1 packetid=1000 packet=*protocol.CSPacketPing
+[2018-01-24][12:30:12] [Trace] [@ trace.go.69] SessionFilterTrace.OnPacketSent sid=1 size=50
+[2018-01-24][12:30:13] [Trace] [@ trace.go.53] SessionFilterTrace.OnPacketReceived sid=1 packetid=1000 packet=*protocol.CSPacketPing
+[2018-01-24][12:30:13] [Trace] [@ trace.go.69] SessionFilterTrace.OnPacketSent sid=1 size=50
+[2018-01-24][12:30:13] [Trace] [@ trace.go.53] SessionFilterTrace.OnPacketReceived sid=1 packetid=1000 packet=*protocol.CSPacketPing
+[2018-01-24][12:30:13] [Trace] [@ trace.go.69] SessionFilterTrace.OnPacketSent sid=1 size=50
+[2018-01-24][12:30:13] [Trace] [@ trace.go.53] SessionFilterTrace.OnPacketReceived sid=1 packetid=1000 packet=*protocol.CSPacketPing
+[2018-01-24][12:30:13] [Trace] [@ trace.go.69] SessionFilterTrace.OnPacketSent sid=1 size=50
+[2018-01-24][12:30:13] [Trace] [@ trace.go.53] SessionFilterTrace.OnPacketReceived sid=1 packetid=1000 packet=*protocol.CSPacketPing
+[2018-01-24][12:30:13] [Trace] [@ trace.go.69] SessionFilterTrace.OnPacketSent sid=1 size=50
+[2018-01-24][12:30:14] [Trace] [@ trace.go.53] SessionFilterTrace.OnPacketReceived sid=1 packetid=1000 packet=*protocol.CSPacketPing
+[2018-01-24][12:30:14] [Trace] [@ trace.go.69] SessionFilterTrace.OnPacketSent sid=1 size=50
+[2018-01-24][12:30:14] [Trace] [@ trace.go.53] SessionFilterTrace.OnPacketReceived sid=1 packetid=1000 packet=*protocol.CSPacketPing
+[2018-01-24][12:30:14] [Trace] [@ trace.go.69] SessionFilterTrace.OnPacketSent sid=1 size=50
+[2018-01-24][12:30:14] [Trace] [@ trace.go.53] SessionFilterTrace.OnPacketReceived sid=1 packetid=1000 packet=*protocol.CSPacketPing
+[2018-01-24][12:30:14] [Trace] [@ trace.go.69] SessionFilterTrace.OnPacketSent sid=1 size=50
+[2018-01-24][12:30:14] [Trace] [@ trace.go.53] SessionFilterTrace.OnPacketReceived sid=1 packetid=1000 packet=*protocol.CSPacketPing
+[2018-01-24][12:30:14] [Trace] [@ trace.go.69] SessionFilterTrace.OnPacketSent sid=1 size=50
+[2018-01-24][12:30:14] [Trace] [@ trace.go.53] SessionFilterTrace.OnPacketReceived sid=1 packetid=1000 packet=*protocol.CSPacketPing
+[2018-01-24][12:30:14] [Trace] [@ trace.go.69] SessionFilterTrace.OnPacketSent sid=1 size=50
+[2018-01-24][12:30:14] [Trace] [@ trace.go.53] SessionFilterTrace.OnPacketReceived sid=1 packetid=1000 packet=*protocol.CSPacketPing
+[2018-01-24][12:30:14] [Trace] [@ trace.go.69] SessionFilterTrace.OnPacketSent sid=1 size=50
+[2018-01-24][12:30:14] [Trace] [@ trace.go.53] SessionFilterTrace.OnPacketReceived sid=1 packetid=1000 packet=*protocol.CSPacketPing
+[2018-01-24][12:30:14] [Trace] [@ trace.go.69] SessionFilterTrace.OnPacketSent sid=1 size=50
+[2018-01-24][12:30:15] [Trace] [@ trace.go.53] SessionFilterTrace.OnPacketReceived sid=1 packetid=1000 packet=*protocol.CSPacketPing
+[2018-01-24][12:30:15] [Trace] [@ trace.go.69] SessionFilterTrace.OnPacketSent sid=1 size=50
+[2018-01-24][12:30:15] [Trace] [@ trace.go.53] SessionFilterTrace.OnPacketReceived sid=1 packetid=1000 packet=*protocol.CSPacketPing
+[2018-01-24][12:30:15] [Trace] [@ trace.go.69] SessionFilterTrace.OnPacketSent sid=1 size=50
+[2018-01-24][12:30:15] [Trace] [@ trace.go.53] SessionFilterTrace.OnPacketReceived sid=1 packetid=1000 packet=*protocol.CSPacketPing
+[2018-01-24][12:30:16] [Trace] [@ trace.go.69] SessionFilterTrace.OnPacketSent sid=1 size=50
+[2018-01-24][12:30:16] [Trace] [@ trace.go.53] SessionFilterTrace.OnPacketReceived sid=1 packetid=1000 packet=*protocol.CSPacketPing
+[2018-01-24][12:30:16] [Trace] [@ trace.go.69] SessionFilterTrace.OnPacketSent sid=1 size=50
+[2018-01-24][12:30:16] [Trace] [@ trace.go.53] SessionFilterTrace.OnPacketReceived sid=1 packetid=1000 packet=*protocol.CSPacketPing
+[2018-01-24][12:30:16] [Trace] [@ trace.go.69] SessionFilterTrace.OnPacketSent sid=1 size=50
+[2018-01-24][12:30:16] [Trace] [@ trace.go.53] SessionFilterTrace.OnPacketReceived sid=1 packetid=1000 packet=*protocol.CSPacketPing
+[2018-01-24][12:30:16] [Trace] [@ trace.go.69] SessionFilterTrace.OnPacketSent sid=1 size=50
+[2018-01-24][12:30:16] [Trace] [@ trace.go.53] SessionFilterTrace.OnPacketReceived sid=1 packetid=1000 packet=*protocol.CSPacketPing
+[2018-01-24][12:30:17] [Trace] [@ trace.go.69] SessionFilterTrace.OnPacketSent sid=1 size=50
+[2018-01-24][12:30:17] [Trace] [@ trace.go.53] SessionFilterTrace.OnPacketReceived sid=1 packetid=1000 packet=*protocol.CSPacketPing
+[2018-01-24][12:30:17] [Trace] [@ trace.go.69] SessionFilterTrace.OnPacketSent sid=1 size=50
+[2018-01-24][12:30:17] [Trace] [@ trace.go.53] SessionFilterTrace.OnPacketReceived sid=1 packetid=1000 packet=*protocol.CSPacketPing
+[2018-01-24][12:30:17] [Trace] [@ trace.go.69] SessionFilterTrace.OnPacketSent sid=1 size=50
+[2018-01-24][12:30:17] [Trace] [@ trace.go.53] SessionFilterTrace.OnPacketReceived sid=1 packetid=1000 packet=*protocol.CSPacketPing
+[2018-01-24][12:30:17] [Trace] [@ trace.go.69] SessionFilterTrace.OnPacketSent sid=1 size=50
+[2018-01-24][12:30:17] [Trace] [@ trace.go.53] SessionFilterTrace.OnPacketReceived sid=1 packetid=1000 packet=*protocol.CSPacketPing
+[2018-01-24][12:30:17] [Trace] [@ trace.go.69] SessionFilterTrace.OnPacketSent sid=1 size=50
+[2018-01-24][12:30:17] [Trace] [@ trace.go.53] SessionFilterTrace.OnPacketReceived sid=1 packetid=1000 packet=*protocol.CSPacketPing
+[2018-01-24][12:30:17] [Trace] [@ trace.go.69] SessionFilterTrace.OnPacketSent sid=1 size=50
+[2018-01-24][12:30:17] [Trace] [@ trace.go.53] SessionFilterTrace.OnPacketReceived sid=1 packetid=1000 packet=*protocol.CSPacketPing
+[2018-01-24][12:30:18] [Trace] [@ trace.go.69] SessionFilterTrace.OnPacketSent sid=1 size=50
+[2018-01-24][12:30:18] [Trace] [@ trace.go.53] SessionFilterTrace.OnPacketReceived sid=1 packetid=1000 packet=*protocol.CSPacketPing
+[2018-01-24][12:30:18] [Trace] [@ trace.go.69] SessionFilterTrace.OnPacketSent sid=1 size=50
+[2018-01-24][12:30:18] [Trace] [@ trace.go.53] SessionFilterTrace.OnPacketReceived sid=1 packetid=1000 packet=*protocol.CSPacketPing
+[2018-01-24][12:30:18] [Trace] [@ trace.go.69] SessionFilterTrace.OnPacketSent sid=1 size=50
+[2018-01-24][12:30:18] [Trace] [@ trace.go.53] SessionFilterTrace.OnPacketReceived sid=1 packetid=1000 packet=*protocol.CSPacketPing
+[2018-01-24][12:30:18] [Trace] [@ trace.go.69] SessionFilterTrace.OnPacketSent sid=1 size=50
+[2018-01-24][12:30:18] [Trace] [@ trace.go.53] SessionFilterTrace.OnPacketReceived sid=1 packetid=1000 packet=*protocol.CSPacketPing
+[2018-01-24][12:30:18] [Trace] [@ trace.go.69] SessionFilterTrace.OnPacketSent sid=1 size=50
+[2018-01-24][12:30:19] [Trace] [@ trace.go.53] SessionFilterTrace.OnPacketReceived sid=1 packetid=1000 packet=*protocol.CSPacketPing
+[2018-01-24][12:30:19] [Trace] [@ trace.go.69] SessionFilterTrace.OnPacketSent sid=1 size=50
+[2018-01-24][12:30:19] [Trace] [@ trace.go.53] SessionFilterTrace.OnPacketReceived sid=1 packetid=1000 packet=*protocol.CSPacketPing
+[2018-01-24][12:30:19] [Trace] [@ trace.go.69] SessionFilterTrace.OnPacketSent sid=1 size=50
+[2018-01-24][12:30:19] [Trace] [@ trace.go.53] SessionFilterTrace.OnPacketReceived sid=1 packetid=1000 packet=*protocol.CSPacketPing
+[2018-01-24][12:30:19] [Trace] [@ trace.go.69] SessionFilterTrace.OnPacketSent sid=1 size=50
+[2018-01-24][12:30:19] [Trace] [@ trace.go.53] SessionFilterTrace.OnPacketReceived sid=1 packetid=1000 packet=*protocol.CSPacketPing
+[2018-01-24][12:30:19] [Trace] [@ trace.go.69] SessionFilterTrace.OnPacketSent sid=1 size=50
+[2018-01-24][12:30:20] [Trace] [@ trace.go.53] SessionFilterTrace.OnPacketReceived sid=1 packetid=1000 packet=*protocol.CSPacketPing
+[2018-01-24][12:30:20] [Trace] [@ trace.go.69] SessionFilterTrace.OnPacketSent sid=1 size=50
+[2018-01-24][12:30:20] [Trace] [@ trace.go.53] SessionFilterTrace.OnPacketReceived sid=1 packetid=1000 packet=*protocol.CSPacketPing
+[2018-01-24][12:30:20] [Trace] [@ trace.go.69] SessionFilterTrace.OnPacketSent sid=1 size=50
+[2018-01-24][12:30:20] [Trace] [@ trace.go.53] SessionFilterTrace.OnPacketReceived sid=1 packetid=1000 packet=*protocol.CSPacketPing
+[2018-01-24][12:30:21] [Trace] [@ trace.go.69] SessionFilterTrace.OnPacketSent sid=1 size=50
+[2018-01-24][12:30:21] [Trace] [@ trace.go.53] SessionFilterTrace.OnPacketReceived sid=1 packetid=1000 packet=*protocol.CSPacketPing
+[2018-01-24][12:30:21] [Trace] [@ trace.go.69] SessionFilterTrace.OnPacketSent sid=1 size=50
+[2018-01-24][12:30:21] [Info] [@ ws_session.go.150] s.conn.NextReader err:read tcp 127.0.0.1:2345->127.0.0.1:7775: wsarecv: An existing connection was forcibly closed by the remote host.
+[2018-01-24][12:30:21] [Trace] [@ ws_session.go.124] 1 ->close: Session.procRecv err: read tcp 127.0.0.1:2345->127.0.0.1:7775: wsarecv: An existing connection was forcibly closed by the remote host.
+[2018-01-24][12:30:21] [Trace] [@ ws_session.go.201] 1 shutRead
+[2018-01-24][12:30:21] [Trace] [@ ws_session.go.58] 1 ->close: Session.procSend err: [comm expt]normal close send
+[2018-01-24][12:30:21] [Trace] [@ ws_session.go.213] 1 shutWrite
+[2018-01-24][12:30:21] [Trace] [@ trace.go.43] SessionFilterTrace.OnSessionClosed sid=1

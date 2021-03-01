@@ -1,0 +1,151 @@
+[2018-05-28][19:20:53] [Info] [@ modulemgr.go.76] module [      net-module] registe;interval=0s,priority=2147483647
+[2018-05-28][19:20:53] [Info] [@ modulemgr.go.76] module [      dtc-module] registe;interval=1h0m0s,priority=1
+[2018-05-28][19:20:53] [Trace] [@ timer.go.32] Timer Start
+[2018-05-28][19:20:53] [Trace] [@ timer.go.42] Timer Start [ok]
+[2018-05-28][19:20:53] [Info] [@ loader.go.66] package [           timer] load success
+[2018-05-28][19:20:53] [Error] [@ loader.go.73] Package tx init data not exist.
+[2018-05-28][19:20:53] [Info] [@ loader.go.66] package [         cmdline] load success
+[2018-05-28][19:20:53] [Error] [@ loader.go.73] Package signal init data not exist.
+[2018-05-28][19:20:53] [Info] [@ loader.go.66] package [            core] load success
+[2018-05-28][19:20:53] [Error] [@ loader.go.73] Package profile init data not exist.
+[2018-05-28][19:20:53] [Info] [@ loader.go.66] package [          module] load success
+[2018-05-28][19:20:53] [Info] [@ config.go.77] =================
+[2018-05-28][19:20:53] [Info] [@ config.go.77] account server
+[2018-05-28][19:20:53] [Info] [@ config.go.77] =================
+[2018-05-28][19:20:53] [Info] [@ loader.go.66] package [          netlib] load success
+[2018-05-28][19:20:53] [Info] [@ modulemgr.go.138] Startup PreloadModules
+[2018-05-28][19:20:53] [Info] [@ modulemgr.go.144] Startup PreloadModules [ok]
+[2018-05-28][19:20:53] [Info] [@ modulemgr.go.166] Start Initialize Modules
+[2018-05-28][19:20:53] [Info] [@ modulemgr.go.170] module [      dtc-module] init...
+[2018-05-28][19:20:53] [Info] [@ modulemgr.go.172] module [      dtc-module] init[ok]
+[2018-05-28][19:20:53] [Info] [@ modulemgr.go.170] module [      net-module] init...
+[2018-05-28][19:20:53] [Info] [@ tcp_acceptor.go.61] AccountService listen at 127.0.0.1:3001
+[2018-05-28][19:20:53] [Info] [@ modulemgr.go.172] module [      net-module] init[ok]
+[2018-05-28][19:20:53] [Info] [@ modulemgr.go.176] Start Initialize Modules [ok]
+[2018-05-28][19:20:59] [Trace] [@ serverserviceregiste.go.29] SessionHandlerServiceRegiste:OnSessionOpened ReportService->ManagerService
+[2018-05-28][19:20:59] [Trace] [@ tcp_session.go.156] s.sc.decoder.Decode(packetid:-2000) err:proto: illegal tag 0 
+[2018-05-28][19:20:59] [Trace] [@ tcp_session.go.119] 1 ->close: TcpSession.recvRoutine err: proto: illegal tag 0
+[2018-05-28][19:20:59] [Trace] [@ tcp_session.go.182] 1 shutRead
+[2018-05-28][19:20:59] [Trace] [@ tcp_session.go.62] 1 ->close: TcpSession.sendRoutine err: [comm expt]normal close send
+[2018-05-28][19:20:59] [Trace] [@ tcp_session.go.193] 1 shutWrite
+[2018-05-29][16:40:11] [Info] [@ modulemgr.go.76] module [      net-module] registe;interval=0s,priority=2147483647
+[2018-05-29][16:40:11] [Info] [@ modulemgr.go.76] module [      dtc-module] registe;interval=1h0m0s,priority=1
+[2018-05-29][16:40:11] [Trace] [@ timer.go.32] Timer Start
+[2018-05-29][16:40:11] [Trace] [@ timer.go.42] Timer Start [ok]
+[2018-05-29][16:40:11] [Info] [@ loader.go.66] package [           timer] load success
+[2018-05-29][16:40:11] [Error] [@ loader.go.73] Package tx init data not exist.
+[2018-05-29][16:40:11] [Info] [@ loader.go.66] package [         cmdline] load success
+[2018-05-29][16:40:11] [Error] [@ loader.go.73] Package signal init data not exist.
+[2018-05-29][16:40:11] [Info] [@ loader.go.66] package [            core] load success
+[2018-05-29][16:40:11] [Error] [@ loader.go.73] Package profile init data not exist.
+[2018-05-29][16:40:11] [Info] [@ loader.go.66] package [          module] load success
+[2018-05-29][16:40:11] [Info] [@ config.go.77] =================
+[2018-05-29][16:40:11] [Info] [@ config.go.77] account server
+[2018-05-29][16:40:11] [Info] [@ config.go.77] =================
+[2018-05-29][16:40:11] [Info] [@ loader.go.66] package [          netlib] load success
+[2018-05-29][16:40:11] [Info] [@ modulemgr.go.138] Startup PreloadModules
+[2018-05-29][16:40:11] [Info] [@ modulemgr.go.144] Startup PreloadModules [ok]
+[2018-05-29][16:40:11] [Info] [@ modulemgr.go.166] Start Initialize Modules
+[2018-05-29][16:40:11] [Info] [@ modulemgr.go.170] module [      dtc-module] init...
+[2018-05-29][16:40:11] [Info] [@ modulemgr.go.172] module [      dtc-module] init[ok]
+[2018-05-29][16:40:11] [Info] [@ modulemgr.go.170] module [      net-module] init...
+[2018-05-29][16:40:11] [Info] [@ tcp_acceptor.go.61] AccountService listen at 127.0.0.1:3001
+[2018-05-29][16:40:11] [Info] [@ modulemgr.go.172] module [      net-module] init[ok]
+[2018-05-29][16:40:11] [Info] [@ modulemgr.go.176] Start Initialize Modules [ok]
+[2018-05-29][16:40:17] [Trace] [@ serverserviceregiste.go.29] SessionHandlerServiceRegiste:OnSessionOpened ReportService->ManagerService
+[2018-05-29][16:40:17] [Trace] [@ tcp_session.go.157] s.sc.decoder.Decode(packetid:-2000) err:proto: illegal tag 0 
+[2018-05-29][16:40:17] [Trace] [@ tcp_session.go.119] 1 ->close: TcpSession.recvRoutine err: proto: illegal tag 0
+[2018-05-29][16:40:17] [Trace] [@ tcp_session.go.183] 1 shutRead
+[2018-05-29][16:40:17] [Trace] [@ tcp_session.go.62] 1 ->close: TcpSession.sendRoutine err: [comm expt]normal close send
+[2018-05-29][16:40:17] [Trace] [@ tcp_session.go.194] 1 shutWrite
+[2018-05-29][16:49:07] [Info] [@ modulemgr.go.76] module [      net-module] registe;interval=0s,priority=2147483647
+[2018-05-29][16:49:07] [Info] [@ modulemgr.go.76] module [      dtc-module] registe;interval=1h0m0s,priority=1
+[2018-05-29][16:49:07] [Error] [@ loader.go.73] Package profile init data not exist.
+[2018-05-29][16:49:07] [Info] [@ loader.go.66] package [          module] load success
+[2018-05-29][16:49:07] [Info] [@ config.go.77] =================
+[2018-05-29][16:49:07] [Info] [@ config.go.77] account server
+[2018-05-29][16:49:07] [Info] [@ config.go.77] =================
+[2018-05-29][16:49:07] [Info] [@ loader.go.66] package [          netlib] load success
+[2018-05-29][16:49:07] [Trace] [@ timer.go.32] Timer Start
+[2018-05-29][16:49:07] [Trace] [@ timer.go.42] Timer Start [ok]
+[2018-05-29][16:49:07] [Info] [@ loader.go.66] package [           timer] load success
+[2018-05-29][16:49:07] [Error] [@ loader.go.73] Package tx init data not exist.
+[2018-05-29][16:49:07] [Info] [@ loader.go.66] package [         cmdline] load success
+[2018-05-29][16:49:07] [Error] [@ loader.go.73] Package signal init data not exist.
+[2018-05-29][16:49:07] [Info] [@ loader.go.66] package [            core] load success
+[2018-05-29][16:49:07] [Info] [@ modulemgr.go.138] Startup PreloadModules
+[2018-05-29][16:49:07] [Info] [@ modulemgr.go.144] Startup PreloadModules [ok]
+[2018-05-29][16:49:07] [Info] [@ modulemgr.go.166] Start Initialize Modules
+[2018-05-29][16:49:07] [Info] [@ modulemgr.go.170] module [      dtc-module] init...
+[2018-05-29][16:49:07] [Info] [@ modulemgr.go.172] module [      dtc-module] init[ok]
+[2018-05-29][16:49:07] [Info] [@ modulemgr.go.170] module [      net-module] init...
+[2018-05-29][16:49:07] [Info] [@ tcp_acceptor.go.61] AccountService listen at 127.0.0.1:3001
+[2018-05-29][16:49:07] [Info] [@ modulemgr.go.172] module [      net-module] init[ok]
+[2018-05-29][16:49:07] [Info] [@ modulemgr.go.176] Start Initialize Modules [ok]
+[2018-05-29][16:49:13] [Trace] [@ serverserviceregiste.go.29] SessionHandlerServiceRegiste:OnSessionOpened ReportService->ManagerService
+[2018-05-29][16:49:13] [Trace] [@ tcp_session.go.157] s.sc.decoder.Decode(packetid:-2000) err:proto: illegal tag 0 
+[2018-05-29][16:49:13] [Trace] [@ tcp_session.go.119] 1 ->close: TcpSession.recvRoutine err: proto: illegal tag 0
+[2018-05-29][16:49:13] [Trace] [@ tcp_session.go.183] 1 shutRead
+[2018-05-29][16:49:13] [Trace] [@ tcp_session.go.99] s.sc.encoder.Encode errwrite tcp 127.0.0.1:9208->127.0.0.1:5555: wsasend: An existing connection was forcibly closed by the remote host.
+[2018-05-29][16:49:13] [Trace] [@ tcp_session.go.62] 1 ->close: TcpSession.sendRoutine err: [comm expt]normal close send
+[2018-05-29][16:49:13] [Trace] [@ tcp_session.go.194] 1 shutWrite
+[2018-05-29][16:52:18] [Info] [@ modulemgr.go.76] module [      net-module] registe;interval=0s,priority=2147483647
+[2018-05-29][16:52:18] [Info] [@ modulemgr.go.76] module [      dtc-module] registe;interval=1h0m0s,priority=1
+[2018-05-29][16:52:18] [Trace] [@ timer.go.32] Timer Start
+[2018-05-29][16:52:18] [Trace] [@ timer.go.42] Timer Start [ok]
+[2018-05-29][16:52:18] [Info] [@ loader.go.66] package [           timer] load success
+[2018-05-29][16:52:18] [Error] [@ loader.go.73] Package tx init data not exist.
+[2018-05-29][16:52:18] [Info] [@ loader.go.66] package [         cmdline] load success
+[2018-05-29][16:52:18] [Error] [@ loader.go.73] Package signal init data not exist.
+[2018-05-29][16:52:18] [Info] [@ loader.go.66] package [            core] load success
+[2018-05-29][16:52:18] [Error] [@ loader.go.73] Package profile init data not exist.
+[2018-05-29][16:52:18] [Info] [@ loader.go.66] package [          module] load success
+[2018-05-29][16:52:18] [Info] [@ config.go.77] =================
+[2018-05-29][16:52:18] [Info] [@ config.go.77] account server
+[2018-05-29][16:52:18] [Info] [@ config.go.77] =================
+[2018-05-29][16:52:18] [Info] [@ loader.go.66] package [          netlib] load success
+[2018-05-29][16:52:18] [Info] [@ modulemgr.go.138] Startup PreloadModules
+[2018-05-29][16:52:18] [Info] [@ modulemgr.go.144] Startup PreloadModules [ok]
+[2018-05-29][16:52:18] [Info] [@ modulemgr.go.166] Start Initialize Modules
+[2018-05-29][16:52:18] [Info] [@ modulemgr.go.170] module [      dtc-module] init...
+[2018-05-29][16:52:18] [Info] [@ modulemgr.go.172] module [      dtc-module] init[ok]
+[2018-05-29][16:52:18] [Info] [@ modulemgr.go.170] module [      net-module] init...
+[2018-05-29][16:52:18] [Info] [@ tcp_acceptor.go.61] AccountService listen at 127.0.0.1:3001
+[2018-05-29][16:52:18] [Info] [@ modulemgr.go.172] module [      net-module] init[ok]
+[2018-05-29][16:52:18] [Info] [@ modulemgr.go.176] Start Initialize Modules [ok]
+[2018-05-29][16:52:24] [Trace] [@ serverserviceregiste.go.29] SessionHandlerServiceRegiste:OnSessionOpened ReportService->ManagerService
+[2018-05-29][16:52:24] [Trace] [@ tcp_session.go.157] s.sc.decoder.Decode(packetid:0) err:read tcp 127.0.0.1:9292->127.0.0.1:5555: wsarecv: An existing connection was forcibly closed by the remote host. 
+[2018-05-29][16:52:24] [Trace] [@ tcp_session.go.119] 1 ->close: TcpSession.recvRoutine err: read tcp 127.0.0.1:9292->127.0.0.1:5555: wsarecv: An existing connection was forcibly closed by the remote host.
+[2018-05-29][16:52:24] [Trace] [@ tcp_session.go.183] 1 shutRead
+[2018-05-29][16:52:24] [Trace] [@ tcp_session.go.62] 1 ->close: TcpSession.sendRoutine err: [comm expt]normal close send
+[2018-05-29][16:52:24] [Trace] [@ tcp_session.go.194] 1 shutWrite
+[2018-05-29][16:59:48] [Info] [@ modulemgr.go.76] module [      net-module] registe;interval=0s,priority=2147483647
+[2018-05-29][16:59:48] [Info] [@ modulemgr.go.76] module [      dtc-module] registe;interval=1h0m0s,priority=1
+[2018-05-29][16:59:48] [Info] [@ loader.go.66] package [            core] load success
+[2018-05-29][16:59:48] [Error] [@ loader.go.73] Package profile init data not exist.
+[2018-05-29][16:59:48] [Info] [@ loader.go.66] package [          module] load success
+[2018-05-29][16:59:48] [Info] [@ config.go.77] =================
+[2018-05-29][16:59:48] [Info] [@ config.go.77] account server
+[2018-05-29][16:59:48] [Info] [@ config.go.77] =================
+[2018-05-29][16:59:48] [Info] [@ loader.go.66] package [          netlib] load success
+[2018-05-29][16:59:48] [Trace] [@ timer.go.32] Timer Start
+[2018-05-29][16:59:48] [Trace] [@ timer.go.42] Timer Start [ok]
+[2018-05-29][16:59:48] [Info] [@ loader.go.66] package [           timer] load success
+[2018-05-29][16:59:48] [Error] [@ loader.go.73] Package tx init data not exist.
+[2018-05-29][16:59:48] [Info] [@ loader.go.66] package [         cmdline] load success
+[2018-05-29][16:59:48] [Error] [@ loader.go.73] Package signal init data not exist.
+[2018-05-29][16:59:48] [Info] [@ modulemgr.go.138] Startup PreloadModules
+[2018-05-29][16:59:48] [Info] [@ modulemgr.go.144] Startup PreloadModules [ok]
+[2018-05-29][16:59:48] [Info] [@ modulemgr.go.166] Start Initialize Modules
+[2018-05-29][16:59:48] [Info] [@ modulemgr.go.170] module [      dtc-module] init...
+[2018-05-29][16:59:48] [Info] [@ modulemgr.go.172] module [      dtc-module] init[ok]
+[2018-05-29][16:59:48] [Info] [@ modulemgr.go.170] module [      net-module] init...
+[2018-05-29][16:59:48] [Info] [@ tcp_acceptor.go.61] AccountService listen at 127.0.0.1:3001
+[2018-05-29][16:59:48] [Info] [@ modulemgr.go.172] module [      net-module] init[ok]
+[2018-05-29][16:59:48] [Info] [@ modulemgr.go.176] Start Initialize Modules [ok]
+[2018-05-29][16:59:54] [Trace] [@ serverserviceregiste.go.29] SessionHandlerServiceRegiste:OnSessionOpened ReportService->ManagerService
+[2018-05-29][16:59:54] [Trace] [@ tcp_session.go.157] s.sc.decoder.Decode(packetid:-2000) err:proto: illegal tag 0 
+[2018-05-29][16:59:54] [Trace] [@ tcp_session.go.119] 1 ->close: TcpSession.recvRoutine err: proto: illegal tag 0
+[2018-05-29][16:59:54] [Trace] [@ tcp_session.go.183] 1 shutRead
+[2018-05-29][16:59:54] [Trace] [@ tcp_session.go.62] 1 ->close: TcpSession.sendRoutine err: [comm expt]normal close send
+[2018-05-29][16:59:54] [Trace] [@ tcp_session.go.194] 1 shutWrite

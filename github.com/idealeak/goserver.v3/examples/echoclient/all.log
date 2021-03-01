@@ -1,0 +1,1518 @@
+[2018-01-24][12:03:37] [Info] [@ modulemgr.go.66] module [      net-module] registe;interval=0s,priority=2147483647
+[2018-01-24][12:03:37] [Info] [@ modulemgr.go.66] module [      dtc-module] registe;interval=1h0m0s,priority=1
+[2018-01-24][12:03:37] [Info] [@ modulemgr.go.66] module [ pressure-module] registe;interval=30s,priority=50
+[2018-01-24][12:03:37] [Info] [@ loader.go.87] package [            core] load success
+[2018-01-24][12:03:37] [Info] [@ loader.go.87] package [          module] load success
+[2018-01-24][12:03:37] [Info] [@ config.go.75] =================
+[2018-01-24][12:03:37] [Info] [@ config.go.75] echo client
+[2018-01-24][12:03:37] [Info] [@ config.go.75] =================
+[2018-01-24][12:03:37] [Info] [@ loader.go.87] package [          netlib] load success
+[2018-01-24][12:03:37] [Trace] [@ timer.go.32] Timer Start
+[2018-01-24][12:03:37] [Trace] [@ timer.go.42] Timer Start [ok]
+[2018-01-24][12:03:37] [Info] [@ loader.go.87] package [           timer] load success
+[2018-01-24][12:03:37] [Info] [@ loader.go.87] package [        pressure] load success
+[2018-01-24][12:03:37] [Info] [@ modulemgr.go.128] Startup PreloadModules
+[2018-01-24][12:03:37] [Info] [@ modulemgr.go.134] Startup PreloadModules [ok]
+[2018-01-24][12:03:37] [Info] [@ modulemgr.go.156] Start Initialize Modules
+[2018-01-24][12:03:37] [Info] [@ modulemgr.go.160] module [      dtc-module] init...
+[2018-01-24][12:03:37] [Info] [@ modulemgr.go.162] module [      dtc-module] init[ok]
+[2018-01-24][12:03:37] [Info] [@ modulemgr.go.160] module [ pressure-module] init...
+[2018-01-24][12:03:37] [Info] [@ modulemgr.go.162] module [ pressure-module] init[ok]
+[2018-01-24][12:03:37] [Info] [@ modulemgr.go.160] module [      net-module] init...
+[2018-01-24][12:03:37] [Info] [@ modulemgr.go.162] module [      net-module] init[ok]
+[2018-01-24][12:03:37] [Info] [@ modulemgr.go.166] Start Initialize Modules [ok]
+[2018-01-24][12:03:37] [Trace] [@ trace.go.38] SessionFilterTrace.OnSessionOpened sid=1
+[2018-01-24][12:03:37] [Trace] [@ serversessionfilter.go.29] (ssf *ServerSessionFilter) OnSessionOpened
+[2018-01-24][12:03:37] [Trace] [@ trace.go.69] SessionFilterTrace.OnPacketSent sid=1 size=44
+[2018-01-24][12:03:37] [Trace] [@ trace.go.69] SessionFilterTrace.OnPacketSent sid=1 size=50
+[2018-01-24][12:03:37] [Trace] [@ trace.go.53] SessionFilterTrace.OnPacketReceived sid=1 packetid=1001 packet=*protocol.SCPacketPong
+[2018-01-24][12:07:18] [Info] [@ modulemgr.go.66] module [      net-module] registe;interval=0s,priority=2147483647
+[2018-01-24][12:07:18] [Info] [@ modulemgr.go.66] module [      dtc-module] registe;interval=1h0m0s,priority=1
+[2018-01-24][12:07:18] [Info] [@ modulemgr.go.66] module [ pressure-module] registe;interval=30s,priority=50
+[2018-01-24][12:07:18] [Info] [@ loader.go.87] package [        pressure] load success
+[2018-01-24][12:07:18] [Info] [@ loader.go.87] package [            core] load success
+[2018-01-24][12:07:18] [Info] [@ loader.go.87] package [          module] load success
+[2018-01-24][12:07:18] [Info] [@ config.go.75] =================
+[2018-01-24][12:07:18] [Info] [@ config.go.75] echo client
+[2018-01-24][12:07:18] [Info] [@ config.go.75] =================
+[2018-01-24][12:07:18] [Info] [@ loader.go.87] package [          netlib] load success
+[2018-01-24][12:07:18] [Trace] [@ timer.go.32] Timer Start
+[2018-01-24][12:07:18] [Trace] [@ timer.go.42] Timer Start [ok]
+[2018-01-24][12:07:18] [Info] [@ loader.go.87] package [           timer] load success
+[2018-01-24][12:07:18] [Info] [@ modulemgr.go.128] Startup PreloadModules
+[2018-01-24][12:07:18] [Info] [@ modulemgr.go.134] Startup PreloadModules [ok]
+[2018-01-24][12:07:18] [Info] [@ modulemgr.go.156] Start Initialize Modules
+[2018-01-24][12:07:18] [Info] [@ modulemgr.go.160] module [      dtc-module] init...
+[2018-01-24][12:07:18] [Info] [@ modulemgr.go.162] module [      dtc-module] init[ok]
+[2018-01-24][12:07:18] [Info] [@ modulemgr.go.160] module [ pressure-module] init...
+[2018-01-24][12:07:18] [Info] [@ modulemgr.go.162] module [ pressure-module] init[ok]
+[2018-01-24][12:07:18] [Info] [@ modulemgr.go.160] module [      net-module] init...
+[2018-01-24][12:07:18] [Info] [@ modulemgr.go.162] module [      net-module] init[ok]
+[2018-01-24][12:07:18] [Info] [@ modulemgr.go.166] Start Initialize Modules [ok]
+[2018-01-24][12:07:24] [Trace] [@ trace.go.38] SessionFilterTrace.OnSessionOpened sid=1
+[2018-01-24][12:07:24] [Trace] [@ serversessionfilter.go.29] (ssf *ServerSessionFilter) OnSessionOpened
+[2018-01-24][12:07:24] [Trace] [@ trace.go.69] SessionFilterTrace.OnPacketSent sid=1 size=44
+[2018-01-24][12:07:24] [Trace] [@ trace.go.69] SessionFilterTrace.OnPacketSent sid=1 size=50
+[2018-01-24][12:07:24] [Trace] [@ trace.go.53] SessionFilterTrace.OnPacketReceived sid=1 packetid=1001 packet=*protocol.SCPacketPong
+[2018-01-24][12:20:41] [Info] [@ ws_session.go.150] s.conn.NextReader err:read tcp 127.0.0.1:7209->127.0.0.1:2345: wsarecv: An existing connection was forcibly closed by the remote host.
+[2018-01-24][12:20:41] [Trace] [@ ws_session.go.124] 1 ->close: Session.procRecv err: read tcp 127.0.0.1:7209->127.0.0.1:2345: wsarecv: An existing connection was forcibly closed by the remote host.
+[2018-01-24][12:20:41] [Trace] [@ ws_session.go.201] 1 shutRead
+[2018-01-24][12:20:41] [Trace] [@ ws_session.go.58] 1 ->close: Session.procSend err: [comm expt]normal close send
+[2018-01-24][12:20:41] [Trace] [@ ws_session.go.213] 1 shutWrite
+[2018-01-24][12:20:41] [Trace] [@ scpacketponghandler.go.24] (this *SCPacketPongHandler) Process TimeStamb:1516766844 Message:"=1234567890abcderghijklmnopqrstuvwxyz=" 
+[2018-01-24][12:20:41] [Trace] [@ trace.go.43] SessionFilterTrace.OnSessionClosed sid=1
+[2018-01-24][12:21:07] [Info] [@ modulemgr.go.66] module [      net-module] registe;interval=0s,priority=2147483647
+[2018-01-24][12:21:07] [Info] [@ modulemgr.go.66] module [      dtc-module] registe;interval=1h0m0s,priority=1
+[2018-01-24][12:21:07] [Info] [@ modulemgr.go.66] module [ pressure-module] registe;interval=30s,priority=50
+[2018-01-24][12:21:07] [Info] [@ loader.go.87] package [            core] load success
+[2018-01-24][12:21:07] [Info] [@ loader.go.87] package [          module] load success
+[2018-01-24][12:21:07] [Info] [@ config.go.75] =================
+[2018-01-24][12:21:07] [Info] [@ config.go.75] echo client
+[2018-01-24][12:21:07] [Info] [@ config.go.75] =================
+[2018-01-24][12:21:07] [Info] [@ loader.go.87] package [          netlib] load success
+[2018-01-24][12:21:07] [Trace] [@ timer.go.32] Timer Start
+[2018-01-24][12:21:07] [Trace] [@ timer.go.42] Timer Start [ok]
+[2018-01-24][12:21:07] [Info] [@ loader.go.87] package [           timer] load success
+[2018-01-24][12:21:07] [Info] [@ loader.go.87] package [        pressure] load success
+[2018-01-24][12:21:07] [Info] [@ modulemgr.go.128] Startup PreloadModules
+[2018-01-24][12:21:07] [Info] [@ modulemgr.go.134] Startup PreloadModules [ok]
+[2018-01-24][12:21:07] [Info] [@ modulemgr.go.156] Start Initialize Modules
+[2018-01-24][12:21:07] [Info] [@ modulemgr.go.160] module [      dtc-module] init...
+[2018-01-24][12:21:07] [Info] [@ modulemgr.go.162] module [      dtc-module] init[ok]
+[2018-01-24][12:21:07] [Info] [@ modulemgr.go.160] module [ pressure-module] init...
+[2018-01-24][12:21:07] [Info] [@ modulemgr.go.162] module [ pressure-module] init[ok]
+[2018-01-24][12:21:07] [Info] [@ modulemgr.go.160] module [      net-module] init...
+[2018-01-24][12:21:07] [Info] [@ modulemgr.go.162] module [      net-module] init[ok]
+[2018-01-24][12:21:07] [Info] [@ modulemgr.go.166] Start Initialize Modules [ok]
+[2018-01-24][12:21:07] [Trace] [@ trace.go.38] SessionFilterTrace.OnSessionOpened sid=1
+[2018-01-24][12:21:07] [Trace] [@ serversessionfilter.go.29] (ssf *ServerSessionFilter) OnSessionOpened
+[2018-01-24][12:21:07] [Trace] [@ trace.go.69] SessionFilterTrace.OnPacketSent sid=1 size=44
+[2018-01-24][12:21:07] [Trace] [@ trace.go.69] SessionFilterTrace.OnPacketSent sid=1 size=50
+[2018-01-24][12:21:07] [Trace] [@ trace.go.53] SessionFilterTrace.OnPacketReceived sid=1 packetid=1001 packet=*protocol.SCPacketPong
+[2018-01-24][12:21:07] [Trace] [@ ws_session.go.182] packet:1001 packet receiveddddddddddddddddddddd
+[2018-01-24][12:23:40] [Info] [@ modulemgr.go.66] module [      net-module] registe;interval=0s,priority=2147483647
+[2018-01-24][12:23:40] [Info] [@ modulemgr.go.66] module [      dtc-module] registe;interval=1h0m0s,priority=1
+[2018-01-24][12:23:40] [Info] [@ modulemgr.go.66] module [ pressure-module] registe;interval=30s,priority=50
+[2018-01-24][12:23:40] [Trace] [@ scpacketponghandler.go.20] (this *SCPacketPongPacketFactory) CreatePacket 
+[2018-01-24][12:23:40] [Info] [@ loader.go.87] package [          module] load success
+[2018-01-24][12:23:40] [Info] [@ config.go.75] =================
+[2018-01-24][12:23:40] [Info] [@ config.go.75] echo client
+[2018-01-24][12:23:40] [Info] [@ config.go.75] =================
+[2018-01-24][12:23:40] [Info] [@ loader.go.87] package [          netlib] load success
+[2018-01-24][12:23:40] [Trace] [@ timer.go.32] Timer Start
+[2018-01-24][12:23:40] [Trace] [@ timer.go.42] Timer Start [ok]
+[2018-01-24][12:23:40] [Info] [@ loader.go.87] package [           timer] load success
+[2018-01-24][12:23:40] [Info] [@ loader.go.87] package [        pressure] load success
+[2018-01-24][12:23:40] [Info] [@ loader.go.87] package [            core] load success
+[2018-01-24][12:23:40] [Info] [@ modulemgr.go.128] Startup PreloadModules
+[2018-01-24][12:23:40] [Info] [@ modulemgr.go.134] Startup PreloadModules [ok]
+[2018-01-24][12:23:40] [Info] [@ modulemgr.go.156] Start Initialize Modules
+[2018-01-24][12:23:40] [Info] [@ modulemgr.go.160] module [      dtc-module] init...
+[2018-01-24][12:23:40] [Info] [@ modulemgr.go.162] module [      dtc-module] init[ok]
+[2018-01-24][12:23:40] [Info] [@ modulemgr.go.160] module [ pressure-module] init...
+[2018-01-24][12:23:40] [Info] [@ modulemgr.go.162] module [ pressure-module] init[ok]
+[2018-01-24][12:23:40] [Info] [@ modulemgr.go.160] module [      net-module] init...
+[2018-01-24][12:23:40] [Info] [@ modulemgr.go.162] module [      net-module] init[ok]
+[2018-01-24][12:23:40] [Info] [@ modulemgr.go.166] Start Initialize Modules [ok]
+[2018-01-24][12:23:40] [Trace] [@ trace.go.38] SessionFilterTrace.OnSessionOpened sid=1
+[2018-01-24][12:23:40] [Trace] [@ serversessionfilter.go.29] (ssf *ServerSessionFilter) OnSessionOpened
+[2018-01-24][12:23:40] [Trace] [@ trace.go.69] SessionFilterTrace.OnPacketSent sid=1 size=44
+[2018-01-24][12:23:40] [Trace] [@ trace.go.69] SessionFilterTrace.OnPacketSent sid=1 size=50
+[2018-01-24][12:23:40] [Trace] [@ scpacketponghandler.go.20] (this *SCPacketPongPacketFactory) CreatePacket 
+[2018-01-24][12:23:40] [Trace] [@ trace.go.53] SessionFilterTrace.OnPacketReceived sid=1 packetid=1001 packet=*protocol.SCPacketPong
+[2018-01-24][12:25:16] [Info] [@ modulemgr.go.66] module [      net-module] registe;interval=0s,priority=2147483647
+[2018-01-24][12:25:16] [Info] [@ modulemgr.go.66] module [      dtc-module] registe;interval=1h0m0s,priority=1
+[2018-01-24][12:25:16] [Info] [@ modulemgr.go.66] module [ pressure-module] registe;interval=30s,priority=50
+[2018-01-24][12:25:16] [Trace] [@ scpacketponghandler.go.20] (this *SCPacketPongPacketFactory) CreatePacket 
+[2018-01-24][12:25:16] [Info] [@ loader.go.87] package [            core] load success
+[2018-01-24][12:25:16] [Info] [@ loader.go.87] package [          module] load success
+[2018-01-24][12:25:16] [Info] [@ config.go.75] =================
+[2018-01-24][12:25:16] [Info] [@ config.go.75] echo client
+[2018-01-24][12:25:16] [Info] [@ config.go.75] =================
+[2018-01-24][12:25:16] [Info] [@ loader.go.87] package [          netlib] load success
+[2018-01-24][12:25:16] [Trace] [@ timer.go.32] Timer Start
+[2018-01-24][12:25:16] [Trace] [@ timer.go.42] Timer Start [ok]
+[2018-01-24][12:25:16] [Info] [@ loader.go.87] package [           timer] load success
+[2018-01-24][12:25:16] [Info] [@ loader.go.87] package [        pressure] load success
+[2018-01-24][12:25:16] [Info] [@ modulemgr.go.128] Startup PreloadModules
+[2018-01-24][12:25:16] [Info] [@ modulemgr.go.134] Startup PreloadModules [ok]
+[2018-01-24][12:25:16] [Info] [@ modulemgr.go.156] Start Initialize Modules
+[2018-01-24][12:25:16] [Info] [@ modulemgr.go.160] module [      dtc-module] init...
+[2018-01-24][12:25:16] [Info] [@ modulemgr.go.162] module [      dtc-module] init[ok]
+[2018-01-24][12:25:16] [Info] [@ modulemgr.go.160] module [ pressure-module] init...
+[2018-01-24][12:25:16] [Info] [@ modulemgr.go.162] module [ pressure-module] init[ok]
+[2018-01-24][12:25:16] [Info] [@ modulemgr.go.160] module [      net-module] init...
+[2018-01-24][12:25:16] [Info] [@ modulemgr.go.162] module [      net-module] init[ok]
+[2018-01-24][12:25:16] [Info] [@ modulemgr.go.166] Start Initialize Modules [ok]
+[2018-01-24][12:25:23] [Trace] [@ trace.go.38] SessionFilterTrace.OnSessionOpened sid=1
+[2018-01-24][12:25:23] [Trace] [@ serversessionfilter.go.29] (ssf *ServerSessionFilter) OnSessionOpened
+[2018-01-24][12:25:23] [Trace] [@ trace.go.69] SessionFilterTrace.OnPacketSent sid=1 size=44
+[2018-01-24][12:25:23] [Trace] [@ trace.go.69] SessionFilterTrace.OnPacketSent sid=1 size=50
+[2018-01-24][12:25:23] [Trace] [@ scpacketponghandler.go.20] (this *SCPacketPongPacketFactory) CreatePacket 
+[2018-01-24][12:25:23] [Trace] [@ trace.go.53] SessionFilterTrace.OnPacketReceived sid=1 packetid=1001 packet=*protocol.SCPacketPong
+[2018-01-24][12:26:53] [Info] [@ ws_session.go.150] s.conn.NextReader err:read tcp 127.0.0.1:7627->127.0.0.1:2345: wsarecv: An existing connection was forcibly closed by the remote host.
+[2018-01-24][12:26:53] [Trace] [@ ws_session.go.124] 1 ->close: Session.procRecv err: read tcp 127.0.0.1:7627->127.0.0.1:2345: wsarecv: An existing connection was forcibly closed by the remote host.
+[2018-01-24][12:26:53] [Trace] [@ ws_session.go.201] 1 shutRead
+[2018-01-24][12:26:53] [Trace] [@ ws_session.go.58] 1 ->close: Session.procSend err: [comm expt]normal close send
+[2018-01-24][12:26:53] [Trace] [@ ws_session.go.213] 1 shutWrite
+[2018-01-24][12:26:53] [Trace] [@ scpacketponghandler.go.25] (this *SCPacketPongHandler) Process TimeStamb:1516767923 Message:"=1234567890abcderghijklmnopqrstuvwxyz=" 
+[2018-01-24][12:26:53] [Trace] [@ trace.go.43] SessionFilterTrace.OnSessionClosed sid=1
+[2018-01-24][12:27:07] [Info] [@ modulemgr.go.66] module [      net-module] registe;interval=0s,priority=2147483647
+[2018-01-24][12:27:07] [Info] [@ modulemgr.go.66] module [      dtc-module] registe;interval=1h0m0s,priority=1
+[2018-01-24][12:27:07] [Info] [@ modulemgr.go.66] module [ pressure-module] registe;interval=30s,priority=50
+[2018-01-24][12:27:07] [Trace] [@ scpacketponghandler.go.20] (this *SCPacketPongPacketFactory) CreatePacket 
+[2018-01-24][12:27:07] [Info] [@ config.go.75] =================
+[2018-01-24][12:27:07] [Info] [@ config.go.75] echo client
+[2018-01-24][12:27:07] [Info] [@ config.go.75] =================
+[2018-01-24][12:27:07] [Info] [@ loader.go.87] package [          netlib] load success
+[2018-01-24][12:27:07] [Trace] [@ timer.go.32] Timer Start
+[2018-01-24][12:27:07] [Trace] [@ timer.go.42] Timer Start [ok]
+[2018-01-24][12:27:07] [Info] [@ loader.go.87] package [           timer] load success
+[2018-01-24][12:27:07] [Info] [@ loader.go.87] package [        pressure] load success
+[2018-01-24][12:27:07] [Info] [@ loader.go.87] package [            core] load success
+[2018-01-24][12:27:07] [Info] [@ loader.go.87] package [          module] load success
+[2018-01-24][12:27:07] [Info] [@ modulemgr.go.128] Startup PreloadModules
+[2018-01-24][12:27:07] [Info] [@ modulemgr.go.134] Startup PreloadModules [ok]
+[2018-01-24][12:27:07] [Info] [@ modulemgr.go.156] Start Initialize Modules
+[2018-01-24][12:27:07] [Info] [@ modulemgr.go.160] module [      dtc-module] init...
+[2018-01-24][12:27:07] [Info] [@ modulemgr.go.162] module [      dtc-module] init[ok]
+[2018-01-24][12:27:07] [Info] [@ modulemgr.go.160] module [ pressure-module] init...
+[2018-01-24][12:27:07] [Info] [@ modulemgr.go.162] module [ pressure-module] init[ok]
+[2018-01-24][12:27:07] [Info] [@ modulemgr.go.160] module [      net-module] init...
+[2018-01-24][12:27:07] [Info] [@ modulemgr.go.162] module [      net-module] init[ok]
+[2018-01-24][12:27:07] [Info] [@ modulemgr.go.166] Start Initialize Modules [ok]
+[2018-01-24][12:27:07] [Trace] [@ trace.go.38] SessionFilterTrace.OnSessionOpened sid=1
+[2018-01-24][12:27:07] [Trace] [@ serversessionfilter.go.29] (ssf *ServerSessionFilter) OnSessionOpened
+[2018-01-24][12:27:07] [Trace] [@ trace.go.69] SessionFilterTrace.OnPacketSent sid=1 size=44
+[2018-01-24][12:27:07] [Trace] [@ trace.go.69] SessionFilterTrace.OnPacketSent sid=1 size=50
+[2018-01-24][12:27:08] [Trace] [@ scpacketponghandler.go.20] (this *SCPacketPongPacketFactory) CreatePacket 
+[2018-01-24][12:27:08] [Trace] [@ trace.go.53] SessionFilterTrace.OnPacketReceived sid=1 packetid=1001 packet=*protocol.SCPacketPong
+[2018-01-24][12:27:58] [Info] [@ modulemgr.go.66] module [      net-module] registe;interval=0s,priority=2147483647
+[2018-01-24][12:27:58] [Info] [@ modulemgr.go.66] module [      dtc-module] registe;interval=1h0m0s,priority=1
+[2018-01-24][12:27:58] [Info] [@ modulemgr.go.66] module [ pressure-module] registe;interval=30s,priority=50
+[2018-01-24][12:27:58] [Trace] [@ scpacketponghandler.go.20] (this *SCPacketPongPacketFactory) CreatePacket 
+[2018-01-24][12:27:58] [Info] [@ config.go.75] =================
+[2018-01-24][12:27:58] [Info] [@ config.go.75] echo client
+[2018-01-24][12:27:58] [Info] [@ config.go.75] =================
+[2018-01-24][12:27:58] [Info] [@ loader.go.87] package [          netlib] load success
+[2018-01-24][12:27:58] [Trace] [@ timer.go.32] Timer Start
+[2018-01-24][12:27:58] [Trace] [@ timer.go.42] Timer Start [ok]
+[2018-01-24][12:27:58] [Info] [@ loader.go.87] package [           timer] load success
+[2018-01-24][12:27:58] [Info] [@ loader.go.87] package [        pressure] load success
+[2018-01-24][12:27:58] [Info] [@ loader.go.87] package [            core] load success
+[2018-01-24][12:27:58] [Info] [@ loader.go.87] package [          module] load success
+[2018-01-24][12:27:58] [Info] [@ modulemgr.go.128] Startup PreloadModules
+[2018-01-24][12:27:58] [Info] [@ modulemgr.go.134] Startup PreloadModules [ok]
+[2018-01-24][12:27:58] [Info] [@ modulemgr.go.156] Start Initialize Modules
+[2018-01-24][12:27:58] [Info] [@ modulemgr.go.160] module [      dtc-module] init...
+[2018-01-24][12:27:58] [Info] [@ modulemgr.go.162] module [      dtc-module] init[ok]
+[2018-01-24][12:27:58] [Info] [@ modulemgr.go.160] module [ pressure-module] init...
+[2018-01-24][12:27:58] [Info] [@ modulemgr.go.162] module [ pressure-module] init[ok]
+[2018-01-24][12:27:58] [Info] [@ modulemgr.go.160] module [      net-module] init...
+[2018-01-24][12:27:58] [Info] [@ modulemgr.go.162] module [      net-module] init[ok]
+[2018-01-24][12:27:58] [Info] [@ modulemgr.go.166] Start Initialize Modules [ok]
+[2018-01-24][12:27:58] [Trace] [@ ws_connector.go.100] (c *WsConnector) procActive() 
+[2018-01-24][12:27:58] [Trace] [@ trace.go.38] SessionFilterTrace.OnSessionOpened sid=1
+[2018-01-24][12:27:58] [Trace] [@ serversessionfilter.go.29] (ssf *ServerSessionFilter) OnSessionOpened
+[2018-01-24][12:27:58] [Trace] [@ trace.go.69] SessionFilterTrace.OnPacketSent sid=1 size=44
+[2018-01-24][12:27:58] [Trace] [@ trace.go.69] SessionFilterTrace.OnPacketSent sid=1 size=50
+[2018-01-24][12:27:58] [Trace] [@ ws_connector.go.100] (c *WsConnector) procActive() 
+[2018-01-24][12:27:58] [Trace] [@ scpacketponghandler.go.20] (this *SCPacketPongPacketFactory) CreatePacket 
+[2018-01-24][12:27:58] [Trace] [@ trace.go.53] SessionFilterTrace.OnPacketReceived sid=1 packetid=1001 packet=*protocol.SCPacketPong
+[2018-01-24][12:27:59] [Trace] [@ ws_connector.go.100] (c *WsConnector) procActive() 
+[2018-01-24][12:27:59] [Trace] [@ ws_connector.go.100] (c *WsConnector) procActive() 
+[2018-01-24][12:27:59] [Trace] [@ ws_connector.go.100] (c *WsConnector) procActive() 
+[2018-01-24][12:27:59] [Trace] [@ ws_connector.go.100] (c *WsConnector) procActive() 
+[2018-01-24][12:27:59] [Trace] [@ ws_connector.go.100] (c *WsConnector) procActive() 
+[2018-01-24][12:27:59] [Trace] [@ ws_connector.go.100] (c *WsConnector) procActive() 
+[2018-01-24][12:28:00] [Trace] [@ ws_connector.go.100] (c *WsConnector) procActive() 
+[2018-01-24][12:28:00] [Trace] [@ ws_connector.go.100] (c *WsConnector) procActive() 
+[2018-01-24][12:28:00] [Trace] [@ ws_connector.go.100] (c *WsConnector) procActive() 
+[2018-01-24][12:28:00] [Trace] [@ ws_connector.go.100] (c *WsConnector) procActive() 
+[2018-01-24][12:28:00] [Trace] [@ ws_connector.go.100] (c *WsConnector) procActive() 
+[2018-01-24][12:28:00] [Trace] [@ ws_connector.go.100] (c *WsConnector) procActive() 
+[2018-01-24][12:28:01] [Trace] [@ ws_connector.go.100] (c *WsConnector) procActive() 
+[2018-01-24][12:28:01] [Trace] [@ ws_connector.go.100] (c *WsConnector) procActive() 
+[2018-01-24][12:28:01] [Trace] [@ ws_connector.go.100] (c *WsConnector) procActive() 
+[2018-01-24][12:28:01] [Trace] [@ ws_connector.go.100] (c *WsConnector) procActive() 
+[2018-01-24][12:28:01] [Trace] [@ ws_connector.go.100] (c *WsConnector) procActive() 
+[2018-01-24][12:28:01] [Trace] [@ ws_connector.go.100] (c *WsConnector) procActive() 
+[2018-01-24][12:28:02] [Trace] [@ ws_connector.go.100] (c *WsConnector) procActive() 
+[2018-01-24][12:28:02] [Trace] [@ ws_connector.go.100] (c *WsConnector) procActive() 
+[2018-01-24][12:28:02] [Trace] [@ ws_connector.go.100] (c *WsConnector) procActive() 
+[2018-01-24][12:28:02] [Trace] [@ ws_connector.go.100] (c *WsConnector) procActive() 
+[2018-01-24][12:28:02] [Trace] [@ ws_connector.go.100] (c *WsConnector) procActive() 
+[2018-01-24][12:28:02] [Trace] [@ ws_connector.go.100] (c *WsConnector) procActive() 
+[2018-01-24][12:28:02] [Trace] [@ ws_connector.go.100] (c *WsConnector) procActive() 
+[2018-01-24][12:28:03] [Trace] [@ ws_connector.go.100] (c *WsConnector) procActive() 
+[2018-01-24][12:28:39] [Info] [@ modulemgr.go.66] module [      net-module] registe;interval=0s,priority=2147483647
+[2018-01-24][12:28:39] [Info] [@ modulemgr.go.66] module [      dtc-module] registe;interval=1h0m0s,priority=1
+[2018-01-24][12:28:39] [Info] [@ modulemgr.go.66] module [ pressure-module] registe;interval=30s,priority=50
+[2018-01-24][12:28:39] [Trace] [@ scpacketponghandler.go.20] (this *SCPacketPongPacketFactory) CreatePacket 
+[2018-01-24][12:28:39] [Info] [@ config.go.75] =================
+[2018-01-24][12:28:39] [Info] [@ config.go.75] echo client
+[2018-01-24][12:28:39] [Info] [@ config.go.75] =================
+[2018-01-24][12:28:39] [Info] [@ loader.go.87] package [          netlib] load success
+[2018-01-24][12:28:39] [Trace] [@ timer.go.32] Timer Start
+[2018-01-24][12:28:39] [Trace] [@ timer.go.42] Timer Start [ok]
+[2018-01-24][12:28:39] [Info] [@ loader.go.87] package [           timer] load success
+[2018-01-24][12:28:39] [Info] [@ loader.go.87] package [        pressure] load success
+[2018-01-24][12:28:39] [Info] [@ loader.go.87] package [            core] load success
+[2018-01-24][12:28:39] [Info] [@ loader.go.87] package [          module] load success
+[2018-01-24][12:28:39] [Info] [@ modulemgr.go.128] Startup PreloadModules
+[2018-01-24][12:28:39] [Info] [@ modulemgr.go.134] Startup PreloadModules [ok]
+[2018-01-24][12:28:39] [Info] [@ modulemgr.go.156] Start Initialize Modules
+[2018-01-24][12:28:39] [Info] [@ modulemgr.go.160] module [      dtc-module] init...
+[2018-01-24][12:28:39] [Info] [@ modulemgr.go.162] module [      dtc-module] init[ok]
+[2018-01-24][12:28:39] [Info] [@ modulemgr.go.160] module [ pressure-module] init...
+[2018-01-24][12:28:39] [Info] [@ modulemgr.go.162] module [ pressure-module] init[ok]
+[2018-01-24][12:28:39] [Info] [@ modulemgr.go.160] module [      net-module] init...
+[2018-01-24][12:28:39] [Info] [@ modulemgr.go.162] module [      net-module] init[ok]
+[2018-01-24][12:28:39] [Info] [@ modulemgr.go.166] Start Initialize Modules [ok]
+[2018-01-24][12:28:39] [Trace] [@ trace.go.38] SessionFilterTrace.OnSessionOpened sid=1
+[2018-01-24][12:28:39] [Trace] [@ serversessionfilter.go.29] (ssf *ServerSessionFilter) OnSessionOpened
+[2018-01-24][12:28:39] [Trace] [@ trace.go.69] SessionFilterTrace.OnPacketSent sid=1 size=44
+[2018-01-24][12:28:39] [Trace] [@ trace.go.69] SessionFilterTrace.OnPacketSent sid=1 size=50
+[2018-01-24][12:28:39] [Trace] [@ ws_connector.go.103] (c *WsConnector) procActive() c.s != nil
+[2018-01-24][12:28:39] [Trace] [@ scpacketponghandler.go.20] (this *SCPacketPongPacketFactory) CreatePacket 
+[2018-01-24][12:28:39] [Trace] [@ trace.go.53] SessionFilterTrace.OnPacketReceived sid=1 packetid=1001 packet=*protocol.SCPacketPong
+[2018-01-24][12:28:39] [Trace] [@ ws_connector.go.103] (c *WsConnector) procActive() c.s != nil
+[2018-01-24][12:28:40] [Trace] [@ ws_connector.go.103] (c *WsConnector) procActive() c.s != nil
+[2018-01-24][12:28:40] [Trace] [@ ws_connector.go.103] (c *WsConnector) procActive() c.s != nil
+[2018-01-24][12:28:40] [Trace] [@ ws_connector.go.103] (c *WsConnector) procActive() c.s != nil
+[2018-01-24][12:28:40] [Trace] [@ ws_connector.go.103] (c *WsConnector) procActive() c.s != nil
+[2018-01-24][12:28:40] [Trace] [@ ws_connector.go.103] (c *WsConnector) procActive() c.s != nil
+[2018-01-24][12:28:40] [Trace] [@ ws_connector.go.103] (c *WsConnector) procActive() c.s != nil
+[2018-01-24][12:28:41] [Trace] [@ ws_connector.go.103] (c *WsConnector) procActive() c.s != nil
+[2018-01-24][12:28:41] [Trace] [@ ws_connector.go.103] (c *WsConnector) procActive() c.s != nil
+[2018-01-24][12:28:41] [Trace] [@ ws_connector.go.103] (c *WsConnector) procActive() c.s != nil
+[2018-01-24][12:28:41] [Trace] [@ ws_connector.go.103] (c *WsConnector) procActive() c.s != nil
+[2018-01-24][12:28:41] [Trace] [@ ws_connector.go.103] (c *WsConnector) procActive() c.s != nil
+[2018-01-24][12:28:41] [Trace] [@ ws_connector.go.103] (c *WsConnector) procActive() c.s != nil
+[2018-01-24][12:28:42] [Trace] [@ ws_connector.go.103] (c *WsConnector) procActive() c.s != nil
+[2018-01-24][12:28:42] [Trace] [@ ws_connector.go.103] (c *WsConnector) procActive() c.s != nil
+[2018-01-24][12:28:42] [Trace] [@ ws_connector.go.103] (c *WsConnector) procActive() c.s != nil
+[2018-01-24][12:28:42] [Trace] [@ ws_connector.go.103] (c *WsConnector) procActive() c.s != nil
+[2018-01-24][12:29:02] [Info] [@ modulemgr.go.66] module [      net-module] registe;interval=0s,priority=2147483647
+[2018-01-24][12:29:02] [Info] [@ modulemgr.go.66] module [      dtc-module] registe;interval=1h0m0s,priority=1
+[2018-01-24][12:29:02] [Info] [@ modulemgr.go.66] module [ pressure-module] registe;interval=30s,priority=50
+[2018-01-24][12:29:02] [Trace] [@ scpacketponghandler.go.20] (this *SCPacketPongPacketFactory) CreatePacket 
+[2018-01-24][12:29:02] [Trace] [@ timer.go.32] Timer Start
+[2018-01-24][12:29:02] [Trace] [@ timer.go.42] Timer Start [ok]
+[2018-01-24][12:29:02] [Info] [@ loader.go.87] package [           timer] load success
+[2018-01-24][12:29:02] [Info] [@ loader.go.87] package [        pressure] load success
+[2018-01-24][12:29:02] [Info] [@ loader.go.87] package [            core] load success
+[2018-01-24][12:29:02] [Info] [@ loader.go.87] package [          module] load success
+[2018-01-24][12:29:02] [Info] [@ config.go.75] =================
+[2018-01-24][12:29:02] [Info] [@ config.go.75] echo client
+[2018-01-24][12:29:02] [Info] [@ config.go.75] =================
+[2018-01-24][12:29:02] [Info] [@ loader.go.87] package [          netlib] load success
+[2018-01-24][12:29:02] [Info] [@ modulemgr.go.128] Startup PreloadModules
+[2018-01-24][12:29:02] [Info] [@ modulemgr.go.134] Startup PreloadModules [ok]
+[2018-01-24][12:29:03] [Info] [@ modulemgr.go.156] Start Initialize Modules
+[2018-01-24][12:29:03] [Info] [@ modulemgr.go.160] module [      dtc-module] init...
+[2018-01-24][12:29:03] [Info] [@ modulemgr.go.162] module [      dtc-module] init[ok]
+[2018-01-24][12:29:03] [Info] [@ modulemgr.go.160] module [ pressure-module] init...
+[2018-01-24][12:29:03] [Info] [@ modulemgr.go.162] module [ pressure-module] init[ok]
+[2018-01-24][12:29:03] [Info] [@ modulemgr.go.160] module [      net-module] init...
+[2018-01-24][12:29:03] [Info] [@ modulemgr.go.162] module [      net-module] init[ok]
+[2018-01-24][12:29:03] [Info] [@ modulemgr.go.166] Start Initialize Modules [ok]
+[2018-01-24][12:29:03] [Trace] [@ trace.go.38] SessionFilterTrace.OnSessionOpened sid=1
+[2018-01-24][12:29:03] [Trace] [@ serversessionfilter.go.29] (ssf *ServerSessionFilter) OnSessionOpened
+[2018-01-24][12:29:03] [Trace] [@ trace.go.69] SessionFilterTrace.OnPacketSent sid=1 size=44
+[2018-01-24][12:29:03] [Trace] [@ trace.go.69] SessionFilterTrace.OnPacketSent sid=1 size=50
+[2018-01-24][12:29:03] [Trace] [@ scpacketponghandler.go.20] (this *SCPacketPongPacketFactory) CreatePacket 
+[2018-01-24][12:29:03] [Trace] [@ trace.go.53] SessionFilterTrace.OnPacketReceived sid=1 packetid=1001 packet=*protocol.SCPacketPong
+[2018-01-24][12:29:03] [Trace] [@ scpacketponghandler.go.25] (this *SCPacketPongHandler) Process TimeStamb:1516768143 Message:"=1234567890abcderghijklmnopqrstuvwxyz=" 
+[2018-01-24][12:29:03] [Trace] [@ ws_connector.go.113] (c *WsConnector) procActive() actionpacket:1001
+[2018-01-24][12:29:03] [Trace] [@ trace.go.69] SessionFilterTrace.OnPacketSent sid=1 size=50
+[2018-01-24][12:29:03] [Trace] [@ scpacketponghandler.go.20] (this *SCPacketPongPacketFactory) CreatePacket 
+[2018-01-24][12:29:03] [Trace] [@ trace.go.53] SessionFilterTrace.OnPacketReceived sid=1 packetid=1001 packet=*protocol.SCPacketPong
+[2018-01-24][12:29:03] [Trace] [@ scpacketponghandler.go.25] (this *SCPacketPongHandler) Process TimeStamb:1516768143 Message:"=1234567890abcderghijklmnopqrstuvwxyz=" 
+[2018-01-24][12:29:03] [Trace] [@ ws_connector.go.113] (c *WsConnector) procActive() actionpacket:1001
+[2018-01-24][12:29:03] [Trace] [@ trace.go.69] SessionFilterTrace.OnPacketSent sid=1 size=50
+[2018-01-24][12:29:03] [Trace] [@ scpacketponghandler.go.20] (this *SCPacketPongPacketFactory) CreatePacket 
+[2018-01-24][12:29:03] [Trace] [@ trace.go.53] SessionFilterTrace.OnPacketReceived sid=1 packetid=1001 packet=*protocol.SCPacketPong
+[2018-01-24][12:29:03] [Trace] [@ scpacketponghandler.go.25] (this *SCPacketPongHandler) Process TimeStamb:1516768143 Message:"=1234567890abcderghijklmnopqrstuvwxyz=" 
+[2018-01-24][12:29:03] [Trace] [@ ws_connector.go.113] (c *WsConnector) procActive() actionpacket:1001
+[2018-01-24][12:29:03] [Trace] [@ trace.go.69] SessionFilterTrace.OnPacketSent sid=1 size=50
+[2018-01-24][12:29:04] [Trace] [@ scpacketponghandler.go.20] (this *SCPacketPongPacketFactory) CreatePacket 
+[2018-01-24][12:29:04] [Trace] [@ trace.go.53] SessionFilterTrace.OnPacketReceived sid=1 packetid=1001 packet=*protocol.SCPacketPong
+[2018-01-24][12:29:04] [Trace] [@ scpacketponghandler.go.25] (this *SCPacketPongHandler) Process TimeStamb:1516768143 Message:"=1234567890abcderghijklmnopqrstuvwxyz=" 
+[2018-01-24][12:29:04] [Trace] [@ ws_connector.go.113] (c *WsConnector) procActive() actionpacket:1001
+[2018-01-24][12:29:04] [Trace] [@ trace.go.69] SessionFilterTrace.OnPacketSent sid=1 size=50
+[2018-01-24][12:29:04] [Trace] [@ scpacketponghandler.go.20] (this *SCPacketPongPacketFactory) CreatePacket 
+[2018-01-24][12:29:04] [Trace] [@ trace.go.53] SessionFilterTrace.OnPacketReceived sid=1 packetid=1001 packet=*protocol.SCPacketPong
+[2018-01-24][12:29:04] [Trace] [@ scpacketponghandler.go.25] (this *SCPacketPongHandler) Process TimeStamb:1516768144 Message:"=1234567890abcderghijklmnopqrstuvwxyz=" 
+[2018-01-24][12:29:04] [Trace] [@ ws_connector.go.113] (c *WsConnector) procActive() actionpacket:1001
+[2018-01-24][12:29:04] [Trace] [@ trace.go.69] SessionFilterTrace.OnPacketSent sid=1 size=50
+[2018-01-24][12:29:04] [Trace] [@ scpacketponghandler.go.20] (this *SCPacketPongPacketFactory) CreatePacket 
+[2018-01-24][12:29:04] [Trace] [@ trace.go.53] SessionFilterTrace.OnPacketReceived sid=1 packetid=1001 packet=*protocol.SCPacketPong
+[2018-01-24][12:29:04] [Trace] [@ scpacketponghandler.go.25] (this *SCPacketPongHandler) Process TimeStamb:1516768144 Message:"=1234567890abcderghijklmnopqrstuvwxyz=" 
+[2018-01-24][12:29:04] [Trace] [@ ws_connector.go.113] (c *WsConnector) procActive() actionpacket:1001
+[2018-01-24][12:29:04] [Trace] [@ trace.go.69] SessionFilterTrace.OnPacketSent sid=1 size=50
+[2018-01-24][12:29:04] [Trace] [@ scpacketponghandler.go.20] (this *SCPacketPongPacketFactory) CreatePacket 
+[2018-01-24][12:29:04] [Trace] [@ trace.go.53] SessionFilterTrace.OnPacketReceived sid=1 packetid=1001 packet=*protocol.SCPacketPong
+[2018-01-24][12:29:04] [Trace] [@ scpacketponghandler.go.25] (this *SCPacketPongHandler) Process TimeStamb:1516768144 Message:"=1234567890abcderghijklmnopqrstuvwxyz=" 
+[2018-01-24][12:29:04] [Trace] [@ ws_connector.go.113] (c *WsConnector) procActive() actionpacket:1001
+[2018-01-24][12:29:04] [Trace] [@ trace.go.69] SessionFilterTrace.OnPacketSent sid=1 size=50
+[2018-01-24][12:29:04] [Trace] [@ scpacketponghandler.go.20] (this *SCPacketPongPacketFactory) CreatePacket 
+[2018-01-24][12:29:04] [Trace] [@ trace.go.53] SessionFilterTrace.OnPacketReceived sid=1 packetid=1001 packet=*protocol.SCPacketPong
+[2018-01-24][12:29:04] [Trace] [@ scpacketponghandler.go.25] (this *SCPacketPongHandler) Process TimeStamb:1516768144 Message:"=1234567890abcderghijklmnopqrstuvwxyz=" 
+[2018-01-24][12:29:04] [Trace] [@ ws_connector.go.113] (c *WsConnector) procActive() actionpacket:1001
+[2018-01-24][12:29:04] [Trace] [@ trace.go.69] SessionFilterTrace.OnPacketSent sid=1 size=50
+[2018-01-24][12:29:04] [Trace] [@ scpacketponghandler.go.20] (this *SCPacketPongPacketFactory) CreatePacket 
+[2018-01-24][12:29:04] [Trace] [@ trace.go.53] SessionFilterTrace.OnPacketReceived sid=1 packetid=1001 packet=*protocol.SCPacketPong
+[2018-01-24][12:29:04] [Trace] [@ scpacketponghandler.go.25] (this *SCPacketPongHandler) Process TimeStamb:1516768144 Message:"=1234567890abcderghijklmnopqrstuvwxyz=" 
+[2018-01-24][12:29:04] [Trace] [@ ws_connector.go.113] (c *WsConnector) procActive() actionpacket:1001
+[2018-01-24][12:29:04] [Trace] [@ trace.go.69] SessionFilterTrace.OnPacketSent sid=1 size=50
+[2018-01-24][12:29:04] [Trace] [@ scpacketponghandler.go.20] (this *SCPacketPongPacketFactory) CreatePacket 
+[2018-01-24][12:29:04] [Trace] [@ trace.go.53] SessionFilterTrace.OnPacketReceived sid=1 packetid=1001 packet=*protocol.SCPacketPong
+[2018-01-24][12:29:05] [Trace] [@ scpacketponghandler.go.25] (this *SCPacketPongHandler) Process TimeStamb:1516768144 Message:"=1234567890abcderghijklmnopqrstuvwxyz=" 
+[2018-01-24][12:29:05] [Trace] [@ ws_connector.go.113] (c *WsConnector) procActive() actionpacket:1001
+[2018-01-24][12:29:05] [Trace] [@ trace.go.69] SessionFilterTrace.OnPacketSent sid=1 size=50
+[2018-01-24][12:29:05] [Trace] [@ scpacketponghandler.go.20] (this *SCPacketPongPacketFactory) CreatePacket 
+[2018-01-24][12:29:05] [Trace] [@ trace.go.53] SessionFilterTrace.OnPacketReceived sid=1 packetid=1001 packet=*protocol.SCPacketPong
+[2018-01-24][12:29:05] [Trace] [@ scpacketponghandler.go.25] (this *SCPacketPongHandler) Process TimeStamb:1516768145 Message:"=1234567890abcderghijklmnopqrstuvwxyz=" 
+[2018-01-24][12:29:05] [Trace] [@ ws_connector.go.113] (c *WsConnector) procActive() actionpacket:1001
+[2018-01-24][12:29:05] [Trace] [@ trace.go.69] SessionFilterTrace.OnPacketSent sid=1 size=50
+[2018-01-24][12:29:05] [Trace] [@ scpacketponghandler.go.20] (this *SCPacketPongPacketFactory) CreatePacket 
+[2018-01-24][12:29:05] [Trace] [@ trace.go.53] SessionFilterTrace.OnPacketReceived sid=1 packetid=1001 packet=*protocol.SCPacketPong
+[2018-01-24][12:29:05] [Trace] [@ scpacketponghandler.go.25] (this *SCPacketPongHandler) Process TimeStamb:1516768145 Message:"=1234567890abcderghijklmnopqrstuvwxyz=" 
+[2018-01-24][12:29:05] [Trace] [@ ws_connector.go.113] (c *WsConnector) procActive() actionpacket:1001
+[2018-01-24][12:29:05] [Trace] [@ trace.go.69] SessionFilterTrace.OnPacketSent sid=1 size=50
+[2018-01-24][12:29:05] [Trace] [@ scpacketponghandler.go.20] (this *SCPacketPongPacketFactory) CreatePacket 
+[2018-01-24][12:29:05] [Trace] [@ trace.go.53] SessionFilterTrace.OnPacketReceived sid=1 packetid=1001 packet=*protocol.SCPacketPong
+[2018-01-24][12:29:05] [Trace] [@ scpacketponghandler.go.25] (this *SCPacketPongHandler) Process TimeStamb:1516768145 Message:"=1234567890abcderghijklmnopqrstuvwxyz=" 
+[2018-01-24][12:29:05] [Trace] [@ ws_connector.go.113] (c *WsConnector) procActive() actionpacket:1001
+[2018-01-24][12:29:05] [Trace] [@ trace.go.69] SessionFilterTrace.OnPacketSent sid=1 size=50
+[2018-01-24][12:29:05] [Trace] [@ scpacketponghandler.go.20] (this *SCPacketPongPacketFactory) CreatePacket 
+[2018-01-24][12:29:05] [Trace] [@ trace.go.53] SessionFilterTrace.OnPacketReceived sid=1 packetid=1001 packet=*protocol.SCPacketPong
+[2018-01-24][12:30:09] [Info] [@ modulemgr.go.66] module [      net-module] registe;interval=0s,priority=2147483647
+[2018-01-24][12:30:09] [Info] [@ modulemgr.go.66] module [      dtc-module] registe;interval=1h0m0s,priority=1
+[2018-01-24][12:30:09] [Info] [@ modulemgr.go.66] module [ pressure-module] registe;interval=30s,priority=50
+[2018-01-24][12:30:09] [Trace] [@ scpacketponghandler.go.20] (this *SCPacketPongPacketFactory) CreatePacket 
+[2018-01-24][12:30:09] [Info] [@ loader.go.87] package [        pressure] load success
+[2018-01-24][12:30:09] [Info] [@ loader.go.87] package [            core] load success
+[2018-01-24][12:30:09] [Info] [@ loader.go.87] package [          module] load success
+[2018-01-24][12:30:09] [Info] [@ config.go.75] =================
+[2018-01-24][12:30:09] [Info] [@ config.go.75] echo client
+[2018-01-24][12:30:09] [Info] [@ config.go.75] =================
+[2018-01-24][12:30:09] [Info] [@ loader.go.87] package [          netlib] load success
+[2018-01-24][12:30:09] [Trace] [@ timer.go.32] Timer Start
+[2018-01-24][12:30:09] [Trace] [@ timer.go.42] Timer Start [ok]
+[2018-01-24][12:30:09] [Info] [@ loader.go.87] package [           timer] load success
+[2018-01-24][12:30:09] [Info] [@ modulemgr.go.128] Startup PreloadModules
+[2018-01-24][12:30:09] [Info] [@ modulemgr.go.134] Startup PreloadModules [ok]
+[2018-01-24][12:30:09] [Info] [@ modulemgr.go.156] Start Initialize Modules
+[2018-01-24][12:30:09] [Info] [@ modulemgr.go.160] module [      dtc-module] init...
+[2018-01-24][12:30:09] [Info] [@ modulemgr.go.162] module [      dtc-module] init[ok]
+[2018-01-24][12:30:09] [Info] [@ modulemgr.go.160] module [ pressure-module] init...
+[2018-01-24][12:30:09] [Info] [@ modulemgr.go.162] module [ pressure-module] init[ok]
+[2018-01-24][12:30:09] [Info] [@ modulemgr.go.160] module [      net-module] init...
+[2018-01-24][12:30:09] [Info] [@ modulemgr.go.162] module [      net-module] init[ok]
+[2018-01-24][12:30:09] [Info] [@ modulemgr.go.166] Start Initialize Modules [ok]
+[2018-01-24][12:30:09] [Trace] [@ trace.go.38] SessionFilterTrace.OnSessionOpened sid=1
+[2018-01-24][12:30:09] [Trace] [@ serversessionfilter.go.29] (ssf *ServerSessionFilter) OnSessionOpened
+[2018-01-24][12:30:09] [Trace] [@ trace.go.69] SessionFilterTrace.OnPacketSent sid=1 size=44
+[2018-01-24][12:30:09] [Trace] [@ trace.go.69] SessionFilterTrace.OnPacketSent sid=1 size=50
+[2018-01-24][12:30:09] [Trace] [@ scpacketponghandler.go.20] (this *SCPacketPongPacketFactory) CreatePacket 
+[2018-01-24][12:30:09] [Trace] [@ trace.go.53] SessionFilterTrace.OnPacketReceived sid=1 packetid=1001 packet=*protocol.SCPacketPong
+[2018-01-24][12:30:10] [Trace] [@ scpacketponghandler.go.25] (this *SCPacketPongHandler) Process TimeStamb:1516768209 Message:"=1234567890abcderghijklmnopqrstuvwxyz=" 
+[2018-01-24][12:30:10] [Trace] [@ trace.go.69] SessionFilterTrace.OnPacketSent sid=1 size=50
+[2018-01-24][12:30:10] [Trace] [@ scpacketponghandler.go.20] (this *SCPacketPongPacketFactory) CreatePacket 
+[2018-01-24][12:30:10] [Trace] [@ trace.go.53] SessionFilterTrace.OnPacketReceived sid=1 packetid=1001 packet=*protocol.SCPacketPong
+[2018-01-24][12:30:10] [Trace] [@ scpacketponghandler.go.25] (this *SCPacketPongHandler) Process TimeStamb:1516768210 Message:"=1234567890abcderghijklmnopqrstuvwxyz=" 
+[2018-01-24][12:30:10] [Trace] [@ trace.go.69] SessionFilterTrace.OnPacketSent sid=1 size=50
+[2018-01-24][12:30:10] [Trace] [@ scpacketponghandler.go.20] (this *SCPacketPongPacketFactory) CreatePacket 
+[2018-01-24][12:30:10] [Trace] [@ trace.go.53] SessionFilterTrace.OnPacketReceived sid=1 packetid=1001 packet=*protocol.SCPacketPong
+[2018-01-24][12:30:10] [Trace] [@ scpacketponghandler.go.25] (this *SCPacketPongHandler) Process TimeStamb:1516768210 Message:"=1234567890abcderghijklmnopqrstuvwxyz=" 
+[2018-01-24][12:30:10] [Trace] [@ trace.go.69] SessionFilterTrace.OnPacketSent sid=1 size=50
+[2018-01-24][12:30:10] [Trace] [@ scpacketponghandler.go.20] (this *SCPacketPongPacketFactory) CreatePacket 
+[2018-01-24][12:30:10] [Trace] [@ trace.go.53] SessionFilterTrace.OnPacketReceived sid=1 packetid=1001 packet=*protocol.SCPacketPong
+[2018-01-24][12:30:10] [Trace] [@ scpacketponghandler.go.25] (this *SCPacketPongHandler) Process TimeStamb:1516768210 Message:"=1234567890abcderghijklmnopqrstuvwxyz=" 
+[2018-01-24][12:30:10] [Trace] [@ trace.go.69] SessionFilterTrace.OnPacketSent sid=1 size=50
+[2018-01-24][12:30:10] [Trace] [@ scpacketponghandler.go.20] (this *SCPacketPongPacketFactory) CreatePacket 
+[2018-01-24][12:30:10] [Trace] [@ trace.go.53] SessionFilterTrace.OnPacketReceived sid=1 packetid=1001 packet=*protocol.SCPacketPong
+[2018-01-24][12:30:10] [Trace] [@ scpacketponghandler.go.25] (this *SCPacketPongHandler) Process TimeStamb:1516768210 Message:"=1234567890abcderghijklmnopqrstuvwxyz=" 
+[2018-01-24][12:30:10] [Trace] [@ trace.go.69] SessionFilterTrace.OnPacketSent sid=1 size=50
+[2018-01-24][12:30:10] [Trace] [@ scpacketponghandler.go.20] (this *SCPacketPongPacketFactory) CreatePacket 
+[2018-01-24][12:30:10] [Trace] [@ trace.go.53] SessionFilterTrace.OnPacketReceived sid=1 packetid=1001 packet=*protocol.SCPacketPong
+[2018-01-24][12:30:10] [Trace] [@ scpacketponghandler.go.25] (this *SCPacketPongHandler) Process TimeStamb:1516768210 Message:"=1234567890abcderghijklmnopqrstuvwxyz=" 
+[2018-01-24][12:30:10] [Trace] [@ trace.go.69] SessionFilterTrace.OnPacketSent sid=1 size=50
+[2018-01-24][12:30:11] [Trace] [@ scpacketponghandler.go.20] (this *SCPacketPongPacketFactory) CreatePacket 
+[2018-01-24][12:30:11] [Trace] [@ trace.go.53] SessionFilterTrace.OnPacketReceived sid=1 packetid=1001 packet=*protocol.SCPacketPong
+[2018-01-24][12:30:11] [Trace] [@ scpacketponghandler.go.25] (this *SCPacketPongHandler) Process TimeStamb:1516768210 Message:"=1234567890abcderghijklmnopqrstuvwxyz=" 
+[2018-01-24][12:30:11] [Trace] [@ trace.go.69] SessionFilterTrace.OnPacketSent sid=1 size=50
+[2018-01-24][12:30:11] [Trace] [@ scpacketponghandler.go.20] (this *SCPacketPongPacketFactory) CreatePacket 
+[2018-01-24][12:30:11] [Trace] [@ trace.go.53] SessionFilterTrace.OnPacketReceived sid=1 packetid=1001 packet=*protocol.SCPacketPong
+[2018-01-24][12:30:11] [Trace] [@ scpacketponghandler.go.25] (this *SCPacketPongHandler) Process TimeStamb:1516768211 Message:"=1234567890abcderghijklmnopqrstuvwxyz=" 
+[2018-01-24][12:30:11] [Trace] [@ trace.go.69] SessionFilterTrace.OnPacketSent sid=1 size=50
+[2018-01-24][12:30:11] [Trace] [@ scpacketponghandler.go.20] (this *SCPacketPongPacketFactory) CreatePacket 
+[2018-01-24][12:30:11] [Trace] [@ trace.go.53] SessionFilterTrace.OnPacketReceived sid=1 packetid=1001 packet=*protocol.SCPacketPong
+[2018-01-24][12:30:11] [Trace] [@ scpacketponghandler.go.25] (this *SCPacketPongHandler) Process TimeStamb:1516768211 Message:"=1234567890abcderghijklmnopqrstuvwxyz=" 
+[2018-01-24][12:30:11] [Trace] [@ trace.go.69] SessionFilterTrace.OnPacketSent sid=1 size=50
+[2018-01-24][12:30:11] [Trace] [@ scpacketponghandler.go.20] (this *SCPacketPongPacketFactory) CreatePacket 
+[2018-01-24][12:30:11] [Trace] [@ trace.go.53] SessionFilterTrace.OnPacketReceived sid=1 packetid=1001 packet=*protocol.SCPacketPong
+[2018-01-24][12:30:11] [Trace] [@ scpacketponghandler.go.25] (this *SCPacketPongHandler) Process TimeStamb:1516768211 Message:"=1234567890abcderghijklmnopqrstuvwxyz=" 
+[2018-01-24][12:30:11] [Trace] [@ trace.go.69] SessionFilterTrace.OnPacketSent sid=1 size=50
+[2018-01-24][12:30:11] [Trace] [@ scpacketponghandler.go.20] (this *SCPacketPongPacketFactory) CreatePacket 
+[2018-01-24][12:30:11] [Trace] [@ trace.go.53] SessionFilterTrace.OnPacketReceived sid=1 packetid=1001 packet=*protocol.SCPacketPong
+[2018-01-24][12:30:11] [Trace] [@ scpacketponghandler.go.25] (this *SCPacketPongHandler) Process TimeStamb:1516768211 Message:"=1234567890abcderghijklmnopqrstuvwxyz=" 
+[2018-01-24][12:30:11] [Trace] [@ trace.go.69] SessionFilterTrace.OnPacketSent sid=1 size=50
+[2018-01-24][12:30:11] [Trace] [@ scpacketponghandler.go.20] (this *SCPacketPongPacketFactory) CreatePacket 
+[2018-01-24][12:30:11] [Trace] [@ trace.go.53] SessionFilterTrace.OnPacketReceived sid=1 packetid=1001 packet=*protocol.SCPacketPong
+[2018-01-24][12:30:11] [Trace] [@ scpacketponghandler.go.25] (this *SCPacketPongHandler) Process TimeStamb:1516768211 Message:"=1234567890abcderghijklmnopqrstuvwxyz=" 
+[2018-01-24][12:30:11] [Trace] [@ trace.go.69] SessionFilterTrace.OnPacketSent sid=1 size=50
+[2018-01-24][12:30:11] [Trace] [@ scpacketponghandler.go.20] (this *SCPacketPongPacketFactory) CreatePacket 
+[2018-01-24][12:30:11] [Trace] [@ trace.go.53] SessionFilterTrace.OnPacketReceived sid=1 packetid=1001 packet=*protocol.SCPacketPong
+[2018-01-24][12:30:11] [Trace] [@ scpacketponghandler.go.25] (this *SCPacketPongHandler) Process TimeStamb:1516768211 Message:"=1234567890abcderghijklmnopqrstuvwxyz=" 
+[2018-01-24][12:30:11] [Trace] [@ trace.go.69] SessionFilterTrace.OnPacketSent sid=1 size=50
+[2018-01-24][12:30:11] [Trace] [@ scpacketponghandler.go.20] (this *SCPacketPongPacketFactory) CreatePacket 
+[2018-01-24][12:30:11] [Trace] [@ trace.go.53] SessionFilterTrace.OnPacketReceived sid=1 packetid=1001 packet=*protocol.SCPacketPong
+[2018-01-24][12:30:11] [Trace] [@ scpacketponghandler.go.25] (this *SCPacketPongHandler) Process TimeStamb:1516768211 Message:"=1234567890abcderghijklmnopqrstuvwxyz=" 
+[2018-01-24][12:30:11] [Trace] [@ trace.go.69] SessionFilterTrace.OnPacketSent sid=1 size=50
+[2018-01-24][12:30:11] [Trace] [@ scpacketponghandler.go.20] (this *SCPacketPongPacketFactory) CreatePacket 
+[2018-01-24][12:30:11] [Trace] [@ trace.go.53] SessionFilterTrace.OnPacketReceived sid=1 packetid=1001 packet=*protocol.SCPacketPong
+[2018-01-24][12:30:11] [Trace] [@ scpacketponghandler.go.25] (this *SCPacketPongHandler) Process TimeStamb:1516768211 Message:"=1234567890abcderghijklmnopqrstuvwxyz=" 
+[2018-01-24][12:30:11] [Trace] [@ trace.go.69] SessionFilterTrace.OnPacketSent sid=1 size=50
+[2018-01-24][12:30:11] [Trace] [@ scpacketponghandler.go.20] (this *SCPacketPongPacketFactory) CreatePacket 
+[2018-01-24][12:30:11] [Trace] [@ trace.go.53] SessionFilterTrace.OnPacketReceived sid=1 packetid=1001 packet=*protocol.SCPacketPong
+[2018-01-24][12:30:12] [Trace] [@ scpacketponghandler.go.25] (this *SCPacketPongHandler) Process TimeStamb:1516768211 Message:"=1234567890abcderghijklmnopqrstuvwxyz=" 
+[2018-01-24][12:30:12] [Trace] [@ trace.go.69] SessionFilterTrace.OnPacketSent sid=1 size=50
+[2018-01-24][12:30:12] [Trace] [@ scpacketponghandler.go.20] (this *SCPacketPongPacketFactory) CreatePacket 
+[2018-01-24][12:30:12] [Trace] [@ trace.go.53] SessionFilterTrace.OnPacketReceived sid=1 packetid=1001 packet=*protocol.SCPacketPong
+[2018-01-24][12:30:12] [Trace] [@ scpacketponghandler.go.25] (this *SCPacketPongHandler) Process TimeStamb:1516768212 Message:"=1234567890abcderghijklmnopqrstuvwxyz=" 
+[2018-01-24][12:30:12] [Trace] [@ trace.go.69] SessionFilterTrace.OnPacketSent sid=1 size=50
+[2018-01-24][12:30:12] [Trace] [@ scpacketponghandler.go.20] (this *SCPacketPongPacketFactory) CreatePacket 
+[2018-01-24][12:30:12] [Trace] [@ trace.go.53] SessionFilterTrace.OnPacketReceived sid=1 packetid=1001 packet=*protocol.SCPacketPong
+[2018-01-24][12:30:12] [Trace] [@ scpacketponghandler.go.25] (this *SCPacketPongHandler) Process TimeStamb:1516768212 Message:"=1234567890abcderghijklmnopqrstuvwxyz=" 
+[2018-01-24][12:30:12] [Trace] [@ trace.go.69] SessionFilterTrace.OnPacketSent sid=1 size=50
+[2018-01-24][12:30:12] [Trace] [@ scpacketponghandler.go.20] (this *SCPacketPongPacketFactory) CreatePacket 
+[2018-01-24][12:30:12] [Trace] [@ trace.go.53] SessionFilterTrace.OnPacketReceived sid=1 packetid=1001 packet=*protocol.SCPacketPong
+[2018-01-24][12:30:12] [Trace] [@ scpacketponghandler.go.25] (this *SCPacketPongHandler) Process TimeStamb:1516768212 Message:"=1234567890abcderghijklmnopqrstuvwxyz=" 
+[2018-01-24][12:30:12] [Trace] [@ trace.go.69] SessionFilterTrace.OnPacketSent sid=1 size=50
+[2018-01-24][12:30:12] [Trace] [@ scpacketponghandler.go.20] (this *SCPacketPongPacketFactory) CreatePacket 
+[2018-01-24][12:30:12] [Trace] [@ trace.go.53] SessionFilterTrace.OnPacketReceived sid=1 packetid=1001 packet=*protocol.SCPacketPong
+[2018-01-24][12:30:12] [Trace] [@ scpacketponghandler.go.25] (this *SCPacketPongHandler) Process TimeStamb:1516768212 Message:"=1234567890abcderghijklmnopqrstuvwxyz=" 
+[2018-01-24][12:30:12] [Trace] [@ trace.go.69] SessionFilterTrace.OnPacketSent sid=1 size=50
+[2018-01-24][12:30:12] [Trace] [@ scpacketponghandler.go.20] (this *SCPacketPongPacketFactory) CreatePacket 
+[2018-01-24][12:30:12] [Trace] [@ trace.go.53] SessionFilterTrace.OnPacketReceived sid=1 packetid=1001 packet=*protocol.SCPacketPong
+[2018-01-24][12:30:12] [Trace] [@ scpacketponghandler.go.25] (this *SCPacketPongHandler) Process TimeStamb:1516768212 Message:"=1234567890abcderghijklmnopqrstuvwxyz=" 
+[2018-01-24][12:30:12] [Trace] [@ trace.go.69] SessionFilterTrace.OnPacketSent sid=1 size=50
+[2018-01-24][12:30:12] [Trace] [@ scpacketponghandler.go.20] (this *SCPacketPongPacketFactory) CreatePacket 
+[2018-01-24][12:30:12] [Trace] [@ trace.go.53] SessionFilterTrace.OnPacketReceived sid=1 packetid=1001 packet=*protocol.SCPacketPong
+[2018-01-24][12:30:12] [Trace] [@ scpacketponghandler.go.25] (this *SCPacketPongHandler) Process TimeStamb:1516768212 Message:"=1234567890abcderghijklmnopqrstuvwxyz=" 
+[2018-01-24][12:30:12] [Trace] [@ trace.go.69] SessionFilterTrace.OnPacketSent sid=1 size=50
+[2018-01-24][12:30:12] [Trace] [@ scpacketponghandler.go.20] (this *SCPacketPongPacketFactory) CreatePacket 
+[2018-01-24][12:30:12] [Trace] [@ trace.go.53] SessionFilterTrace.OnPacketReceived sid=1 packetid=1001 packet=*protocol.SCPacketPong
+[2018-01-24][12:30:13] [Trace] [@ scpacketponghandler.go.25] (this *SCPacketPongHandler) Process TimeStamb:1516768212 Message:"=1234567890abcderghijklmnopqrstuvwxyz=" 
+[2018-01-24][12:30:13] [Trace] [@ trace.go.69] SessionFilterTrace.OnPacketSent sid=1 size=50
+[2018-01-24][12:30:13] [Trace] [@ scpacketponghandler.go.20] (this *SCPacketPongPacketFactory) CreatePacket 
+[2018-01-24][12:30:13] [Trace] [@ trace.go.53] SessionFilterTrace.OnPacketReceived sid=1 packetid=1001 packet=*protocol.SCPacketPong
+[2018-01-24][12:30:13] [Trace] [@ scpacketponghandler.go.25] (this *SCPacketPongHandler) Process TimeStamb:1516768213 Message:"=1234567890abcderghijklmnopqrstuvwxyz=" 
+[2018-01-24][12:30:13] [Trace] [@ trace.go.69] SessionFilterTrace.OnPacketSent sid=1 size=50
+[2018-01-24][12:30:13] [Trace] [@ scpacketponghandler.go.20] (this *SCPacketPongPacketFactory) CreatePacket 
+[2018-01-24][12:30:13] [Trace] [@ trace.go.53] SessionFilterTrace.OnPacketReceived sid=1 packetid=1001 packet=*protocol.SCPacketPong
+[2018-01-24][12:30:13] [Trace] [@ scpacketponghandler.go.25] (this *SCPacketPongHandler) Process TimeStamb:1516768213 Message:"=1234567890abcderghijklmnopqrstuvwxyz=" 
+[2018-01-24][12:30:13] [Trace] [@ trace.go.69] SessionFilterTrace.OnPacketSent sid=1 size=50
+[2018-01-24][12:30:13] [Trace] [@ scpacketponghandler.go.20] (this *SCPacketPongPacketFactory) CreatePacket 
+[2018-01-24][12:30:13] [Trace] [@ trace.go.53] SessionFilterTrace.OnPacketReceived sid=1 packetid=1001 packet=*protocol.SCPacketPong
+[2018-01-24][12:30:13] [Trace] [@ scpacketponghandler.go.25] (this *SCPacketPongHandler) Process TimeStamb:1516768213 Message:"=1234567890abcderghijklmnopqrstuvwxyz=" 
+[2018-01-24][12:30:13] [Trace] [@ trace.go.69] SessionFilterTrace.OnPacketSent sid=1 size=50
+[2018-01-24][12:30:13] [Trace] [@ scpacketponghandler.go.20] (this *SCPacketPongPacketFactory) CreatePacket 
+[2018-01-24][12:30:13] [Trace] [@ trace.go.53] SessionFilterTrace.OnPacketReceived sid=1 packetid=1001 packet=*protocol.SCPacketPong
+[2018-01-24][12:30:14] [Trace] [@ scpacketponghandler.go.25] (this *SCPacketPongHandler) Process TimeStamb:1516768213 Message:"=1234567890abcderghijklmnopqrstuvwxyz=" 
+[2018-01-24][12:30:14] [Trace] [@ trace.go.69] SessionFilterTrace.OnPacketSent sid=1 size=50
+[2018-01-24][12:30:14] [Trace] [@ scpacketponghandler.go.20] (this *SCPacketPongPacketFactory) CreatePacket 
+[2018-01-24][12:30:14] [Trace] [@ trace.go.53] SessionFilterTrace.OnPacketReceived sid=1 packetid=1001 packet=*protocol.SCPacketPong
+[2018-01-24][12:30:14] [Trace] [@ scpacketponghandler.go.25] (this *SCPacketPongHandler) Process TimeStamb:1516768214 Message:"=1234567890abcderghijklmnopqrstuvwxyz=" 
+[2018-01-24][12:30:14] [Trace] [@ trace.go.69] SessionFilterTrace.OnPacketSent sid=1 size=50
+[2018-01-24][12:30:14] [Trace] [@ scpacketponghandler.go.20] (this *SCPacketPongPacketFactory) CreatePacket 
+[2018-04-12][17:26:22] [Info] [@ modulemgr.go.76] module [      net-module] registe;interval=0s,priority=2147483647
+[2018-04-12][17:26:22] [Info] [@ modulemgr.go.76] module [      dtc-module] registe;interval=1h0m0s,priority=1
+[2018-04-12][17:26:22] [Info] [@ modulemgr.go.76] module [ pressure-module] registe;interval=30s,priority=50
+[2018-04-12][17:26:22] [Info] [@ loader.go.87] package [          module] load success
+[2018-04-12][17:26:22] [Info] [@ config.go.77] =================
+[2018-04-12][17:26:22] [Info] [@ config.go.77] echo client
+[2018-04-12][17:26:22] [Info] [@ config.go.77] =================
+[2018-04-12][17:26:22] [Info] [@ loader.go.87] package [          netlib] load success
+[2018-04-12][17:26:22] [Trace] [@ timer.go.32] Timer Start
+[2018-04-12][17:26:22] [Trace] [@ timer.go.42] Timer Start [ok]
+[2018-04-12][17:26:22] [Info] [@ loader.go.87] package [           timer] load success
+[2018-04-12][17:26:22] [Info] [@ loader.go.87] package [        pressure] load success
+[2018-04-12][17:26:22] [Info] [@ loader.go.87] package [            core] load success
+[2018-04-12][17:26:22] [Info] [@ modulemgr.go.138] Startup PreloadModules
+[2018-04-12][17:26:22] [Info] [@ modulemgr.go.144] Startup PreloadModules [ok]
+[2018-04-12][17:26:23] [Info] [@ modulemgr.go.166] Start Initialize Modules
+[2018-04-12][17:26:23] [Info] [@ modulemgr.go.170] module [      dtc-module] init...
+[2018-04-12][17:26:23] [Info] [@ modulemgr.go.172] module [      dtc-module] init[ok]
+[2018-04-12][17:26:23] [Info] [@ modulemgr.go.170] module [ pressure-module] init...
+[2018-04-12][17:26:23] [Info] [@ modulemgr.go.172] module [ pressure-module] init[ok]
+[2018-04-12][17:26:23] [Info] [@ modulemgr.go.170] module [      net-module] init...
+[2018-04-12][17:26:23] [Info] [@ modulemgr.go.172] module [      net-module] init[ok]
+[2018-04-12][17:26:23] [Info] [@ modulemgr.go.176] Start Initialize Modules [ok]
+[2018-04-12][17:26:23] [Trace] [@ trace.go.38] SessionFilterTrace.OnSessionOpened sid=1
+[2018-04-12][17:26:23] [Trace] [@ serversessionfilter.go.29] (ssf *ServerSessionFilter) OnSessionOpened
+[2018-04-12][17:26:23] [Trace] [@ trace.go.69] SessionFilterTrace.OnPacketSent sid=1 size=50
+[2018-04-12][17:26:23] [Trace] [@ tcp_session.go.156] s.sc.decoder.Decode(packetid:0) err:EOF 
+[2018-04-12][17:26:23] [Trace] [@ tcp_session.go.119] 1 ->close: TcpSession.recvRoutine err: EOF
+[2018-04-12][17:26:23] [Trace] [@ tcp_session.go.182] 1 shutRead
+[2018-04-12][17:26:23] [Trace] [@ tcp_session.go.62] 1 ->close: TcpSession.sendRoutine err: [comm expt]normal close send
+[2018-04-12][17:26:23] [Trace] [@ tcp_session.go.193] 1 shutWrite
+[2018-04-12][17:26:23] [Trace] [@ trace.go.43] SessionFilterTrace.OnSessionClosed sid=1
+[2018-04-12][17:26:23] [Trace] [@ trace.go.38] SessionFilterTrace.OnSessionOpened sid=2
+[2018-04-12][17:26:23] [Trace] [@ serversessionfilter.go.29] (ssf *ServerSessionFilter) OnSessionOpened
+[2018-04-12][17:26:23] [Trace] [@ trace.go.69] SessionFilterTrace.OnPacketSent sid=2 size=50
+[2018-04-12][17:26:23] [Trace] [@ tcp_session.go.156] s.sc.decoder.Decode(packetid:0) err:EOF 
+[2018-04-12][17:26:23] [Trace] [@ tcp_session.go.119] 2 ->close: TcpSession.recvRoutine err: EOF
+[2018-04-12][17:26:23] [Trace] [@ tcp_session.go.182] 2 shutRead
+[2018-04-12][17:26:23] [Trace] [@ tcp_session.go.62] 2 ->close: TcpSession.sendRoutine err: [comm expt]normal close send
+[2018-04-12][17:26:23] [Trace] [@ tcp_session.go.193] 2 shutWrite
+[2018-04-12][17:26:23] [Trace] [@ trace.go.43] SessionFilterTrace.OnSessionClosed sid=2
+[2018-04-12][17:26:23] [Trace] [@ trace.go.38] SessionFilterTrace.OnSessionOpened sid=3
+[2018-04-12][17:26:23] [Trace] [@ serversessionfilter.go.29] (ssf *ServerSessionFilter) OnSessionOpened
+[2018-04-12][17:26:23] [Trace] [@ trace.go.69] SessionFilterTrace.OnPacketSent sid=3 size=50
+[2018-04-12][17:26:23] [Trace] [@ tcp_session.go.156] s.sc.decoder.Decode(packetid:0) err:EOF 
+[2018-04-12][17:26:23] [Trace] [@ tcp_session.go.119] 3 ->close: TcpSession.recvRoutine err: EOF
+[2018-04-12][17:26:23] [Trace] [@ tcp_session.go.182] 3 shutRead
+[2018-04-12][17:26:23] [Trace] [@ tcp_session.go.62] 3 ->close: TcpSession.sendRoutine err: [comm expt]normal close send
+[2018-04-12][17:26:23] [Trace] [@ tcp_session.go.193] 3 shutWrite
+[2018-04-12][17:26:23] [Trace] [@ trace.go.43] SessionFilterTrace.OnSessionClosed sid=3
+[2018-04-12][17:26:23] [Trace] [@ trace.go.38] SessionFilterTrace.OnSessionOpened sid=4
+[2018-04-12][17:26:23] [Trace] [@ serversessionfilter.go.29] (ssf *ServerSessionFilter) OnSessionOpened
+[2018-04-12][17:26:23] [Trace] [@ trace.go.69] SessionFilterTrace.OnPacketSent sid=4 size=50
+[2018-04-12][17:26:23] [Trace] [@ tcp_session.go.156] s.sc.decoder.Decode(packetid:0) err:EOF 
+[2018-04-12][17:26:23] [Trace] [@ tcp_session.go.119] 4 ->close: TcpSession.recvRoutine err: EOF
+[2018-04-12][17:26:23] [Trace] [@ tcp_session.go.182] 4 shutRead
+[2018-04-12][17:26:23] [Trace] [@ tcp_session.go.62] 4 ->close: TcpSession.sendRoutine err: [comm expt]normal close send
+[2018-04-12][17:26:23] [Trace] [@ tcp_session.go.193] 4 shutWrite
+[2018-04-12][17:26:23] [Trace] [@ trace.go.43] SessionFilterTrace.OnSessionClosed sid=4
+[2018-04-12][17:26:23] [Trace] [@ trace.go.38] SessionFilterTrace.OnSessionOpened sid=5
+[2018-04-12][17:26:23] [Trace] [@ serversessionfilter.go.29] (ssf *ServerSessionFilter) OnSessionOpened
+[2018-04-12][17:26:23] [Trace] [@ trace.go.69] SessionFilterTrace.OnPacketSent sid=5 size=50
+[2018-04-12][17:26:24] [Trace] [@ tcp_session.go.156] s.sc.decoder.Decode(packetid:0) err:EOF 
+[2018-04-12][17:26:24] [Trace] [@ tcp_session.go.119] 5 ->close: TcpSession.recvRoutine err: EOF
+[2018-04-12][17:26:24] [Trace] [@ tcp_session.go.182] 5 shutRead
+[2018-04-12][17:26:24] [Trace] [@ tcp_session.go.62] 5 ->close: TcpSession.sendRoutine err: [comm expt]normal close send
+[2018-04-12][17:26:24] [Trace] [@ tcp_session.go.193] 5 shutWrite
+[2018-04-12][17:26:24] [Trace] [@ trace.go.43] SessionFilterTrace.OnSessionClosed sid=5
+[2018-04-12][17:26:24] [Trace] [@ trace.go.38] SessionFilterTrace.OnSessionOpened sid=6
+[2018-04-12][17:26:24] [Trace] [@ serversessionfilter.go.29] (ssf *ServerSessionFilter) OnSessionOpened
+[2018-04-12][17:26:24] [Trace] [@ trace.go.69] SessionFilterTrace.OnPacketSent sid=6 size=50
+[2018-04-12][17:26:24] [Trace] [@ tcp_session.go.156] s.sc.decoder.Decode(packetid:0) err:EOF 
+[2018-04-12][17:26:24] [Trace] [@ tcp_session.go.119] 6 ->close: TcpSession.recvRoutine err: EOF
+[2018-04-12][17:26:24] [Trace] [@ tcp_session.go.182] 6 shutRead
+[2018-04-12][17:26:24] [Trace] [@ tcp_session.go.62] 6 ->close: TcpSession.sendRoutine err: [comm expt]normal close send
+[2018-04-12][17:26:24] [Trace] [@ tcp_session.go.193] 6 shutWrite
+[2018-04-12][17:26:24] [Trace] [@ trace.go.43] SessionFilterTrace.OnSessionClosed sid=6
+[2018-04-12][17:26:24] [Trace] [@ trace.go.38] SessionFilterTrace.OnSessionOpened sid=7
+[2018-04-12][17:26:24] [Trace] [@ serversessionfilter.go.29] (ssf *ServerSessionFilter) OnSessionOpened
+[2018-04-12][17:26:24] [Trace] [@ trace.go.69] SessionFilterTrace.OnPacketSent sid=7 size=50
+[2018-04-12][17:26:24] [Trace] [@ tcp_session.go.156] s.sc.decoder.Decode(packetid:0) err:EOF 
+[2018-04-12][17:26:24] [Trace] [@ tcp_session.go.119] 7 ->close: TcpSession.recvRoutine err: EOF
+[2018-04-12][17:26:24] [Trace] [@ tcp_session.go.182] 7 shutRead
+[2018-04-12][17:26:24] [Trace] [@ tcp_session.go.62] 7 ->close: TcpSession.sendRoutine err: [comm expt]normal close send
+[2018-04-12][17:26:24] [Trace] [@ tcp_session.go.193] 7 shutWrite
+[2018-04-12][17:26:24] [Trace] [@ trace.go.43] SessionFilterTrace.OnSessionClosed sid=7
+[2018-04-12][17:26:24] [Trace] [@ trace.go.38] SessionFilterTrace.OnSessionOpened sid=8
+[2018-04-12][17:26:24] [Trace] [@ serversessionfilter.go.29] (ssf *ServerSessionFilter) OnSessionOpened
+[2018-04-12][17:26:24] [Trace] [@ trace.go.69] SessionFilterTrace.OnPacketSent sid=8 size=50
+[2018-04-12][17:26:24] [Trace] [@ tcp_session.go.156] s.sc.decoder.Decode(packetid:0) err:EOF 
+[2018-04-12][17:26:24] [Trace] [@ tcp_session.go.119] 8 ->close: TcpSession.recvRoutine err: EOF
+[2018-04-12][17:26:24] [Trace] [@ tcp_session.go.182] 8 shutRead
+[2018-04-12][17:26:24] [Trace] [@ tcp_session.go.62] 8 ->close: TcpSession.sendRoutine err: [comm expt]normal close send
+[2018-04-12][17:26:24] [Trace] [@ tcp_session.go.193] 8 shutWrite
+[2018-04-12][17:26:24] [Trace] [@ trace.go.43] SessionFilterTrace.OnSessionClosed sid=8
+[2018-04-12][17:26:24] [Trace] [@ trace.go.38] SessionFilterTrace.OnSessionOpened sid=9
+[2018-04-12][17:26:24] [Trace] [@ serversessionfilter.go.29] (ssf *ServerSessionFilter) OnSessionOpened
+[2018-04-12][17:26:24] [Trace] [@ trace.go.69] SessionFilterTrace.OnPacketSent sid=9 size=50
+[2018-04-12][17:26:24] [Trace] [@ tcp_session.go.156] s.sc.decoder.Decode(packetid:0) err:EOF 
+[2018-04-12][17:26:24] [Trace] [@ tcp_session.go.119] 9 ->close: TcpSession.recvRoutine err: EOF
+[2018-04-12][17:26:24] [Trace] [@ tcp_session.go.182] 9 shutRead
+[2018-04-12][17:26:24] [Trace] [@ tcp_session.go.62] 9 ->close: TcpSession.sendRoutine err: [comm expt]normal close send
+[2018-04-12][17:26:24] [Trace] [@ tcp_session.go.193] 9 shutWrite
+[2018-04-12][17:26:24] [Trace] [@ trace.go.43] SessionFilterTrace.OnSessionClosed sid=9
+[2018-04-12][17:26:24] [Trace] [@ trace.go.38] SessionFilterTrace.OnSessionOpened sid=10
+[2018-04-12][17:26:24] [Trace] [@ serversessionfilter.go.29] (ssf *ServerSessionFilter) OnSessionOpened
+[2018-04-12][17:26:24] [Trace] [@ trace.go.69] SessionFilterTrace.OnPacketSent sid=10 size=50
+[2018-04-12][17:26:25] [Trace] [@ tcp_session.go.156] s.sc.decoder.Decode(packetid:0) err:EOF 
+[2018-04-12][17:26:25] [Trace] [@ tcp_session.go.119] 10 ->close: TcpSession.recvRoutine err: EOF
+[2018-04-12][17:26:25] [Trace] [@ tcp_session.go.182] 10 shutRead
+[2018-04-12][17:26:25] [Trace] [@ tcp_session.go.62] 10 ->close: TcpSession.sendRoutine err: [comm expt]normal close send
+[2018-04-12][17:26:25] [Trace] [@ tcp_session.go.193] 10 shutWrite
+[2018-04-12][17:26:25] [Trace] [@ trace.go.43] SessionFilterTrace.OnSessionClosed sid=10
+[2018-04-12][17:26:25] [Trace] [@ trace.go.38] SessionFilterTrace.OnSessionOpened sid=11
+[2018-04-12][17:26:25] [Trace] [@ serversessionfilter.go.29] (ssf *ServerSessionFilter) OnSessionOpened
+[2018-04-12][17:26:25] [Trace] [@ trace.go.69] SessionFilterTrace.OnPacketSent sid=11 size=50
+[2018-04-12][17:26:25] [Trace] [@ tcp_session.go.156] s.sc.decoder.Decode(packetid:0) err:EOF 
+[2018-04-12][17:26:25] [Trace] [@ tcp_session.go.119] 11 ->close: TcpSession.recvRoutine err: EOF
+[2018-04-12][17:26:25] [Trace] [@ tcp_session.go.182] 11 shutRead
+[2018-04-12][17:26:25] [Trace] [@ tcp_session.go.62] 11 ->close: TcpSession.sendRoutine err: [comm expt]normal close send
+[2018-04-12][17:26:25] [Trace] [@ tcp_session.go.193] 11 shutWrite
+[2018-04-12][17:26:25] [Trace] [@ trace.go.43] SessionFilterTrace.OnSessionClosed sid=11
+[2018-04-12][17:26:25] [Trace] [@ trace.go.38] SessionFilterTrace.OnSessionOpened sid=12
+[2018-04-12][17:26:25] [Trace] [@ serversessionfilter.go.29] (ssf *ServerSessionFilter) OnSessionOpened
+[2018-04-12][17:26:25] [Trace] [@ trace.go.69] SessionFilterTrace.OnPacketSent sid=12 size=50
+[2018-04-12][17:26:25] [Trace] [@ tcp_session.go.156] s.sc.decoder.Decode(packetid:0) err:EOF 
+[2018-04-12][17:26:25] [Trace] [@ tcp_session.go.119] 12 ->close: TcpSession.recvRoutine err: EOF
+[2018-04-12][17:26:25] [Trace] [@ tcp_session.go.182] 12 shutRead
+[2018-04-12][17:26:25] [Trace] [@ tcp_session.go.62] 12 ->close: TcpSession.sendRoutine err: [comm expt]normal close send
+[2018-04-12][17:26:25] [Trace] [@ tcp_session.go.193] 12 shutWrite
+[2018-04-12][17:26:25] [Trace] [@ trace.go.43] SessionFilterTrace.OnSessionClosed sid=12
+[2018-04-12][17:26:25] [Trace] [@ trace.go.38] SessionFilterTrace.OnSessionOpened sid=13
+[2018-04-12][17:26:25] [Trace] [@ serversessionfilter.go.29] (ssf *ServerSessionFilter) OnSessionOpened
+[2018-04-12][17:26:25] [Trace] [@ trace.go.69] SessionFilterTrace.OnPacketSent sid=13 size=50
+[2018-04-12][17:26:25] [Trace] [@ tcp_session.go.156] s.sc.decoder.Decode(packetid:0) err:EOF 
+[2018-04-12][17:26:25] [Trace] [@ tcp_session.go.119] 13 ->close: TcpSession.recvRoutine err: EOF
+[2018-04-12][17:26:25] [Trace] [@ tcp_session.go.182] 13 shutRead
+[2018-04-12][17:26:25] [Trace] [@ tcp_session.go.62] 13 ->close: TcpSession.sendRoutine err: [comm expt]normal close send
+[2018-04-12][17:26:25] [Trace] [@ tcp_session.go.193] 13 shutWrite
+[2018-04-12][17:26:25] [Trace] [@ trace.go.43] SessionFilterTrace.OnSessionClosed sid=13
+[2018-04-12][17:26:25] [Trace] [@ trace.go.38] SessionFilterTrace.OnSessionOpened sid=14
+[2018-04-12][17:26:25] [Trace] [@ serversessionfilter.go.29] (ssf *ServerSessionFilter) OnSessionOpened
+[2018-04-12][17:26:25] [Trace] [@ trace.go.69] SessionFilterTrace.OnPacketSent sid=14 size=50
+[2018-04-12][17:26:25] [Trace] [@ tcp_session.go.156] s.sc.decoder.Decode(packetid:0) err:EOF 
+[2018-04-12][17:26:25] [Trace] [@ tcp_session.go.119] 14 ->close: TcpSession.recvRoutine err: EOF
+[2018-04-12][17:26:25] [Trace] [@ tcp_session.go.182] 14 shutRead
+[2018-04-12][17:26:25] [Trace] [@ tcp_session.go.62] 14 ->close: TcpSession.sendRoutine err: [comm expt]normal close send
+[2018-04-12][17:26:25] [Trace] [@ tcp_session.go.193] 14 shutWrite
+[2018-04-12][17:26:25] [Trace] [@ trace.go.43] SessionFilterTrace.OnSessionClosed sid=14
+[2018-04-12][17:26:25] [Trace] [@ trace.go.38] SessionFilterTrace.OnSessionOpened sid=15
+[2018-04-12][17:26:25] [Trace] [@ serversessionfilter.go.29] (ssf *ServerSessionFilter) OnSessionOpened
+[2018-04-12][17:26:25] [Trace] [@ trace.go.69] SessionFilterTrace.OnPacketSent sid=15 size=50
+[2018-04-12][17:26:26] [Trace] [@ tcp_session.go.156] s.sc.decoder.Decode(packetid:0) err:EOF 
+[2018-04-12][17:26:26] [Trace] [@ tcp_session.go.119] 15 ->close: TcpSession.recvRoutine err: EOF
+[2018-04-12][17:26:26] [Trace] [@ tcp_session.go.182] 15 shutRead
+[2018-04-12][17:26:26] [Trace] [@ tcp_session.go.62] 15 ->close: TcpSession.sendRoutine err: [comm expt]normal close send
+[2018-04-12][17:26:26] [Trace] [@ tcp_session.go.193] 15 shutWrite
+[2018-04-12][17:26:26] [Trace] [@ trace.go.43] SessionFilterTrace.OnSessionClosed sid=15
+[2018-04-12][17:26:26] [Trace] [@ trace.go.38] SessionFilterTrace.OnSessionOpened sid=16
+[2018-04-12][17:26:26] [Trace] [@ serversessionfilter.go.29] (ssf *ServerSessionFilter) OnSessionOpened
+[2018-04-12][17:26:26] [Trace] [@ trace.go.69] SessionFilterTrace.OnPacketSent sid=16 size=50
+[2018-04-12][17:26:26] [Trace] [@ tcp_session.go.156] s.sc.decoder.Decode(packetid:0) err:EOF 
+[2018-04-12][17:26:26] [Trace] [@ tcp_session.go.119] 16 ->close: TcpSession.recvRoutine err: EOF
+[2018-04-12][17:26:26] [Trace] [@ tcp_session.go.182] 16 shutRead
+[2018-04-12][17:26:26] [Trace] [@ tcp_session.go.62] 16 ->close: TcpSession.sendRoutine err: [comm expt]normal close send
+[2018-04-12][17:26:26] [Trace] [@ tcp_session.go.193] 16 shutWrite
+[2018-04-12][17:26:26] [Trace] [@ trace.go.43] SessionFilterTrace.OnSessionClosed sid=16
+[2018-04-12][17:26:26] [Trace] [@ trace.go.38] SessionFilterTrace.OnSessionOpened sid=17
+[2018-04-12][17:26:26] [Trace] [@ serversessionfilter.go.29] (ssf *ServerSessionFilter) OnSessionOpened
+[2018-04-12][17:26:26] [Trace] [@ trace.go.69] SessionFilterTrace.OnPacketSent sid=17 size=50
+[2018-04-12][17:26:26] [Trace] [@ tcp_session.go.156] s.sc.decoder.Decode(packetid:0) err:EOF 
+[2018-04-12][17:26:26] [Trace] [@ tcp_session.go.119] 17 ->close: TcpSession.recvRoutine err: EOF
+[2018-04-12][17:26:26] [Trace] [@ tcp_session.go.182] 17 shutRead
+[2018-04-12][17:26:26] [Trace] [@ tcp_session.go.62] 17 ->close: TcpSession.sendRoutine err: [comm expt]normal close send
+[2018-04-12][17:26:26] [Trace] [@ tcp_session.go.193] 17 shutWrite
+[2018-04-12][17:26:26] [Trace] [@ trace.go.43] SessionFilterTrace.OnSessionClosed sid=17
+[2018-04-12][17:26:26] [Trace] [@ trace.go.38] SessionFilterTrace.OnSessionOpened sid=18
+[2018-04-12][17:26:26] [Trace] [@ serversessionfilter.go.29] (ssf *ServerSessionFilter) OnSessionOpened
+[2018-04-12][17:26:26] [Trace] [@ trace.go.69] SessionFilterTrace.OnPacketSent sid=18 size=50
+[2018-04-12][17:26:26] [Trace] [@ tcp_session.go.156] s.sc.decoder.Decode(packetid:0) err:EOF 
+[2018-04-12][17:26:26] [Trace] [@ tcp_session.go.119] 18 ->close: TcpSession.recvRoutine err: EOF
+[2018-04-12][17:26:26] [Trace] [@ tcp_session.go.182] 18 shutRead
+[2018-04-12][17:26:26] [Trace] [@ tcp_session.go.62] 18 ->close: TcpSession.sendRoutine err: [comm expt]normal close send
+[2018-04-12][17:26:26] [Trace] [@ tcp_session.go.193] 18 shutWrite
+[2018-04-12][17:26:26] [Trace] [@ trace.go.43] SessionFilterTrace.OnSessionClosed sid=18
+[2018-04-12][17:26:26] [Trace] [@ trace.go.38] SessionFilterTrace.OnSessionOpened sid=19
+[2018-04-12][17:26:26] [Trace] [@ serversessionfilter.go.29] (ssf *ServerSessionFilter) OnSessionOpened
+[2018-04-12][17:26:26] [Trace] [@ trace.go.69] SessionFilterTrace.OnPacketSent sid=19 size=50
+[2018-04-12][17:26:26] [Trace] [@ tcp_session.go.156] s.sc.decoder.Decode(packetid:0) err:EOF 
+[2018-04-12][17:26:26] [Trace] [@ tcp_session.go.119] 19 ->close: TcpSession.recvRoutine err: EOF
+[2018-04-12][17:26:26] [Trace] [@ tcp_session.go.182] 19 shutRead
+[2018-04-12][17:26:26] [Trace] [@ tcp_session.go.62] 19 ->close: TcpSession.sendRoutine err: [comm expt]normal close send
+[2018-04-12][17:26:26] [Trace] [@ tcp_session.go.193] 19 shutWrite
+[2018-04-12][17:26:26] [Trace] [@ trace.go.43] SessionFilterTrace.OnSessionClosed sid=19
+[2018-04-12][17:26:26] [Trace] [@ trace.go.38] SessionFilterTrace.OnSessionOpened sid=20
+[2018-04-12][17:26:26] [Trace] [@ serversessionfilter.go.29] (ssf *ServerSessionFilter) OnSessionOpened
+[2018-04-12][17:26:26] [Trace] [@ trace.go.69] SessionFilterTrace.OnPacketSent sid=20 size=50
+[2018-04-12][17:26:27] [Trace] [@ tcp_session.go.156] s.sc.decoder.Decode(packetid:0) err:EOF 
+[2018-04-12][17:26:27] [Trace] [@ tcp_session.go.119] 20 ->close: TcpSession.recvRoutine err: EOF
+[2018-04-12][17:26:27] [Trace] [@ tcp_session.go.182] 20 shutRead
+[2018-04-12][17:26:27] [Trace] [@ tcp_session.go.62] 20 ->close: TcpSession.sendRoutine err: [comm expt]normal close send
+[2018-04-12][17:26:27] [Trace] [@ tcp_session.go.193] 20 shutWrite
+[2018-04-12][17:26:27] [Trace] [@ trace.go.43] SessionFilterTrace.OnSessionClosed sid=20
+[2018-04-12][17:26:27] [Trace] [@ trace.go.38] SessionFilterTrace.OnSessionOpened sid=21
+[2018-04-12][17:26:27] [Trace] [@ serversessionfilter.go.29] (ssf *ServerSessionFilter) OnSessionOpened
+[2018-04-12][17:26:27] [Trace] [@ trace.go.69] SessionFilterTrace.OnPacketSent sid=21 size=50
+[2018-04-12][17:26:27] [Trace] [@ tcp_session.go.156] s.sc.decoder.Decode(packetid:0) err:EOF 
+[2018-04-12][17:26:27] [Trace] [@ tcp_session.go.119] 21 ->close: TcpSession.recvRoutine err: EOF
+[2018-04-12][17:26:27] [Trace] [@ tcp_session.go.182] 21 shutRead
+[2018-04-12][17:26:27] [Trace] [@ tcp_session.go.62] 21 ->close: TcpSession.sendRoutine err: [comm expt]normal close send
+[2018-04-12][17:26:27] [Trace] [@ tcp_session.go.193] 21 shutWrite
+[2018-04-12][17:26:27] [Trace] [@ trace.go.43] SessionFilterTrace.OnSessionClosed sid=21
+[2018-04-12][17:26:27] [Trace] [@ trace.go.38] SessionFilterTrace.OnSessionOpened sid=22
+[2018-04-12][17:26:27] [Trace] [@ serversessionfilter.go.29] (ssf *ServerSessionFilter) OnSessionOpened
+[2018-04-12][17:26:27] [Trace] [@ trace.go.69] SessionFilterTrace.OnPacketSent sid=22 size=50
+[2018-04-12][17:26:27] [Trace] [@ tcp_session.go.156] s.sc.decoder.Decode(packetid:0) err:EOF 
+[2018-04-12][17:26:27] [Trace] [@ tcp_session.go.119] 22 ->close: TcpSession.recvRoutine err: EOF
+[2018-04-12][17:26:27] [Trace] [@ tcp_session.go.182] 22 shutRead
+[2018-04-12][17:26:27] [Trace] [@ tcp_session.go.62] 22 ->close: TcpSession.sendRoutine err: [comm expt]normal close send
+[2018-04-12][17:26:27] [Trace] [@ tcp_session.go.193] 22 shutWrite
+[2018-04-12][17:26:27] [Trace] [@ trace.go.43] SessionFilterTrace.OnSessionClosed sid=22
+[2018-04-12][17:26:27] [Trace] [@ trace.go.38] SessionFilterTrace.OnSessionOpened sid=23
+[2018-04-12][17:26:27] [Trace] [@ serversessionfilter.go.29] (ssf *ServerSessionFilter) OnSessionOpened
+[2018-04-12][17:26:27] [Trace] [@ trace.go.69] SessionFilterTrace.OnPacketSent sid=23 size=50
+[2018-04-12][17:26:27] [Trace] [@ tcp_session.go.156] s.sc.decoder.Decode(packetid:0) err:EOF 
+[2018-04-12][17:26:27] [Trace] [@ tcp_session.go.119] 23 ->close: TcpSession.recvRoutine err: EOF
+[2018-04-12][17:26:27] [Trace] [@ tcp_session.go.182] 23 shutRead
+[2018-04-12][17:26:27] [Trace] [@ tcp_session.go.62] 23 ->close: TcpSession.sendRoutine err: [comm expt]normal close send
+[2018-04-12][17:26:27] [Trace] [@ tcp_session.go.193] 23 shutWrite
+[2018-04-12][17:26:27] [Trace] [@ trace.go.43] SessionFilterTrace.OnSessionClosed sid=23
+[2018-04-12][17:26:27] [Trace] [@ trace.go.38] SessionFilterTrace.OnSessionOpened sid=24
+[2018-04-12][17:26:27] [Trace] [@ serversessionfilter.go.29] (ssf *ServerSessionFilter) OnSessionOpened
+[2018-04-12][17:26:27] [Trace] [@ trace.go.69] SessionFilterTrace.OnPacketSent sid=24 size=50
+[2018-04-12][17:26:27] [Trace] [@ tcp_session.go.156] s.sc.decoder.Decode(packetid:0) err:EOF 
+[2018-04-12][17:26:27] [Trace] [@ tcp_session.go.119] 24 ->close: TcpSession.recvRoutine err: EOF
+[2018-04-12][17:26:27] [Trace] [@ tcp_session.go.182] 24 shutRead
+[2018-04-12][17:26:27] [Trace] [@ tcp_session.go.62] 24 ->close: TcpSession.sendRoutine err: [comm expt]normal close send
+[2018-04-12][17:26:27] [Trace] [@ tcp_session.go.193] 24 shutWrite
+[2018-04-12][17:26:27] [Trace] [@ trace.go.43] SessionFilterTrace.OnSessionClosed sid=24
+[2018-04-12][17:26:27] [Trace] [@ trace.go.38] SessionFilterTrace.OnSessionOpened sid=25
+[2018-04-12][17:26:27] [Trace] [@ serversessionfilter.go.29] (ssf *ServerSessionFilter) OnSessionOpened
+[2018-04-12][17:26:27] [Trace] [@ trace.go.69] SessionFilterTrace.OnPacketSent sid=25 size=50
+[2018-04-12][17:26:28] [Trace] [@ tcp_session.go.156] s.sc.decoder.Decode(packetid:0) err:EOF 
+[2018-04-12][17:26:28] [Trace] [@ tcp_session.go.119] 25 ->close: TcpSession.recvRoutine err: EOF
+[2018-04-12][17:26:28] [Trace] [@ tcp_session.go.182] 25 shutRead
+[2018-04-12][17:26:28] [Trace] [@ tcp_session.go.62] 25 ->close: TcpSession.sendRoutine err: [comm expt]normal close send
+[2018-04-12][17:26:28] [Trace] [@ tcp_session.go.193] 25 shutWrite
+[2018-04-12][17:26:28] [Trace] [@ trace.go.43] SessionFilterTrace.OnSessionClosed sid=25
+[2018-04-12][17:26:28] [Trace] [@ trace.go.38] SessionFilterTrace.OnSessionOpened sid=26
+[2018-04-12][17:26:28] [Trace] [@ serversessionfilter.go.29] (ssf *ServerSessionFilter) OnSessionOpened
+[2018-04-12][17:26:28] [Trace] [@ trace.go.69] SessionFilterTrace.OnPacketSent sid=26 size=50
+[2018-04-12][17:26:28] [Trace] [@ tcp_session.go.156] s.sc.decoder.Decode(packetid:0) err:EOF 
+[2018-04-12][17:26:28] [Trace] [@ tcp_session.go.119] 26 ->close: TcpSession.recvRoutine err: EOF
+[2018-04-12][17:26:28] [Trace] [@ tcp_session.go.182] 26 shutRead
+[2018-04-12][17:26:28] [Trace] [@ tcp_session.go.62] 26 ->close: TcpSession.sendRoutine err: [comm expt]normal close send
+[2018-04-12][17:26:28] [Trace] [@ tcp_session.go.193] 26 shutWrite
+[2018-04-12][17:26:28] [Trace] [@ trace.go.43] SessionFilterTrace.OnSessionClosed sid=26
+[2018-04-12][17:26:28] [Trace] [@ trace.go.38] SessionFilterTrace.OnSessionOpened sid=27
+[2018-04-12][17:26:28] [Trace] [@ serversessionfilter.go.29] (ssf *ServerSessionFilter) OnSessionOpened
+[2018-04-12][17:26:28] [Trace] [@ trace.go.69] SessionFilterTrace.OnPacketSent sid=27 size=50
+[2018-04-12][17:26:28] [Trace] [@ tcp_session.go.156] s.sc.decoder.Decode(packetid:0) err:EOF 
+[2018-04-12][17:26:28] [Trace] [@ tcp_session.go.119] 27 ->close: TcpSession.recvRoutine err: EOF
+[2018-04-12][17:26:28] [Trace] [@ tcp_session.go.182] 27 shutRead
+[2018-04-12][17:26:28] [Trace] [@ tcp_session.go.62] 27 ->close: TcpSession.sendRoutine err: [comm expt]normal close send
+[2018-04-12][17:26:28] [Trace] [@ tcp_session.go.193] 27 shutWrite
+[2018-04-12][17:26:28] [Trace] [@ trace.go.43] SessionFilterTrace.OnSessionClosed sid=27
+[2018-04-12][17:26:28] [Trace] [@ trace.go.38] SessionFilterTrace.OnSessionOpened sid=28
+[2018-04-12][17:26:28] [Trace] [@ serversessionfilter.go.29] (ssf *ServerSessionFilter) OnSessionOpened
+[2018-04-12][17:26:28] [Trace] [@ trace.go.69] SessionFilterTrace.OnPacketSent sid=28 size=50
+[2018-04-12][17:26:28] [Trace] [@ tcp_session.go.156] s.sc.decoder.Decode(packetid:0) err:EOF 
+[2018-04-12][17:26:28] [Trace] [@ tcp_session.go.119] 28 ->close: TcpSession.recvRoutine err: EOF
+[2018-04-12][17:26:28] [Trace] [@ tcp_session.go.182] 28 shutRead
+[2018-04-12][17:26:28] [Trace] [@ tcp_session.go.62] 28 ->close: TcpSession.sendRoutine err: [comm expt]normal close send
+[2018-04-12][17:26:28] [Trace] [@ tcp_session.go.193] 28 shutWrite
+[2018-04-12][17:26:28] [Trace] [@ trace.go.43] SessionFilterTrace.OnSessionClosed sid=28
+[2018-04-12][17:26:28] [Trace] [@ trace.go.38] SessionFilterTrace.OnSessionOpened sid=29
+[2018-04-12][17:26:28] [Trace] [@ serversessionfilter.go.29] (ssf *ServerSessionFilter) OnSessionOpened
+[2018-04-12][17:26:28] [Trace] [@ trace.go.69] SessionFilterTrace.OnPacketSent sid=29 size=50
+[2018-04-12][17:26:28] [Trace] [@ tcp_session.go.156] s.sc.decoder.Decode(packetid:0) err:EOF 
+[2018-04-12][17:26:28] [Trace] [@ tcp_session.go.119] 29 ->close: TcpSession.recvRoutine err: EOF
+[2018-04-12][17:26:28] [Trace] [@ tcp_session.go.182] 29 shutRead
+[2018-04-12][17:26:28] [Trace] [@ tcp_session.go.62] 29 ->close: TcpSession.sendRoutine err: [comm expt]normal close send
+[2018-04-12][17:26:28] [Trace] [@ tcp_session.go.193] 29 shutWrite
+[2018-04-12][17:26:28] [Trace] [@ trace.go.43] SessionFilterTrace.OnSessionClosed sid=29
+[2018-04-12][17:26:28] [Trace] [@ trace.go.38] SessionFilterTrace.OnSessionOpened sid=30
+[2018-04-12][17:26:28] [Trace] [@ serversessionfilter.go.29] (ssf *ServerSessionFilter) OnSessionOpened
+[2018-04-12][17:26:28] [Trace] [@ trace.go.69] SessionFilterTrace.OnPacketSent sid=30 size=50
+[2018-04-12][17:26:29] [Trace] [@ tcp_session.go.156] s.sc.decoder.Decode(packetid:0) err:EOF 
+[2018-04-12][17:26:29] [Trace] [@ tcp_session.go.119] 30 ->close: TcpSession.recvRoutine err: EOF
+[2018-04-12][17:26:29] [Trace] [@ tcp_session.go.182] 30 shutRead
+[2018-04-12][17:26:29] [Trace] [@ tcp_session.go.62] 30 ->close: TcpSession.sendRoutine err: [comm expt]normal close send
+[2018-04-12][17:26:29] [Trace] [@ tcp_session.go.193] 30 shutWrite
+[2018-04-12][17:26:29] [Trace] [@ trace.go.43] SessionFilterTrace.OnSessionClosed sid=30
+[2018-04-12][17:26:29] [Trace] [@ trace.go.38] SessionFilterTrace.OnSessionOpened sid=31
+[2018-04-12][17:26:29] [Trace] [@ serversessionfilter.go.29] (ssf *ServerSessionFilter) OnSessionOpened
+[2018-04-12][17:26:29] [Trace] [@ trace.go.69] SessionFilterTrace.OnPacketSent sid=31 size=50
+[2018-04-12][17:26:29] [Trace] [@ tcp_session.go.156] s.sc.decoder.Decode(packetid:0) err:EOF 
+[2018-04-12][17:26:29] [Trace] [@ tcp_session.go.119] 31 ->close: TcpSession.recvRoutine err: EOF
+[2018-04-12][17:26:29] [Trace] [@ tcp_session.go.182] 31 shutRead
+[2018-04-12][17:26:29] [Trace] [@ tcp_session.go.62] 31 ->close: TcpSession.sendRoutine err: [comm expt]normal close send
+[2018-04-12][17:26:29] [Trace] [@ tcp_session.go.193] 31 shutWrite
+[2018-04-12][17:26:29] [Trace] [@ trace.go.43] SessionFilterTrace.OnSessionClosed sid=31
+[2018-04-12][17:26:29] [Trace] [@ trace.go.38] SessionFilterTrace.OnSessionOpened sid=32
+[2018-04-12][17:26:29] [Trace] [@ serversessionfilter.go.29] (ssf *ServerSessionFilter) OnSessionOpened
+[2018-04-12][17:26:29] [Trace] [@ trace.go.69] SessionFilterTrace.OnPacketSent sid=32 size=50
+[2018-04-12][17:26:29] [Trace] [@ tcp_session.go.156] s.sc.decoder.Decode(packetid:0) err:EOF 
+[2018-04-12][17:26:29] [Trace] [@ tcp_session.go.119] 32 ->close: TcpSession.recvRoutine err: EOF
+[2018-04-12][17:26:29] [Trace] [@ tcp_session.go.182] 32 shutRead
+[2018-04-12][17:26:29] [Trace] [@ tcp_session.go.62] 32 ->close: TcpSession.sendRoutine err: [comm expt]normal close send
+[2018-04-12][17:26:29] [Trace] [@ tcp_session.go.193] 32 shutWrite
+[2018-04-12][17:26:29] [Trace] [@ trace.go.43] SessionFilterTrace.OnSessionClosed sid=32
+[2018-04-12][17:26:29] [Trace] [@ trace.go.38] SessionFilterTrace.OnSessionOpened sid=33
+[2018-04-12][17:26:29] [Trace] [@ serversessionfilter.go.29] (ssf *ServerSessionFilter) OnSessionOpened
+[2018-04-12][17:26:29] [Trace] [@ trace.go.69] SessionFilterTrace.OnPacketSent sid=33 size=50
+[2018-04-12][17:26:29] [Trace] [@ tcp_session.go.156] s.sc.decoder.Decode(packetid:0) err:EOF 
+[2018-04-12][17:26:29] [Trace] [@ tcp_session.go.119] 33 ->close: TcpSession.recvRoutine err: EOF
+[2018-04-12][17:26:29] [Trace] [@ tcp_session.go.182] 33 shutRead
+[2018-04-12][17:26:29] [Trace] [@ tcp_session.go.62] 33 ->close: TcpSession.sendRoutine err: [comm expt]normal close send
+[2018-04-12][17:26:29] [Trace] [@ tcp_session.go.193] 33 shutWrite
+[2018-04-12][17:26:29] [Trace] [@ trace.go.43] SessionFilterTrace.OnSessionClosed sid=33
+[2018-04-12][17:26:29] [Trace] [@ trace.go.38] SessionFilterTrace.OnSessionOpened sid=34
+[2018-04-12][17:26:29] [Trace] [@ serversessionfilter.go.29] (ssf *ServerSessionFilter) OnSessionOpened
+[2018-04-12][17:26:29] [Trace] [@ trace.go.69] SessionFilterTrace.OnPacketSent sid=34 size=50
+[2018-04-12][17:26:29] [Trace] [@ tcp_session.go.156] s.sc.decoder.Decode(packetid:0) err:EOF 
+[2018-04-12][17:26:29] [Trace] [@ tcp_session.go.119] 34 ->close: TcpSession.recvRoutine err: EOF
+[2018-04-12][17:26:29] [Trace] [@ tcp_session.go.182] 34 shutRead
+[2018-04-12][17:26:29] [Trace] [@ tcp_session.go.62] 34 ->close: TcpSession.sendRoutine err: [comm expt]normal close send
+[2018-04-12][17:26:29] [Trace] [@ tcp_session.go.193] 34 shutWrite
+[2018-04-12][17:26:29] [Trace] [@ trace.go.43] SessionFilterTrace.OnSessionClosed sid=34
+[2018-04-12][17:26:29] [Trace] [@ trace.go.38] SessionFilterTrace.OnSessionOpened sid=35
+[2018-04-12][17:26:29] [Trace] [@ serversessionfilter.go.29] (ssf *ServerSessionFilter) OnSessionOpened
+[2018-04-12][17:26:29] [Trace] [@ trace.go.69] SessionFilterTrace.OnPacketSent sid=35 size=50
+[2018-04-12][17:26:30] [Trace] [@ tcp_session.go.156] s.sc.decoder.Decode(packetid:0) err:EOF 
+[2018-04-12][17:26:30] [Trace] [@ tcp_session.go.119] 35 ->close: TcpSession.recvRoutine err: EOF
+[2018-04-12][17:26:30] [Trace] [@ tcp_session.go.182] 35 shutRead
+[2018-04-12][17:26:30] [Trace] [@ tcp_session.go.62] 35 ->close: TcpSession.sendRoutine err: [comm expt]normal close send
+[2018-04-12][17:26:30] [Trace] [@ tcp_session.go.193] 35 shutWrite
+[2018-04-12][17:26:30] [Trace] [@ trace.go.43] SessionFilterTrace.OnSessionClosed sid=35
+[2018-04-12][17:26:30] [Trace] [@ trace.go.38] SessionFilterTrace.OnSessionOpened sid=36
+[2018-04-12][17:26:30] [Trace] [@ serversessionfilter.go.29] (ssf *ServerSessionFilter) OnSessionOpened
+[2018-04-12][17:26:30] [Trace] [@ trace.go.69] SessionFilterTrace.OnPacketSent sid=36 size=50
+[2018-04-12][17:26:30] [Trace] [@ tcp_session.go.156] s.sc.decoder.Decode(packetid:0) err:EOF 
+[2018-04-12][17:26:30] [Trace] [@ tcp_session.go.119] 36 ->close: TcpSession.recvRoutine err: EOF
+[2018-04-12][17:26:30] [Trace] [@ tcp_session.go.182] 36 shutRead
+[2018-04-12][17:26:30] [Trace] [@ tcp_session.go.62] 36 ->close: TcpSession.sendRoutine err: [comm expt]normal close send
+[2018-04-12][17:26:30] [Trace] [@ tcp_session.go.193] 36 shutWrite
+[2018-04-12][17:26:30] [Trace] [@ trace.go.43] SessionFilterTrace.OnSessionClosed sid=36
+[2018-04-12][17:26:30] [Trace] [@ trace.go.38] SessionFilterTrace.OnSessionOpened sid=37
+[2018-04-12][17:26:30] [Trace] [@ serversessionfilter.go.29] (ssf *ServerSessionFilter) OnSessionOpened
+[2018-04-12][17:26:30] [Trace] [@ trace.go.69] SessionFilterTrace.OnPacketSent sid=37 size=50
+[2018-04-12][17:26:30] [Trace] [@ tcp_session.go.156] s.sc.decoder.Decode(packetid:0) err:EOF 
+[2018-04-12][17:26:30] [Trace] [@ tcp_session.go.119] 37 ->close: TcpSession.recvRoutine err: EOF
+[2018-04-12][17:27:32] [Info] [@ modulemgr.go.76] module [      net-module] registe;interval=0s,priority=2147483647
+[2018-04-12][17:27:32] [Info] [@ modulemgr.go.76] module [      dtc-module] registe;interval=1h0m0s,priority=1
+[2018-04-12][17:27:32] [Info] [@ modulemgr.go.76] module [ pressure-module] registe;interval=30s,priority=50
+[2018-04-12][17:27:32] [Info] [@ loader.go.87] package [        pressure] load success
+[2018-04-12][17:27:32] [Info] [@ loader.go.87] package [            core] load success
+[2018-04-12][17:27:32] [Info] [@ loader.go.87] package [          module] load success
+[2018-04-12][17:27:32] [Info] [@ config.go.77] =================
+[2018-04-12][17:27:32] [Info] [@ config.go.77] echo client
+[2018-04-12][17:27:32] [Info] [@ config.go.77] =================
+[2018-04-12][17:27:32] [Info] [@ loader.go.87] package [          netlib] load success
+[2018-04-12][17:27:32] [Trace] [@ timer.go.32] Timer Start
+[2018-04-12][17:27:32] [Trace] [@ timer.go.42] Timer Start [ok]
+[2018-04-12][17:27:32] [Info] [@ loader.go.87] package [           timer] load success
+[2018-04-12][17:27:32] [Info] [@ modulemgr.go.138] Startup PreloadModules
+[2018-04-12][17:27:32] [Info] [@ modulemgr.go.144] Startup PreloadModules [ok]
+[2018-04-12][17:27:32] [Info] [@ modulemgr.go.166] Start Initialize Modules
+[2018-04-12][17:27:32] [Info] [@ modulemgr.go.170] module [      dtc-module] init...
+[2018-04-12][17:27:32] [Info] [@ modulemgr.go.172] module [      dtc-module] init[ok]
+[2018-04-12][17:27:32] [Info] [@ modulemgr.go.170] module [ pressure-module] init...
+[2018-04-12][17:27:32] [Info] [@ modulemgr.go.172] module [ pressure-module] init[ok]
+[2018-04-12][17:27:32] [Info] [@ modulemgr.go.170] module [      net-module] init...
+[2018-04-12][17:27:32] [Info] [@ modulemgr.go.172] module [      net-module] init[ok]
+[2018-04-12][17:27:32] [Info] [@ modulemgr.go.176] Start Initialize Modules [ok]
+[2018-04-12][17:27:32] [Trace] [@ trace.go.38] SessionFilterTrace.OnSessionOpened sid=1
+[2018-04-12][17:27:32] [Trace] [@ serversessionfilter.go.29] (ssf *ServerSessionFilter) OnSessionOpened
+[2018-04-12][17:27:32] [Trace] [@ trace.go.69] SessionFilterTrace.OnPacketSent sid=1 size=50
+[2018-04-12][17:27:32] [Trace] [@ tcp_session.go.156] s.sc.decoder.Decode(packetid:0) err:EOF 
+[2018-04-12][17:27:32] [Trace] [@ tcp_session.go.119] 1 ->close: TcpSession.recvRoutine err: EOF
+[2018-04-12][17:27:32] [Trace] [@ tcp_session.go.182] 1 shutRead
+[2018-04-12][17:27:32] [Trace] [@ tcp_session.go.62] 1 ->close: TcpSession.sendRoutine err: [comm expt]normal close send
+[2018-04-12][17:27:32] [Trace] [@ tcp_session.go.193] 1 shutWrite
+[2018-04-12][17:27:33] [Trace] [@ trace.go.43] SessionFilterTrace.OnSessionClosed sid=1
+[2018-04-12][17:27:33] [Trace] [@ trace.go.38] SessionFilterTrace.OnSessionOpened sid=2
+[2018-04-12][17:27:33] [Trace] [@ serversessionfilter.go.29] (ssf *ServerSessionFilter) OnSessionOpened
+[2018-04-12][17:27:33] [Trace] [@ trace.go.69] SessionFilterTrace.OnPacketSent sid=2 size=50
+[2018-04-12][17:27:33] [Trace] [@ tcp_session.go.156] s.sc.decoder.Decode(packetid:0) err:EOF 
+[2018-04-12][17:27:33] [Trace] [@ tcp_session.go.119] 2 ->close: TcpSession.recvRoutine err: EOF
+[2018-04-12][17:27:33] [Trace] [@ tcp_session.go.182] 2 shutRead
+[2018-04-12][17:27:33] [Trace] [@ tcp_session.go.62] 2 ->close: TcpSession.sendRoutine err: [comm expt]normal close send
+[2018-04-12][17:27:33] [Trace] [@ tcp_session.go.193] 2 shutWrite
+[2018-04-12][17:27:33] [Trace] [@ trace.go.43] SessionFilterTrace.OnSessionClosed sid=2
+[2018-04-12][17:27:33] [Trace] [@ trace.go.38] SessionFilterTrace.OnSessionOpened sid=3
+[2018-04-12][17:27:33] [Trace] [@ serversessionfilter.go.29] (ssf *ServerSessionFilter) OnSessionOpened
+[2018-04-12][17:27:33] [Trace] [@ trace.go.69] SessionFilterTrace.OnPacketSent sid=3 size=50
+[2018-04-12][17:27:33] [Trace] [@ tcp_session.go.156] s.sc.decoder.Decode(packetid:0) err:EOF 
+[2018-04-12][17:27:33] [Trace] [@ tcp_session.go.119] 3 ->close: TcpSession.recvRoutine err: EOF
+[2018-04-12][17:27:33] [Trace] [@ tcp_session.go.182] 3 shutRead
+[2018-04-12][17:27:33] [Trace] [@ tcp_session.go.62] 3 ->close: TcpSession.sendRoutine err: [comm expt]normal close send
+[2018-04-12][17:27:33] [Trace] [@ tcp_session.go.193] 3 shutWrite
+[2018-04-12][17:27:33] [Trace] [@ trace.go.43] SessionFilterTrace.OnSessionClosed sid=3
+[2018-04-12][17:27:33] [Trace] [@ trace.go.38] SessionFilterTrace.OnSessionOpened sid=4
+[2018-04-12][17:27:33] [Trace] [@ serversessionfilter.go.29] (ssf *ServerSessionFilter) OnSessionOpened
+[2018-04-12][17:27:33] [Trace] [@ trace.go.69] SessionFilterTrace.OnPacketSent sid=4 size=50
+[2018-04-12][17:27:33] [Trace] [@ tcp_session.go.156] s.sc.decoder.Decode(packetid:0) err:EOF 
+[2018-04-12][17:27:33] [Trace] [@ tcp_session.go.119] 4 ->close: TcpSession.recvRoutine err: EOF
+[2018-04-12][17:27:33] [Trace] [@ tcp_session.go.182] 4 shutRead
+[2018-04-12][17:27:33] [Trace] [@ tcp_session.go.62] 4 ->close: TcpSession.sendRoutine err: [comm expt]normal close send
+[2018-04-12][17:27:33] [Trace] [@ tcp_session.go.193] 4 shutWrite
+[2018-04-12][17:27:33] [Trace] [@ trace.go.43] SessionFilterTrace.OnSessionClosed sid=4
+[2018-04-12][17:27:33] [Trace] [@ trace.go.38] SessionFilterTrace.OnSessionOpened sid=5
+[2018-04-12][17:27:33] [Trace] [@ serversessionfilter.go.29] (ssf *ServerSessionFilter) OnSessionOpened
+[2018-04-12][17:27:33] [Trace] [@ trace.go.69] SessionFilterTrace.OnPacketSent sid=5 size=50
+[2018-04-12][17:27:33] [Trace] [@ tcp_session.go.156] s.sc.decoder.Decode(packetid:0) err:EOF 
+[2018-04-12][17:27:33] [Trace] [@ tcp_session.go.119] 5 ->close: TcpSession.recvRoutine err: EOF
+[2018-04-12][17:27:33] [Trace] [@ tcp_session.go.182] 5 shutRead
+[2018-04-12][17:27:33] [Trace] [@ tcp_session.go.62] 5 ->close: TcpSession.sendRoutine err: [comm expt]normal close send
+[2018-04-12][17:27:33] [Trace] [@ tcp_session.go.193] 5 shutWrite
+[2018-04-12][17:27:33] [Trace] [@ trace.go.43] SessionFilterTrace.OnSessionClosed sid=5
+[2018-04-12][17:27:33] [Trace] [@ trace.go.38] SessionFilterTrace.OnSessionOpened sid=6
+[2018-04-12][17:27:33] [Trace] [@ serversessionfilter.go.29] (ssf *ServerSessionFilter) OnSessionOpened
+[2018-04-12][17:27:33] [Trace] [@ trace.go.69] SessionFilterTrace.OnPacketSent sid=6 size=50
+[2018-04-12][17:27:33] [Trace] [@ tcp_session.go.156] s.sc.decoder.Decode(packetid:0) err:EOF 
+[2018-04-12][17:27:33] [Trace] [@ tcp_session.go.119] 6 ->close: TcpSession.recvRoutine err: EOF
+[2018-04-12][17:27:33] [Trace] [@ tcp_session.go.182] 6 shutRead
+[2018-04-12][17:27:33] [Trace] [@ tcp_session.go.62] 6 ->close: TcpSession.sendRoutine err: [comm expt]normal close send
+[2018-04-12][17:27:33] [Trace] [@ tcp_session.go.193] 6 shutWrite
+[2018-04-12][17:27:34] [Trace] [@ trace.go.43] SessionFilterTrace.OnSessionClosed sid=6
+[2018-04-12][17:27:34] [Trace] [@ trace.go.38] SessionFilterTrace.OnSessionOpened sid=7
+[2018-04-12][17:27:34] [Trace] [@ serversessionfilter.go.29] (ssf *ServerSessionFilter) OnSessionOpened
+[2018-04-12][17:27:34] [Trace] [@ trace.go.69] SessionFilterTrace.OnPacketSent sid=7 size=50
+[2018-04-12][17:27:34] [Trace] [@ tcp_session.go.156] s.sc.decoder.Decode(packetid:0) err:EOF 
+[2018-04-12][17:27:34] [Trace] [@ tcp_session.go.119] 7 ->close: TcpSession.recvRoutine err: EOF
+[2018-04-12][17:27:34] [Trace] [@ tcp_session.go.182] 7 shutRead
+[2018-04-12][17:27:34] [Trace] [@ tcp_session.go.62] 7 ->close: TcpSession.sendRoutine err: [comm expt]normal close send
+[2018-04-12][17:27:34] [Trace] [@ tcp_session.go.193] 7 shutWrite
+[2018-04-12][17:27:34] [Trace] [@ trace.go.43] SessionFilterTrace.OnSessionClosed sid=7
+[2018-04-12][17:27:34] [Trace] [@ trace.go.38] SessionFilterTrace.OnSessionOpened sid=8
+[2018-04-12][17:27:34] [Trace] [@ serversessionfilter.go.29] (ssf *ServerSessionFilter) OnSessionOpened
+[2018-04-12][17:27:34] [Trace] [@ trace.go.69] SessionFilterTrace.OnPacketSent sid=8 size=50
+[2018-04-12][17:27:34] [Trace] [@ tcp_session.go.156] s.sc.decoder.Decode(packetid:0) err:EOF 
+[2018-04-12][17:27:34] [Trace] [@ tcp_session.go.119] 8 ->close: TcpSession.recvRoutine err: EOF
+[2018-04-12][17:27:34] [Trace] [@ tcp_session.go.182] 8 shutRead
+[2018-04-12][17:27:34] [Trace] [@ tcp_session.go.62] 8 ->close: TcpSession.sendRoutine err: [comm expt]normal close send
+[2018-04-12][17:27:34] [Trace] [@ tcp_session.go.193] 8 shutWrite
+[2018-04-12][17:27:34] [Trace] [@ trace.go.43] SessionFilterTrace.OnSessionClosed sid=8
+[2018-04-12][17:27:34] [Trace] [@ trace.go.38] SessionFilterTrace.OnSessionOpened sid=9
+[2018-04-12][17:27:34] [Trace] [@ serversessionfilter.go.29] (ssf *ServerSessionFilter) OnSessionOpened
+[2018-04-12][17:27:34] [Trace] [@ trace.go.69] SessionFilterTrace.OnPacketSent sid=9 size=50
+[2018-04-12][17:27:34] [Trace] [@ tcp_session.go.156] s.sc.decoder.Decode(packetid:0) err:EOF 
+[2018-04-12][17:27:34] [Trace] [@ tcp_session.go.119] 9 ->close: TcpSession.recvRoutine err: EOF
+[2018-04-12][17:27:34] [Trace] [@ tcp_session.go.182] 9 shutRead
+[2018-04-12][17:27:34] [Trace] [@ tcp_session.go.62] 9 ->close: TcpSession.sendRoutine err: [comm expt]normal close send
+[2018-04-12][17:27:34] [Trace] [@ tcp_session.go.193] 9 shutWrite
+[2018-04-12][17:27:34] [Trace] [@ trace.go.43] SessionFilterTrace.OnSessionClosed sid=9
+[2018-04-12][17:27:34] [Trace] [@ trace.go.38] SessionFilterTrace.OnSessionOpened sid=10
+[2018-04-12][17:27:34] [Trace] [@ serversessionfilter.go.29] (ssf *ServerSessionFilter) OnSessionOpened
+[2018-04-12][17:27:34] [Trace] [@ trace.go.69] SessionFilterTrace.OnPacketSent sid=10 size=50
+[2018-04-12][17:27:34] [Trace] [@ tcp_session.go.156] s.sc.decoder.Decode(packetid:0) err:EOF 
+[2018-04-12][17:27:34] [Trace] [@ tcp_session.go.119] 10 ->close: TcpSession.recvRoutine err: EOF
+[2018-04-12][17:27:34] [Trace] [@ tcp_session.go.182] 10 shutRead
+[2018-04-12][17:27:34] [Trace] [@ tcp_session.go.62] 10 ->close: TcpSession.sendRoutine err: [comm expt]normal close send
+[2018-04-12][17:27:34] [Trace] [@ tcp_session.go.193] 10 shutWrite
+[2018-04-12][17:27:34] [Trace] [@ trace.go.43] SessionFilterTrace.OnSessionClosed sid=10
+[2018-04-12][17:27:34] [Trace] [@ trace.go.38] SessionFilterTrace.OnSessionOpened sid=11
+[2018-04-12][17:27:34] [Trace] [@ serversessionfilter.go.29] (ssf *ServerSessionFilter) OnSessionOpened
+[2018-04-12][17:27:34] [Trace] [@ trace.go.69] SessionFilterTrace.OnPacketSent sid=11 size=50
+[2018-04-12][17:27:34] [Trace] [@ tcp_session.go.156] s.sc.decoder.Decode(packetid:0) err:EOF 
+[2018-04-12][17:27:34] [Trace] [@ tcp_session.go.119] 11 ->close: TcpSession.recvRoutine err: EOF
+[2018-04-12][17:27:34] [Trace] [@ tcp_session.go.182] 11 shutRead
+[2018-04-12][17:27:34] [Trace] [@ tcp_session.go.62] 11 ->close: TcpSession.sendRoutine err: [comm expt]normal close send
+[2018-04-12][17:27:34] [Trace] [@ tcp_session.go.193] 11 shutWrite
+[2018-04-12][17:27:35] [Trace] [@ trace.go.43] SessionFilterTrace.OnSessionClosed sid=11
+[2018-04-12][17:27:35] [Trace] [@ trace.go.38] SessionFilterTrace.OnSessionOpened sid=12
+[2018-04-12][17:27:35] [Trace] [@ serversessionfilter.go.29] (ssf *ServerSessionFilter) OnSessionOpened
+[2018-04-12][17:27:35] [Trace] [@ trace.go.69] SessionFilterTrace.OnPacketSent sid=12 size=50
+[2018-04-12][17:27:35] [Trace] [@ tcp_session.go.156] s.sc.decoder.Decode(packetid:0) err:EOF 
+[2018-04-12][17:27:35] [Trace] [@ tcp_session.go.119] 12 ->close: TcpSession.recvRoutine err: EOF
+[2018-04-12][17:27:35] [Trace] [@ tcp_session.go.182] 12 shutRead
+[2018-04-12][17:27:35] [Trace] [@ tcp_session.go.62] 12 ->close: TcpSession.sendRoutine err: [comm expt]normal close send
+[2018-04-12][17:27:35] [Trace] [@ tcp_session.go.193] 12 shutWrite
+[2018-04-12][17:29:47] [Info] [@ modulemgr.go.76] module [      net-module] registe;interval=0s,priority=2147483647
+[2018-04-12][17:29:47] [Info] [@ modulemgr.go.76] module [      dtc-module] registe;interval=1h0m0s,priority=1
+[2018-04-12][17:29:47] [Info] [@ modulemgr.go.76] module [ pressure-module] registe;interval=30s,priority=50
+[2018-04-12][17:29:47] [Info] [@ loader.go.87] package [          module] load success
+[2018-04-12][17:29:47] [Info] [@ config.go.77] =================
+[2018-04-12][17:29:47] [Info] [@ config.go.77] echo client
+[2018-04-12][17:29:47] [Info] [@ config.go.77] =================
+[2018-04-12][17:29:47] [Info] [@ loader.go.87] package [          netlib] load success
+[2018-04-12][17:29:47] [Trace] [@ timer.go.32] Timer Start
+[2018-04-12][17:29:47] [Trace] [@ timer.go.42] Timer Start [ok]
+[2018-04-12][17:29:47] [Info] [@ loader.go.87] package [           timer] load success
+[2018-04-12][17:29:47] [Info] [@ loader.go.87] package [        pressure] load success
+[2018-04-12][17:29:47] [Info] [@ loader.go.87] package [            core] load success
+[2018-04-12][17:29:47] [Info] [@ modulemgr.go.138] Startup PreloadModules
+[2018-04-12][17:29:47] [Info] [@ modulemgr.go.144] Startup PreloadModules [ok]
+[2018-04-12][17:29:48] [Info] [@ modulemgr.go.166] Start Initialize Modules
+[2018-04-12][17:29:48] [Info] [@ modulemgr.go.170] module [      dtc-module] init...
+[2018-04-12][17:29:48] [Info] [@ modulemgr.go.172] module [      dtc-module] init[ok]
+[2018-04-12][17:29:48] [Info] [@ modulemgr.go.170] module [ pressure-module] init...
+[2018-04-12][17:29:48] [Info] [@ modulemgr.go.172] module [ pressure-module] init[ok]
+[2018-04-12][17:29:48] [Info] [@ modulemgr.go.170] module [      net-module] init...
+[2018-04-12][17:29:48] [Info] [@ modulemgr.go.172] module [      net-module] init[ok]
+[2018-04-12][17:29:48] [Info] [@ modulemgr.go.176] Start Initialize Modules [ok]
+[2018-04-12][17:29:48] [Trace] [@ trace.go.38] SessionFilterTrace.OnSessionOpened sid=1
+[2018-04-12][17:29:48] [Trace] [@ serversessionfilter.go.29] (ssf *ServerSessionFilter) OnSessionOpened
+[2018-04-12][17:29:48] [Trace] [@ trace.go.69] SessionFilterTrace.OnPacketSent sid=1 size=44
+[2018-04-12][17:29:48] [Trace] [@ trace.go.69] SessionFilterTrace.OnPacketSent sid=1 size=50
+[2018-04-12][17:32:28] [Trace] [@ tcp_session.go.156] s.sc.decoder.Decode(packetid:0) err:EOF 
+[2018-04-12][17:32:28] [Trace] [@ tcp_session.go.119] 1 ->close: TcpSession.recvRoutine err: EOF
+[2018-04-12][17:32:28] [Trace] [@ tcp_session.go.182] 1 shutRead
+[2018-04-12][17:32:28] [Trace] [@ tcp_session.go.62] 1 ->close: TcpSession.sendRoutine err: [comm expt]normal close send
+[2018-04-12][17:32:28] [Trace] [@ tcp_session.go.193] 1 shutWrite
+[2018-04-12][17:32:28] [Trace] [@ trace.go.43] SessionFilterTrace.OnSessionClosed sid=1
+[2018-04-12][17:32:54] [Info] [@ modulemgr.go.76] module [      net-module] registe;interval=0s,priority=2147483647
+[2018-04-12][17:32:54] [Info] [@ modulemgr.go.76] module [      dtc-module] registe;interval=1h0m0s,priority=1
+[2018-04-12][17:32:54] [Info] [@ modulemgr.go.76] module [ pressure-module] registe;interval=30s,priority=50
+[2018-04-12][17:32:54] [Info] [@ loader.go.87] package [        pressure] load success
+[2018-04-12][17:32:54] [Info] [@ loader.go.87] package [            core] load success
+[2018-04-12][17:32:54] [Info] [@ loader.go.87] package [          module] load success
+[2018-04-12][17:32:54] [Info] [@ config.go.77] =================
+[2018-04-12][17:32:54] [Info] [@ config.go.77] echo client
+[2018-04-12][17:32:54] [Info] [@ config.go.77] =================
+[2018-04-12][17:32:54] [Info] [@ loader.go.87] package [          netlib] load success
+[2018-04-12][17:32:54] [Trace] [@ timer.go.32] Timer Start
+[2018-04-12][17:32:54] [Trace] [@ timer.go.42] Timer Start [ok]
+[2018-04-12][17:32:54] [Info] [@ loader.go.87] package [           timer] load success
+[2018-04-12][17:32:54] [Info] [@ modulemgr.go.138] Startup PreloadModules
+[2018-04-12][17:32:54] [Info] [@ modulemgr.go.144] Startup PreloadModules [ok]
+[2018-04-12][17:32:54] [Info] [@ modulemgr.go.166] Start Initialize Modules
+[2018-04-12][17:32:54] [Info] [@ modulemgr.go.170] module [      dtc-module] init...
+[2018-04-12][17:32:54] [Info] [@ modulemgr.go.172] module [      dtc-module] init[ok]
+[2018-04-12][17:32:54] [Info] [@ modulemgr.go.170] module [ pressure-module] init...
+[2018-04-12][17:32:54] [Info] [@ modulemgr.go.172] module [ pressure-module] init[ok]
+[2018-04-12][17:32:54] [Info] [@ modulemgr.go.170] module [      net-module] init...
+[2018-04-12][17:32:54] [Info] [@ modulemgr.go.172] module [      net-module] init[ok]
+[2018-04-12][17:32:54] [Info] [@ modulemgr.go.176] Start Initialize Modules [ok]
+[2018-04-12][17:32:54] [Trace] [@ trace.go.38] SessionFilterTrace.OnSessionOpened sid=1
+[2018-04-12][17:32:54] [Trace] [@ serversessionfilter.go.29] (ssf *ServerSessionFilter) OnSessionOpened
+[2018-04-12][17:32:54] [Trace] [@ trace.go.69] SessionFilterTrace.OnPacketSent sid=1 size=44
+[2018-04-12][17:32:54] [Trace] [@ trace.go.69] SessionFilterTrace.OnPacketSent sid=1 size=50
+[2018-04-12][17:38:03] [Info] [@ modulemgr.go.76] module [      net-module] registe;interval=0s,priority=2147483647
+[2018-04-12][17:38:03] [Info] [@ modulemgr.go.76] module [      dtc-module] registe;interval=1h0m0s,priority=1
+[2018-04-12][17:38:03] [Info] [@ modulemgr.go.76] module [ pressure-module] registe;interval=30s,priority=50
+[2018-04-12][17:38:03] [Info] [@ config.go.77] =================
+[2018-04-12][17:38:03] [Info] [@ config.go.77] echo client
+[2018-04-12][17:38:03] [Info] [@ config.go.77] =================
+[2018-04-12][17:38:03] [Info] [@ loader.go.87] package [          netlib] load success
+[2018-04-12][17:38:03] [Trace] [@ timer.go.32] Timer Start
+[2018-04-12][17:38:03] [Trace] [@ timer.go.42] Timer Start [ok]
+[2018-04-12][17:38:03] [Info] [@ loader.go.87] package [           timer] load success
+[2018-04-12][17:38:03] [Info] [@ loader.go.87] package [        pressure] load success
+[2018-04-12][17:38:03] [Info] [@ loader.go.87] package [            core] load success
+[2018-04-12][17:38:03] [Info] [@ loader.go.87] package [          module] load success
+[2018-04-12][17:38:03] [Info] [@ modulemgr.go.138] Startup PreloadModules
+[2018-04-12][17:38:03] [Info] [@ modulemgr.go.144] Startup PreloadModules [ok]
+[2018-04-12][17:38:03] [Info] [@ modulemgr.go.166] Start Initialize Modules
+[2018-04-12][17:38:03] [Info] [@ modulemgr.go.170] module [      dtc-module] init...
+[2018-04-12][17:38:03] [Info] [@ modulemgr.go.172] module [      dtc-module] init[ok]
+[2018-04-12][17:38:03] [Info] [@ modulemgr.go.170] module [ pressure-module] init...
+[2018-04-12][17:38:03] [Info] [@ modulemgr.go.172] module [ pressure-module] init[ok]
+[2018-04-12][17:38:03] [Info] [@ modulemgr.go.170] module [      net-module] init...
+[2018-04-12][17:38:03] [Info] [@ modulemgr.go.172] module [      net-module] init[ok]
+[2018-04-12][17:38:03] [Info] [@ modulemgr.go.176] Start Initialize Modules [ok]
+[2018-04-12][17:38:03] [Trace] [@ trace.go.38] SessionFilterTrace.OnSessionOpened sid=1
+[2018-04-12][17:38:03] [Trace] [@ serversessionfilter.go.29] (ssf *ServerSessionFilter) OnSessionOpened
+[2018-04-12][17:38:03] [Trace] [@ trace.go.69] SessionFilterTrace.OnPacketSent sid=1 size=44
+[2018-04-12][17:38:03] [Trace] [@ trace.go.69] SessionFilterTrace.OnPacketSent sid=1 size=50
+[2018-04-12][17:42:30] [Trace] [@ tcp_session.go.156] s.sc.decoder.Decode(packetid:0) err:EOF 
+[2018-04-12][17:42:30] [Trace] [@ tcp_session.go.119] 1 ->close: TcpSession.recvRoutine err: EOF
+[2018-04-12][17:42:30] [Trace] [@ tcp_session.go.182] 1 shutRead
+[2018-04-12][17:42:30] [Trace] [@ tcp_session.go.62] 1 ->close: TcpSession.sendRoutine err: [comm expt]normal close send
+[2018-04-12][17:42:30] [Trace] [@ tcp_session.go.193] 1 shutWrite
+[2018-04-12][17:42:30] [Trace] [@ trace.go.43] SessionFilterTrace.OnSessionClosed sid=1
+[2018-04-12][17:43:01] [Trace] [@ trace.go.38] SessionFilterTrace.OnSessionOpened sid=2
+[2018-04-12][17:43:01] [Trace] [@ serversessionfilter.go.29] (ssf *ServerSessionFilter) OnSessionOpened
+[2018-04-12][17:43:01] [Trace] [@ trace.go.69] SessionFilterTrace.OnPacketSent sid=2 size=44
+[2018-04-12][17:43:01] [Trace] [@ trace.go.69] SessionFilterTrace.OnPacketSent sid=2 size=50
+[2018-04-12][18:47:31] [Info] [@ modulemgr.go.76] module [      net-module] registe;interval=0s,priority=2147483647
+[2018-04-12][18:47:31] [Info] [@ modulemgr.go.76] module [      dtc-module] registe;interval=1h0m0s,priority=1
+[2018-04-12][18:47:31] [Info] [@ modulemgr.go.76] module [ pressure-module] registe;interval=30s,priority=50
+[2018-04-12][18:47:31] [Trace] [@ timer.go.32] Timer Start
+[2018-04-12][18:47:31] [Trace] [@ timer.go.42] Timer Start [ok]
+[2018-04-12][18:47:31] [Info] [@ loader.go.87] package [           timer] load success
+[2018-04-12][18:47:31] [Info] [@ loader.go.87] package [        pressure] load success
+[2018-04-12][18:47:31] [Info] [@ loader.go.87] package [            core] load success
+[2018-04-12][18:47:31] [Info] [@ loader.go.87] package [          module] load success
+[2018-04-12][18:47:31] [Info] [@ config.go.77] =================
+[2018-04-12][18:47:31] [Info] [@ config.go.77] echo client
+[2018-04-12][18:47:31] [Info] [@ config.go.77] =================
+[2018-04-12][18:47:31] [Info] [@ loader.go.87] package [          netlib] load success
+[2018-04-12][18:47:31] [Info] [@ modulemgr.go.138] Startup PreloadModules
+[2018-04-12][18:47:31] [Info] [@ modulemgr.go.144] Startup PreloadModules [ok]
+[2018-04-12][18:47:31] [Info] [@ modulemgr.go.166] Start Initialize Modules
+[2018-04-12][18:47:31] [Info] [@ modulemgr.go.170] module [      dtc-module] init...
+[2018-04-12][18:47:31] [Info] [@ modulemgr.go.172] module [      dtc-module] init[ok]
+[2018-04-12][18:47:31] [Info] [@ modulemgr.go.170] module [ pressure-module] init...
+[2018-04-12][18:47:31] [Info] [@ modulemgr.go.172] module [ pressure-module] init[ok]
+[2018-04-12][18:47:31] [Info] [@ modulemgr.go.170] module [      net-module] init...
+[2018-04-12][18:47:31] [Info] [@ modulemgr.go.172] module [      net-module] init[ok]
+[2018-04-12][18:47:31] [Info] [@ modulemgr.go.176] Start Initialize Modules [ok]
+[2018-04-12][18:47:31] [Trace] [@ trace.go.38] SessionFilterTrace.OnSessionOpened sid=1
+[2018-04-12][18:47:31] [Trace] [@ serversessionfilter.go.29] (ssf *ServerSessionFilter) OnSessionOpened
+[2018-04-12][18:47:31] [Trace] [@ trace.go.69] SessionFilterTrace.OnPacketSent sid=1 size=44
+[2018-04-12][18:47:31] [Trace] [@ trace.go.69] SessionFilterTrace.OnPacketSent sid=1 size=50
+[2018-04-12][18:48:01] [Trace] [@ tcp_session.go.156] s.sc.decoder.Decode(packetid:0) err:EOF 
+[2018-04-12][18:48:01] [Trace] [@ tcp_session.go.119] 1 ->close: TcpSession.recvRoutine err: EOF
+[2018-04-12][18:48:01] [Trace] [@ tcp_session.go.182] 1 shutRead
+[2018-04-12][18:48:01] [Trace] [@ tcp_session.go.62] 1 ->close: TcpSession.sendRoutine err: [comm expt]normal close send
+[2018-04-12][18:48:01] [Trace] [@ tcp_session.go.193] 1 shutWrite
+[2018-04-12][18:48:01] [Trace] [@ trace.go.43] SessionFilterTrace.OnSessionClosed sid=1
+[2018-04-12][18:48:02] [Trace] [@ trace.go.38] SessionFilterTrace.OnSessionOpened sid=2
+[2018-04-12][18:48:02] [Trace] [@ serversessionfilter.go.29] (ssf *ServerSessionFilter) OnSessionOpened
+[2018-04-12][18:48:02] [Trace] [@ trace.go.69] SessionFilterTrace.OnPacketSent sid=2 size=44
+[2018-04-12][18:48:02] [Trace] [@ trace.go.69] SessionFilterTrace.OnPacketSent sid=2 size=50
+[2018-04-12][18:48:32] [Trace] [@ tcp_session.go.156] s.sc.decoder.Decode(packetid:0) err:EOF 
+[2018-04-12][18:48:32] [Trace] [@ tcp_session.go.119] 2 ->close: TcpSession.recvRoutine err: EOF
+[2018-04-12][18:48:32] [Trace] [@ tcp_session.go.182] 2 shutRead
+[2018-04-12][18:48:32] [Trace] [@ tcp_session.go.62] 2 ->close: TcpSession.sendRoutine err: [comm expt]normal close send
+[2018-04-12][18:48:32] [Trace] [@ tcp_session.go.193] 2 shutWrite
+[2018-04-12][18:48:32] [Trace] [@ trace.go.43] SessionFilterTrace.OnSessionClosed sid=2
+[2018-04-12][18:48:32] [Trace] [@ trace.go.38] SessionFilterTrace.OnSessionOpened sid=3
+[2018-04-12][18:48:32] [Trace] [@ serversessionfilter.go.29] (ssf *ServerSessionFilter) OnSessionOpened
+[2018-04-12][18:48:32] [Trace] [@ trace.go.69] SessionFilterTrace.OnPacketSent sid=3 size=44
+[2018-04-12][18:48:32] [Trace] [@ trace.go.69] SessionFilterTrace.OnPacketSent sid=3 size=50
+[2018-04-12][18:49:02] [Trace] [@ tcp_session.go.156] s.sc.decoder.Decode(packetid:0) err:EOF 
+[2018-04-12][18:49:02] [Trace] [@ tcp_session.go.119] 3 ->close: TcpSession.recvRoutine err: EOF
+[2018-04-12][18:49:02] [Trace] [@ tcp_session.go.182] 3 shutRead
+[2018-04-12][18:49:02] [Trace] [@ tcp_session.go.62] 3 ->close: TcpSession.sendRoutine err: [comm expt]normal close send
+[2018-04-12][18:49:02] [Trace] [@ tcp_session.go.193] 3 shutWrite
+[2018-04-12][18:49:02] [Trace] [@ trace.go.43] SessionFilterTrace.OnSessionClosed sid=3
+[2018-04-12][18:49:02] [Trace] [@ trace.go.38] SessionFilterTrace.OnSessionOpened sid=4
+[2018-04-12][18:49:02] [Trace] [@ serversessionfilter.go.29] (ssf *ServerSessionFilter) OnSessionOpened
+[2018-04-12][18:49:02] [Trace] [@ trace.go.69] SessionFilterTrace.OnPacketSent sid=4 size=44
+[2018-04-12][18:49:02] [Trace] [@ trace.go.69] SessionFilterTrace.OnPacketSent sid=4 size=50
+[2018-04-12][18:49:32] [Trace] [@ tcp_session.go.156] s.sc.decoder.Decode(packetid:0) err:EOF 
+[2018-04-12][18:49:32] [Trace] [@ tcp_session.go.119] 4 ->close: TcpSession.recvRoutine err: EOF
+[2018-04-12][18:49:32] [Trace] [@ tcp_session.go.182] 4 shutRead
+[2018-04-12][18:49:32] [Trace] [@ tcp_session.go.62] 4 ->close: TcpSession.sendRoutine err: [comm expt]normal close send
+[2018-04-12][18:49:32] [Trace] [@ tcp_session.go.193] 4 shutWrite
+[2018-04-12][18:49:32] [Trace] [@ trace.go.43] SessionFilterTrace.OnSessionClosed sid=4
+[2018-04-12][18:49:32] [Trace] [@ trace.go.38] SessionFilterTrace.OnSessionOpened sid=5
+[2018-04-12][18:49:32] [Trace] [@ serversessionfilter.go.29] (ssf *ServerSessionFilter) OnSessionOpened
+[2018-04-12][18:49:32] [Trace] [@ trace.go.69] SessionFilterTrace.OnPacketSent sid=5 size=44
+[2018-04-12][18:49:32] [Trace] [@ trace.go.69] SessionFilterTrace.OnPacketSent sid=5 size=50
+[2018-04-12][18:50:02] [Trace] [@ tcp_session.go.156] s.sc.decoder.Decode(packetid:0) err:EOF 
+[2018-04-12][18:50:02] [Trace] [@ tcp_session.go.119] 5 ->close: TcpSession.recvRoutine err: EOF
+[2018-04-12][18:50:02] [Trace] [@ tcp_session.go.182] 5 shutRead
+[2018-04-12][18:50:02] [Trace] [@ tcp_session.go.62] 5 ->close: TcpSession.sendRoutine err: [comm expt]normal close send
+[2018-04-12][18:50:02] [Trace] [@ tcp_session.go.193] 5 shutWrite
+[2018-04-12][18:50:02] [Trace] [@ trace.go.43] SessionFilterTrace.OnSessionClosed sid=5
+[2018-04-12][18:50:02] [Trace] [@ trace.go.38] SessionFilterTrace.OnSessionOpened sid=6
+[2018-04-12][18:50:02] [Trace] [@ serversessionfilter.go.29] (ssf *ServerSessionFilter) OnSessionOpened
+[2018-04-12][18:50:02] [Trace] [@ trace.go.69] SessionFilterTrace.OnPacketSent sid=6 size=44
+[2018-04-12][18:50:02] [Trace] [@ trace.go.69] SessionFilterTrace.OnPacketSent sid=6 size=50
+[2018-04-12][18:50:32] [Trace] [@ tcp_session.go.156] s.sc.decoder.Decode(packetid:0) err:EOF 
+[2018-04-12][18:50:32] [Trace] [@ tcp_session.go.119] 6 ->close: TcpSession.recvRoutine err: EOF
+[2018-04-12][18:50:32] [Trace] [@ tcp_session.go.182] 6 shutRead
+[2018-04-12][18:50:32] [Trace] [@ tcp_session.go.62] 6 ->close: TcpSession.sendRoutine err: [comm expt]normal close send
+[2018-04-12][18:50:32] [Trace] [@ tcp_session.go.193] 6 shutWrite
+[2018-04-12][18:50:32] [Trace] [@ trace.go.43] SessionFilterTrace.OnSessionClosed sid=6
+[2018-04-12][18:50:33] [Trace] [@ trace.go.38] SessionFilterTrace.OnSessionOpened sid=7
+[2018-04-12][18:50:33] [Trace] [@ serversessionfilter.go.29] (ssf *ServerSessionFilter) OnSessionOpened
+[2018-04-12][18:50:33] [Trace] [@ trace.go.69] SessionFilterTrace.OnPacketSent sid=7 size=44
+[2018-04-12][18:50:33] [Trace] [@ trace.go.69] SessionFilterTrace.OnPacketSent sid=7 size=50
+[2018-04-12][18:51:03] [Trace] [@ tcp_session.go.156] s.sc.decoder.Decode(packetid:0) err:EOF 
+[2018-04-12][18:51:03] [Trace] [@ tcp_session.go.119] 7 ->close: TcpSession.recvRoutine err: EOF
+[2018-04-12][18:51:03] [Trace] [@ tcp_session.go.182] 7 shutRead
+[2018-04-12][18:51:03] [Trace] [@ tcp_session.go.62] 7 ->close: TcpSession.sendRoutine err: [comm expt]normal close send
+[2018-04-12][18:51:03] [Trace] [@ tcp_session.go.193] 7 shutWrite
+[2018-04-12][18:51:03] [Trace] [@ trace.go.43] SessionFilterTrace.OnSessionClosed sid=7
+[2018-04-12][18:51:03] [Trace] [@ trace.go.38] SessionFilterTrace.OnSessionOpened sid=8
+[2018-04-12][18:51:03] [Trace] [@ serversessionfilter.go.29] (ssf *ServerSessionFilter) OnSessionOpened
+[2018-04-12][18:51:03] [Trace] [@ trace.go.69] SessionFilterTrace.OnPacketSent sid=8 size=44
+[2018-04-12][18:51:03] [Trace] [@ trace.go.69] SessionFilterTrace.OnPacketSent sid=8 size=50
+[2018-04-12][18:51:33] [Trace] [@ tcp_session.go.156] s.sc.decoder.Decode(packetid:0) err:EOF 
+[2018-04-12][18:51:33] [Trace] [@ tcp_session.go.119] 8 ->close: TcpSession.recvRoutine err: EOF
+[2018-04-12][18:51:33] [Trace] [@ tcp_session.go.182] 8 shutRead
+[2018-04-12][18:51:33] [Trace] [@ tcp_session.go.62] 8 ->close: TcpSession.sendRoutine err: [comm expt]normal close send
+[2018-04-12][18:51:33] [Trace] [@ tcp_session.go.193] 8 shutWrite
+[2018-04-12][18:51:33] [Trace] [@ trace.go.43] SessionFilterTrace.OnSessionClosed sid=8
+[2018-04-12][18:51:33] [Trace] [@ trace.go.38] SessionFilterTrace.OnSessionOpened sid=9
+[2018-04-12][18:51:33] [Trace] [@ serversessionfilter.go.29] (ssf *ServerSessionFilter) OnSessionOpened
+[2018-04-12][18:51:33] [Trace] [@ trace.go.69] SessionFilterTrace.OnPacketSent sid=9 size=44
+[2018-04-12][18:51:33] [Trace] [@ trace.go.69] SessionFilterTrace.OnPacketSent sid=9 size=50
+[2018-04-12][18:52:03] [Trace] [@ tcp_session.go.156] s.sc.decoder.Decode(packetid:0) err:EOF 
+[2018-04-12][18:52:03] [Trace] [@ tcp_session.go.119] 9 ->close: TcpSession.recvRoutine err: EOF
+[2018-04-12][18:52:03] [Trace] [@ tcp_session.go.182] 9 shutRead
+[2018-04-12][18:52:03] [Trace] [@ tcp_session.go.62] 9 ->close: TcpSession.sendRoutine err: [comm expt]normal close send
+[2018-04-12][18:52:03] [Trace] [@ tcp_session.go.193] 9 shutWrite
+[2018-04-12][18:52:03] [Trace] [@ trace.go.43] SessionFilterTrace.OnSessionClosed sid=9
+[2018-04-12][18:52:03] [Trace] [@ trace.go.38] SessionFilterTrace.OnSessionOpened sid=10
+[2018-04-12][18:52:03] [Trace] [@ serversessionfilter.go.29] (ssf *ServerSessionFilter) OnSessionOpened
+[2018-04-12][18:52:03] [Trace] [@ trace.go.69] SessionFilterTrace.OnPacketSent sid=10 size=44
+[2018-04-12][18:52:03] [Trace] [@ trace.go.69] SessionFilterTrace.OnPacketSent sid=10 size=50
+[2018-04-12][18:52:33] [Trace] [@ tcp_session.go.156] s.sc.decoder.Decode(packetid:0) err:EOF 
+[2018-04-12][18:52:33] [Trace] [@ tcp_session.go.119] 10 ->close: TcpSession.recvRoutine err: EOF
+[2018-04-12][18:52:33] [Trace] [@ tcp_session.go.182] 10 shutRead
+[2018-04-12][18:52:33] [Trace] [@ tcp_session.go.62] 10 ->close: TcpSession.sendRoutine err: [comm expt]normal close send
+[2018-04-12][18:52:33] [Trace] [@ tcp_session.go.193] 10 shutWrite
+[2018-04-12][18:52:33] [Trace] [@ trace.go.43] SessionFilterTrace.OnSessionClosed sid=10
+[2018-04-12][18:52:33] [Trace] [@ trace.go.38] SessionFilterTrace.OnSessionOpened sid=11
+[2018-04-12][18:52:33] [Trace] [@ serversessionfilter.go.29] (ssf *ServerSessionFilter) OnSessionOpened
+[2018-04-12][18:52:33] [Trace] [@ trace.go.69] SessionFilterTrace.OnPacketSent sid=11 size=44
+[2018-04-12][18:52:33] [Info] [@ trace.go.86] Session per five minuts: recvCntPerSec=0 sendCntPerSec=3
+[2018-04-12][18:52:33] [Trace] [@ trace.go.69] SessionFilterTrace.OnPacketSent sid=11 size=50
+[2018-04-12][18:53:03] [Trace] [@ tcp_session.go.156] s.sc.decoder.Decode(packetid:0) err:EOF 
+[2018-04-12][18:53:03] [Trace] [@ tcp_session.go.119] 11 ->close: TcpSession.recvRoutine err: EOF
+[2018-04-12][18:53:03] [Trace] [@ tcp_session.go.182] 11 shutRead
+[2018-04-12][18:53:03] [Trace] [@ tcp_session.go.62] 11 ->close: TcpSession.sendRoutine err: [comm expt]normal close send
+[2018-04-12][18:53:03] [Trace] [@ tcp_session.go.193] 11 shutWrite
+[2018-04-12][18:53:03] [Trace] [@ trace.go.43] SessionFilterTrace.OnSessionClosed sid=11
+[2018-04-12][18:53:04] [Trace] [@ trace.go.38] SessionFilterTrace.OnSessionOpened sid=12
+[2018-04-12][18:53:04] [Trace] [@ serversessionfilter.go.29] (ssf *ServerSessionFilter) OnSessionOpened
+[2018-04-12][18:53:04] [Trace] [@ trace.go.69] SessionFilterTrace.OnPacketSent sid=12 size=44
+[2018-04-12][18:53:04] [Trace] [@ trace.go.69] SessionFilterTrace.OnPacketSent sid=12 size=50
+[2018-04-12][18:53:34] [Trace] [@ tcp_session.go.156] s.sc.decoder.Decode(packetid:0) err:EOF 
+[2018-04-12][18:53:34] [Trace] [@ tcp_session.go.119] 12 ->close: TcpSession.recvRoutine err: EOF
+[2018-04-12][18:53:34] [Trace] [@ tcp_session.go.182] 12 shutRead
+[2018-04-12][18:53:34] [Trace] [@ tcp_session.go.62] 12 ->close: TcpSession.sendRoutine err: [comm expt]normal close send
+[2018-04-12][18:53:34] [Trace] [@ tcp_session.go.193] 12 shutWrite
+[2018-04-12][18:53:34] [Trace] [@ trace.go.43] SessionFilterTrace.OnSessionClosed sid=12
+[2018-04-12][18:53:34] [Trace] [@ trace.go.38] SessionFilterTrace.OnSessionOpened sid=13
+[2018-04-12][18:53:34] [Trace] [@ serversessionfilter.go.29] (ssf *ServerSessionFilter) OnSessionOpened
+[2018-04-12][18:53:34] [Trace] [@ trace.go.69] SessionFilterTrace.OnPacketSent sid=13 size=44
+[2018-04-12][18:53:34] [Trace] [@ trace.go.69] SessionFilterTrace.OnPacketSent sid=13 size=50
+[2018-04-12][18:54:04] [Trace] [@ tcp_session.go.156] s.sc.decoder.Decode(packetid:0) err:EOF 
+[2018-04-12][18:54:04] [Trace] [@ tcp_session.go.119] 13 ->close: TcpSession.recvRoutine err: EOF
+[2018-04-12][18:54:04] [Trace] [@ tcp_session.go.182] 13 shutRead
+[2018-04-12][18:54:04] [Trace] [@ tcp_session.go.62] 13 ->close: TcpSession.sendRoutine err: [comm expt]normal close send
+[2018-04-12][18:54:04] [Trace] [@ tcp_session.go.193] 13 shutWrite
+[2018-04-12][18:54:04] [Trace] [@ trace.go.43] SessionFilterTrace.OnSessionClosed sid=13
+[2018-04-12][18:54:04] [Trace] [@ trace.go.38] SessionFilterTrace.OnSessionOpened sid=14
+[2018-04-12][18:54:04] [Trace] [@ serversessionfilter.go.29] (ssf *ServerSessionFilter) OnSessionOpened
+[2018-04-12][18:54:04] [Trace] [@ trace.go.69] SessionFilterTrace.OnPacketSent sid=14 size=44
+[2018-04-12][18:54:04] [Trace] [@ trace.go.69] SessionFilterTrace.OnPacketSent sid=14 size=50
+[2018-04-12][18:54:34] [Trace] [@ tcp_session.go.156] s.sc.decoder.Decode(packetid:0) err:EOF 
+[2018-04-12][18:54:34] [Trace] [@ tcp_session.go.119] 14 ->close: TcpSession.recvRoutine err: EOF
+[2018-04-12][18:54:34] [Trace] [@ tcp_session.go.182] 14 shutRead
+[2018-04-12][18:54:34] [Trace] [@ tcp_session.go.62] 14 ->close: TcpSession.sendRoutine err: [comm expt]normal close send
+[2018-04-12][18:54:34] [Trace] [@ tcp_session.go.193] 14 shutWrite
+[2018-04-12][18:54:34] [Trace] [@ trace.go.43] SessionFilterTrace.OnSessionClosed sid=14
+[2018-04-12][18:54:34] [Trace] [@ trace.go.38] SessionFilterTrace.OnSessionOpened sid=15
+[2018-04-12][18:54:34] [Trace] [@ serversessionfilter.go.29] (ssf *ServerSessionFilter) OnSessionOpened
+[2018-04-12][18:54:34] [Trace] [@ trace.go.69] SessionFilterTrace.OnPacketSent sid=15 size=44
+[2018-04-12][18:54:34] [Trace] [@ trace.go.69] SessionFilterTrace.OnPacketSent sid=15 size=50
+[2018-04-12][18:55:04] [Trace] [@ tcp_session.go.156] s.sc.decoder.Decode(packetid:0) err:EOF 
+[2018-04-12][18:55:04] [Trace] [@ tcp_session.go.119] 15 ->close: TcpSession.recvRoutine err: EOF
+[2018-04-12][18:55:04] [Trace] [@ tcp_session.go.182] 15 shutRead
+[2018-04-12][18:55:04] [Trace] [@ tcp_session.go.62] 15 ->close: TcpSession.sendRoutine err: [comm expt]normal close send
+[2018-04-12][18:55:04] [Trace] [@ tcp_session.go.193] 15 shutWrite
+[2018-04-12][18:55:04] [Trace] [@ trace.go.43] SessionFilterTrace.OnSessionClosed sid=15
+[2018-04-12][18:55:04] [Trace] [@ trace.go.38] SessionFilterTrace.OnSessionOpened sid=16
+[2018-04-12][18:55:04] [Trace] [@ serversessionfilter.go.29] (ssf *ServerSessionFilter) OnSessionOpened
+[2018-04-12][18:55:04] [Trace] [@ trace.go.69] SessionFilterTrace.OnPacketSent sid=16 size=44
+[2018-04-12][18:55:04] [Trace] [@ trace.go.69] SessionFilterTrace.OnPacketSent sid=16 size=50
+[2018-04-12][18:55:34] [Trace] [@ tcp_session.go.156] s.sc.decoder.Decode(packetid:0) err:EOF 
+[2018-04-12][18:55:34] [Trace] [@ tcp_session.go.119] 16 ->close: TcpSession.recvRoutine err: EOF
+[2018-04-12][18:55:34] [Trace] [@ tcp_session.go.182] 16 shutRead
+[2018-04-12][18:55:34] [Trace] [@ tcp_session.go.62] 16 ->close: TcpSession.sendRoutine err: [comm expt]normal close send
+[2018-04-12][18:55:34] [Trace] [@ tcp_session.go.193] 16 shutWrite
+[2018-04-12][18:55:34] [Trace] [@ trace.go.43] SessionFilterTrace.OnSessionClosed sid=16
+[2018-04-12][18:55:35] [Trace] [@ trace.go.38] SessionFilterTrace.OnSessionOpened sid=17
+[2018-04-12][18:55:35] [Trace] [@ serversessionfilter.go.29] (ssf *ServerSessionFilter) OnSessionOpened
+[2018-04-12][18:55:35] [Trace] [@ trace.go.69] SessionFilterTrace.OnPacketSent sid=17 size=44
+[2018-04-12][18:55:35] [Trace] [@ trace.go.69] SessionFilterTrace.OnPacketSent sid=17 size=50
+[2018-04-12][18:56:05] [Trace] [@ tcp_session.go.156] s.sc.decoder.Decode(packetid:0) err:EOF 
+[2018-04-12][18:56:05] [Trace] [@ tcp_session.go.119] 17 ->close: TcpSession.recvRoutine err: EOF
+[2018-04-12][18:56:05] [Trace] [@ tcp_session.go.182] 17 shutRead
+[2018-04-12][18:56:05] [Trace] [@ tcp_session.go.62] 17 ->close: TcpSession.sendRoutine err: [comm expt]normal close send
+[2018-04-12][18:56:05] [Trace] [@ tcp_session.go.193] 17 shutWrite
+[2018-04-12][18:56:05] [Trace] [@ trace.go.43] SessionFilterTrace.OnSessionClosed sid=17
+[2018-04-12][18:56:05] [Trace] [@ trace.go.38] SessionFilterTrace.OnSessionOpened sid=18
+[2018-04-12][18:56:05] [Trace] [@ serversessionfilter.go.29] (ssf *ServerSessionFilter) OnSessionOpened
+[2018-04-12][18:56:05] [Trace] [@ trace.go.69] SessionFilterTrace.OnPacketSent sid=18 size=44
+[2018-04-12][18:56:05] [Trace] [@ trace.go.69] SessionFilterTrace.OnPacketSent sid=18 size=50
+[2018-04-12][18:56:35] [Trace] [@ tcp_session.go.156] s.sc.decoder.Decode(packetid:0) err:EOF 
+[2018-04-12][18:56:35] [Trace] [@ tcp_session.go.119] 18 ->close: TcpSession.recvRoutine err: EOF
+[2018-04-12][18:56:35] [Trace] [@ tcp_session.go.182] 18 shutRead
+[2018-04-12][18:56:35] [Trace] [@ tcp_session.go.62] 18 ->close: TcpSession.sendRoutine err: [comm expt]normal close send
+[2018-04-12][18:56:35] [Trace] [@ tcp_session.go.193] 18 shutWrite
+[2018-04-12][18:56:35] [Trace] [@ trace.go.43] SessionFilterTrace.OnSessionClosed sid=18
+[2018-04-12][18:56:35] [Trace] [@ trace.go.38] SessionFilterTrace.OnSessionOpened sid=19
+[2018-04-12][18:56:35] [Trace] [@ serversessionfilter.go.29] (ssf *ServerSessionFilter) OnSessionOpened
+[2018-04-12][18:56:35] [Trace] [@ trace.go.69] SessionFilterTrace.OnPacketSent sid=19 size=44
+[2018-04-12][18:56:35] [Trace] [@ trace.go.69] SessionFilterTrace.OnPacketSent sid=19 size=50
+[2018-04-12][18:57:05] [Trace] [@ tcp_session.go.156] s.sc.decoder.Decode(packetid:0) err:EOF 
+[2018-04-12][18:57:05] [Trace] [@ tcp_session.go.119] 19 ->close: TcpSession.recvRoutine err: EOF
+[2018-04-12][18:57:05] [Trace] [@ tcp_session.go.182] 19 shutRead
+[2018-04-12][18:57:05] [Trace] [@ tcp_session.go.62] 19 ->close: TcpSession.sendRoutine err: [comm expt]normal close send
+[2018-04-12][18:57:05] [Trace] [@ tcp_session.go.193] 19 shutWrite
+[2018-04-12][18:57:05] [Trace] [@ trace.go.43] SessionFilterTrace.OnSessionClosed sid=19
+[2018-04-12][18:57:05] [Trace] [@ trace.go.38] SessionFilterTrace.OnSessionOpened sid=20
+[2018-04-12][18:57:05] [Trace] [@ serversessionfilter.go.29] (ssf *ServerSessionFilter) OnSessionOpened
+[2018-04-12][18:57:05] [Trace] [@ trace.go.69] SessionFilterTrace.OnPacketSent sid=20 size=44
+[2018-04-12][18:57:05] [Trace] [@ trace.go.69] SessionFilterTrace.OnPacketSent sid=20 size=50
+[2018-04-12][18:57:35] [Trace] [@ tcp_session.go.156] s.sc.decoder.Decode(packetid:0) err:EOF 
+[2018-04-12][18:57:35] [Trace] [@ tcp_session.go.119] 20 ->close: TcpSession.recvRoutine err: EOF
+[2018-04-12][18:57:35] [Trace] [@ tcp_session.go.182] 20 shutRead
+[2018-04-12][18:57:35] [Trace] [@ tcp_session.go.62] 20 ->close: TcpSession.sendRoutine err: [comm expt]normal close send
+[2018-04-12][18:57:35] [Trace] [@ tcp_session.go.193] 20 shutWrite
+[2018-04-12][18:57:35] [Trace] [@ trace.go.43] SessionFilterTrace.OnSessionClosed sid=20
+[2018-04-12][18:57:35] [Trace] [@ trace.go.38] SessionFilterTrace.OnSessionOpened sid=21
+[2018-04-12][18:57:35] [Trace] [@ serversessionfilter.go.29] (ssf *ServerSessionFilter) OnSessionOpened
+[2018-04-12][18:57:35] [Trace] [@ trace.go.69] SessionFilterTrace.OnPacketSent sid=21 size=44
+[2018-04-12][18:57:35] [Info] [@ trace.go.86] Session per five minuts: recvCntPerSec=0 sendCntPerSec=8
+[2018-04-12][18:57:35] [Trace] [@ trace.go.69] SessionFilterTrace.OnPacketSent sid=21 size=50
+[2018-04-12][18:58:05] [Trace] [@ tcp_session.go.156] s.sc.decoder.Decode(packetid:0) err:EOF 
+[2018-04-12][18:58:05] [Trace] [@ tcp_session.go.119] 21 ->close: TcpSession.recvRoutine err: EOF
+[2018-04-12][18:58:05] [Trace] [@ tcp_session.go.182] 21 shutRead
+[2018-04-12][18:58:05] [Trace] [@ tcp_session.go.62] 21 ->close: TcpSession.sendRoutine err: [comm expt]normal close send
+[2018-04-12][18:58:05] [Trace] [@ tcp_session.go.193] 21 shutWrite
+[2018-04-12][18:58:05] [Trace] [@ trace.go.43] SessionFilterTrace.OnSessionClosed sid=21
+[2018-04-12][18:58:06] [Trace] [@ trace.go.38] SessionFilterTrace.OnSessionOpened sid=22
+[2018-04-12][18:58:06] [Trace] [@ serversessionfilter.go.29] (ssf *ServerSessionFilter) OnSessionOpened
+[2018-04-12][18:58:06] [Trace] [@ trace.go.69] SessionFilterTrace.OnPacketSent sid=22 size=44
+[2018-04-12][18:58:06] [Trace] [@ trace.go.69] SessionFilterTrace.OnPacketSent sid=22 size=50
+[2018-04-12][18:58:36] [Trace] [@ tcp_session.go.156] s.sc.decoder.Decode(packetid:0) err:EOF 
+[2018-04-12][18:58:36] [Trace] [@ tcp_session.go.119] 22 ->close: TcpSession.recvRoutine err: EOF
+[2018-04-12][18:58:36] [Trace] [@ tcp_session.go.182] 22 shutRead
+[2018-04-12][18:58:36] [Trace] [@ tcp_session.go.62] 22 ->close: TcpSession.sendRoutine err: [comm expt]normal close send
+[2018-04-12][18:58:36] [Trace] [@ tcp_session.go.193] 22 shutWrite
+[2018-04-12][18:58:36] [Trace] [@ trace.go.43] SessionFilterTrace.OnSessionClosed sid=22
+[2018-04-12][18:58:36] [Trace] [@ trace.go.38] SessionFilterTrace.OnSessionOpened sid=23
+[2018-04-12][18:58:36] [Trace] [@ serversessionfilter.go.29] (ssf *ServerSessionFilter) OnSessionOpened
+[2018-04-12][18:58:36] [Trace] [@ trace.go.69] SessionFilterTrace.OnPacketSent sid=23 size=44
+[2018-04-12][18:58:36] [Trace] [@ trace.go.69] SessionFilterTrace.OnPacketSent sid=23 size=50
+[2018-04-12][18:59:06] [Trace] [@ tcp_session.go.156] s.sc.decoder.Decode(packetid:0) err:EOF 
+[2018-04-12][18:59:06] [Trace] [@ tcp_session.go.119] 23 ->close: TcpSession.recvRoutine err: EOF
+[2018-04-12][18:59:06] [Trace] [@ tcp_session.go.182] 23 shutRead
+[2018-04-12][18:59:06] [Trace] [@ tcp_session.go.62] 23 ->close: TcpSession.sendRoutine err: [comm expt]normal close send
+[2018-04-12][18:59:06] [Trace] [@ tcp_session.go.193] 23 shutWrite
+[2018-04-12][18:59:06] [Trace] [@ trace.go.43] SessionFilterTrace.OnSessionClosed sid=23
+[2018-04-12][18:59:06] [Trace] [@ trace.go.38] SessionFilterTrace.OnSessionOpened sid=24
+[2018-04-12][18:59:06] [Trace] [@ serversessionfilter.go.29] (ssf *ServerSessionFilter) OnSessionOpened
+[2018-04-12][18:59:06] [Trace] [@ trace.go.69] SessionFilterTrace.OnPacketSent sid=24 size=44
+[2018-04-12][18:59:06] [Trace] [@ trace.go.69] SessionFilterTrace.OnPacketSent sid=24 size=50
+[2018-04-12][18:59:36] [Trace] [@ tcp_session.go.156] s.sc.decoder.Decode(packetid:0) err:EOF 
+[2018-04-12][18:59:36] [Trace] [@ tcp_session.go.119] 24 ->close: TcpSession.recvRoutine err: EOF
+[2018-04-12][18:59:36] [Trace] [@ tcp_session.go.182] 24 shutRead
+[2018-04-12][18:59:36] [Trace] [@ tcp_session.go.62] 24 ->close: TcpSession.sendRoutine err: [comm expt]normal close send
+[2018-04-12][18:59:36] [Trace] [@ tcp_session.go.193] 24 shutWrite
+[2018-04-12][18:59:36] [Trace] [@ trace.go.43] SessionFilterTrace.OnSessionClosed sid=24
+[2018-04-12][18:59:36] [Trace] [@ trace.go.38] SessionFilterTrace.OnSessionOpened sid=25
+[2018-04-12][18:59:36] [Trace] [@ serversessionfilter.go.29] (ssf *ServerSessionFilter) OnSessionOpened
+[2018-04-12][18:59:36] [Trace] [@ trace.go.69] SessionFilterTrace.OnPacketSent sid=25 size=44
+[2018-04-12][18:59:36] [Trace] [@ trace.go.69] SessionFilterTrace.OnPacketSent sid=25 size=50
+[2018-04-12][19:00:06] [Trace] [@ tcp_session.go.156] s.sc.decoder.Decode(packetid:0) err:EOF 
+[2018-04-12][19:00:06] [Trace] [@ tcp_session.go.119] 25 ->close: TcpSession.recvRoutine err: EOF
+[2018-04-12][19:00:06] [Trace] [@ tcp_session.go.182] 25 shutRead
+[2018-04-12][19:00:06] [Trace] [@ tcp_session.go.62] 25 ->close: TcpSession.sendRoutine err: [comm expt]normal close send
+[2018-04-12][19:00:06] [Trace] [@ tcp_session.go.193] 25 shutWrite
+[2018-04-12][19:00:06] [Trace] [@ trace.go.43] SessionFilterTrace.OnSessionClosed sid=25
+[2018-04-12][19:00:06] [Trace] [@ trace.go.38] SessionFilterTrace.OnSessionOpened sid=26
+[2018-04-12][19:00:06] [Trace] [@ serversessionfilter.go.29] (ssf *ServerSessionFilter) OnSessionOpened
+[2018-04-12][19:00:06] [Trace] [@ trace.go.69] SessionFilterTrace.OnPacketSent sid=26 size=44
+[2018-04-12][19:00:06] [Trace] [@ trace.go.69] SessionFilterTrace.OnPacketSent sid=26 size=50
+[2018-04-12][19:00:36] [Trace] [@ tcp_session.go.156] s.sc.decoder.Decode(packetid:0) err:EOF 
+[2018-04-12][19:00:36] [Trace] [@ tcp_session.go.119] 26 ->close: TcpSession.recvRoutine err: EOF
+[2018-04-12][19:00:36] [Trace] [@ tcp_session.go.182] 26 shutRead
+[2018-04-12][19:00:36] [Trace] [@ tcp_session.go.62] 26 ->close: TcpSession.sendRoutine err: [comm expt]normal close send
+[2018-04-12][19:00:36] [Trace] [@ tcp_session.go.193] 26 shutWrite
+[2018-04-12][19:00:36] [Trace] [@ trace.go.43] SessionFilterTrace.OnSessionClosed sid=26
+[2018-04-12][19:00:37] [Trace] [@ trace.go.38] SessionFilterTrace.OnSessionOpened sid=27
+[2018-04-12][19:00:37] [Trace] [@ serversessionfilter.go.29] (ssf *ServerSessionFilter) OnSessionOpened
+[2018-04-12][19:00:37] [Trace] [@ trace.go.69] SessionFilterTrace.OnPacketSent sid=27 size=44
+[2018-04-12][19:00:37] [Trace] [@ trace.go.69] SessionFilterTrace.OnPacketSent sid=27 size=50
+[2018-04-12][19:01:07] [Trace] [@ tcp_session.go.156] s.sc.decoder.Decode(packetid:0) err:EOF 
+[2018-04-12][19:01:07] [Trace] [@ tcp_session.go.119] 27 ->close: TcpSession.recvRoutine err: EOF
+[2018-04-12][19:01:07] [Trace] [@ tcp_session.go.182] 27 shutRead
+[2018-04-12][19:01:07] [Trace] [@ tcp_session.go.62] 27 ->close: TcpSession.sendRoutine err: [comm expt]normal close send
+[2018-04-12][19:01:07] [Trace] [@ tcp_session.go.193] 27 shutWrite
+[2018-04-12][19:01:07] [Trace] [@ trace.go.43] SessionFilterTrace.OnSessionClosed sid=27
+[2018-04-12][19:01:07] [Trace] [@ trace.go.38] SessionFilterTrace.OnSessionOpened sid=28
+[2018-04-12][19:01:07] [Trace] [@ serversessionfilter.go.29] (ssf *ServerSessionFilter) OnSessionOpened
+[2018-04-12][19:01:07] [Trace] [@ trace.go.69] SessionFilterTrace.OnPacketSent sid=28 size=44
+[2018-04-12][19:01:07] [Trace] [@ trace.go.69] SessionFilterTrace.OnPacketSent sid=28 size=50
+[2018-04-12][19:01:37] [Trace] [@ tcp_session.go.156] s.sc.decoder.Decode(packetid:0) err:EOF 
+[2018-04-12][19:01:37] [Trace] [@ tcp_session.go.119] 28 ->close: TcpSession.recvRoutine err: EOF
+[2018-04-12][19:01:37] [Trace] [@ tcp_session.go.182] 28 shutRead
+[2018-04-12][19:01:37] [Trace] [@ tcp_session.go.62] 28 ->close: TcpSession.sendRoutine err: [comm expt]normal close send
+[2018-04-12][19:01:37] [Trace] [@ tcp_session.go.193] 28 shutWrite
+[2018-04-12][19:01:37] [Trace] [@ trace.go.43] SessionFilterTrace.OnSessionClosed sid=28
+[2018-04-12][19:01:37] [Trace] [@ trace.go.38] SessionFilterTrace.OnSessionOpened sid=29
+[2018-04-12][19:01:37] [Trace] [@ serversessionfilter.go.29] (ssf *ServerSessionFilter) OnSessionOpened
+[2018-04-12][19:01:37] [Trace] [@ trace.go.69] SessionFilterTrace.OnPacketSent sid=29 size=44
+[2018-04-12][19:01:37] [Trace] [@ trace.go.69] SessionFilterTrace.OnPacketSent sid=29 size=50
+[2018-04-12][19:02:07] [Trace] [@ tcp_session.go.156] s.sc.decoder.Decode(packetid:0) err:EOF 
+[2018-04-12][19:02:07] [Trace] [@ tcp_session.go.119] 29 ->close: TcpSession.recvRoutine err: EOF
+[2018-04-12][19:02:07] [Trace] [@ tcp_session.go.182] 29 shutRead
+[2018-04-12][19:02:07] [Trace] [@ tcp_session.go.62] 29 ->close: TcpSession.sendRoutine err: [comm expt]normal close send
+[2018-04-12][19:02:07] [Trace] [@ tcp_session.go.193] 29 shutWrite
+[2018-04-12][19:02:07] [Trace] [@ trace.go.43] SessionFilterTrace.OnSessionClosed sid=29
+[2018-04-12][19:02:07] [Trace] [@ trace.go.38] SessionFilterTrace.OnSessionOpened sid=30
+[2018-04-12][19:02:07] [Trace] [@ serversessionfilter.go.29] (ssf *ServerSessionFilter) OnSessionOpened
+[2018-04-12][19:02:07] [Trace] [@ trace.go.69] SessionFilterTrace.OnPacketSent sid=30 size=44
+[2018-04-12][19:02:07] [Trace] [@ trace.go.69] SessionFilterTrace.OnPacketSent sid=30 size=50
+[2018-04-12][19:02:37] [Trace] [@ tcp_session.go.156] s.sc.decoder.Decode(packetid:0) err:EOF 
+[2018-04-12][19:02:37] [Trace] [@ tcp_session.go.119] 30 ->close: TcpSession.recvRoutine err: EOF
+[2018-04-12][19:02:37] [Trace] [@ tcp_session.go.182] 30 shutRead
+[2018-04-12][19:02:37] [Trace] [@ tcp_session.go.62] 30 ->close: TcpSession.sendRoutine err: [comm expt]normal close send
+[2018-04-12][19:02:37] [Trace] [@ tcp_session.go.193] 30 shutWrite
+[2018-04-12][19:02:37] [Trace] [@ trace.go.43] SessionFilterTrace.OnSessionClosed sid=30
+[2018-04-12][19:02:37] [Trace] [@ trace.go.38] SessionFilterTrace.OnSessionOpened sid=31
+[2018-04-12][19:02:37] [Trace] [@ serversessionfilter.go.29] (ssf *ServerSessionFilter) OnSessionOpened
+[2018-04-12][19:02:37] [Trace] [@ trace.go.69] SessionFilterTrace.OnPacketSent sid=31 size=44
+[2018-04-12][19:02:37] [Info] [@ trace.go.86] Session per five minuts: recvCntPerSec=0 sendCntPerSec=9
+[2018-04-12][19:02:37] [Trace] [@ trace.go.69] SessionFilterTrace.OnPacketSent sid=31 size=50
+[2018-04-12][19:03:07] [Trace] [@ tcp_session.go.156] s.sc.decoder.Decode(packetid:0) err:EOF 
+[2018-04-12][19:03:07] [Trace] [@ tcp_session.go.119] 31 ->close: TcpSession.recvRoutine err: EOF
+[2018-04-12][19:03:07] [Trace] [@ tcp_session.go.182] 31 shutRead
+[2018-04-12][19:03:07] [Trace] [@ tcp_session.go.62] 31 ->close: TcpSession.sendRoutine err: [comm expt]normal close send
+[2018-04-12][19:03:07] [Trace] [@ tcp_session.go.193] 31 shutWrite
+[2018-04-12][19:03:07] [Trace] [@ trace.go.43] SessionFilterTrace.OnSessionClosed sid=31
+[2018-04-12][19:03:08] [Trace] [@ trace.go.38] SessionFilterTrace.OnSessionOpened sid=32
+[2018-04-12][19:03:08] [Trace] [@ serversessionfilter.go.29] (ssf *ServerSessionFilter) OnSessionOpened
+[2018-04-12][19:03:08] [Trace] [@ trace.go.69] SessionFilterTrace.OnPacketSent sid=32 size=44
+[2018-04-12][19:03:08] [Trace] [@ trace.go.69] SessionFilterTrace.OnPacketSent sid=32 size=50
+[2018-04-12][19:03:38] [Trace] [@ tcp_session.go.156] s.sc.decoder.Decode(packetid:0) err:EOF 
+[2018-04-12][19:03:38] [Trace] [@ tcp_session.go.119] 32 ->close: TcpSession.recvRoutine err: EOF
+[2018-04-12][19:03:38] [Trace] [@ tcp_session.go.182] 32 shutRead
+[2018-04-12][19:03:38] [Trace] [@ tcp_session.go.62] 32 ->close: TcpSession.sendRoutine err: [comm expt]normal close send
+[2018-04-12][19:03:38] [Trace] [@ tcp_session.go.193] 32 shutWrite
+[2018-04-12][19:03:38] [Trace] [@ trace.go.43] SessionFilterTrace.OnSessionClosed sid=32
+[2018-04-12][19:03:38] [Trace] [@ trace.go.38] SessionFilterTrace.OnSessionOpened sid=33
+[2018-04-12][19:03:38] [Trace] [@ serversessionfilter.go.29] (ssf *ServerSessionFilter) OnSessionOpened
+[2018-04-12][19:03:38] [Trace] [@ trace.go.69] SessionFilterTrace.OnPacketSent sid=33 size=44
+[2018-04-12][19:03:38] [Trace] [@ trace.go.69] SessionFilterTrace.OnPacketSent sid=33 size=50
+[2018-04-12][19:04:08] [Trace] [@ tcp_session.go.156] s.sc.decoder.Decode(packetid:0) err:EOF 
+[2018-04-12][19:04:08] [Trace] [@ tcp_session.go.119] 33 ->close: TcpSession.recvRoutine err: EOF
+[2018-04-12][19:04:08] [Trace] [@ tcp_session.go.182] 33 shutRead
+[2018-04-12][19:04:08] [Trace] [@ tcp_session.go.62] 33 ->close: TcpSession.sendRoutine err: [comm expt]normal close send
+[2018-04-12][19:04:08] [Trace] [@ tcp_session.go.193] 33 shutWrite
+[2018-04-12][19:04:08] [Trace] [@ trace.go.43] SessionFilterTrace.OnSessionClosed sid=33
+[2018-04-12][19:04:08] [Trace] [@ trace.go.38] SessionFilterTrace.OnSessionOpened sid=34
+[2018-04-12][19:04:08] [Trace] [@ serversessionfilter.go.29] (ssf *ServerSessionFilter) OnSessionOpened
+[2018-04-12][19:04:08] [Trace] [@ trace.go.69] SessionFilterTrace.OnPacketSent sid=34 size=44
+[2018-04-12][19:04:08] [Trace] [@ trace.go.69] SessionFilterTrace.OnPacketSent sid=34 size=50
+[2018-04-12][19:04:38] [Trace] [@ tcp_session.go.156] s.sc.decoder.Decode(packetid:0) err:EOF 
+[2018-04-12][19:04:38] [Trace] [@ tcp_session.go.119] 34 ->close: TcpSession.recvRoutine err: EOF
+[2018-04-12][19:04:38] [Trace] [@ tcp_session.go.182] 34 shutRead
+[2018-04-12][19:04:38] [Trace] [@ tcp_session.go.62] 34 ->close: TcpSession.sendRoutine err: [comm expt]normal close send
+[2018-04-12][19:04:38] [Trace] [@ tcp_session.go.193] 34 shutWrite
+[2018-04-12][19:04:38] [Trace] [@ trace.go.43] SessionFilterTrace.OnSessionClosed sid=34
+[2018-04-12][19:04:38] [Trace] [@ trace.go.38] SessionFilterTrace.OnSessionOpened sid=35
+[2018-04-12][19:04:38] [Trace] [@ serversessionfilter.go.29] (ssf *ServerSessionFilter) OnSessionOpened
+[2018-04-12][19:04:38] [Trace] [@ trace.go.69] SessionFilterTrace.OnPacketSent sid=35 size=44
+[2018-04-12][19:04:38] [Trace] [@ trace.go.69] SessionFilterTrace.OnPacketSent sid=35 size=50
+[2018-04-12][19:04:47] [Trace] [@ tcp_session.go.156] s.sc.decoder.Decode(packetid:0) err:EOF 
+[2018-04-12][19:04:47] [Trace] [@ tcp_session.go.119] 35 ->close: TcpSession.recvRoutine err: EOF
+[2018-04-12][19:04:47] [Trace] [@ tcp_session.go.182] 35 shutRead
+[2018-04-12][19:04:47] [Trace] [@ tcp_session.go.62] 35 ->close: TcpSession.sendRoutine err: [comm expt]normal close send
+[2018-04-12][19:04:47] [Trace] [@ tcp_session.go.193] 35 shutWrite
+[2018-04-12][19:04:47] [Trace] [@ trace.go.43] SessionFilterTrace.OnSessionClosed sid=35
+[2018-04-12][19:05:30] [Trace] [@ trace.go.38] SessionFilterTrace.OnSessionOpened sid=36
+[2018-04-12][19:05:30] [Trace] [@ serversessionfilter.go.29] (ssf *ServerSessionFilter) OnSessionOpened
+[2018-04-12][19:05:30] [Trace] [@ trace.go.69] SessionFilterTrace.OnPacketSent sid=36 size=44
+[2018-04-12][19:05:30] [Trace] [@ trace.go.69] SessionFilterTrace.OnPacketSent sid=36 size=50
+[2018-04-12][19:10:30] [Trace] [@ tcp_session.go.156] s.sc.decoder.Decode(packetid:0) err:EOF 
+[2018-04-12][19:10:30] [Trace] [@ tcp_session.go.119] 36 ->close: TcpSession.recvRoutine err: EOF
+[2018-04-12][19:10:30] [Trace] [@ tcp_session.go.182] 36 shutRead
+[2018-04-12][19:10:30] [Trace] [@ tcp_session.go.62] 36 ->close: TcpSession.sendRoutine err: [comm expt]normal close send
+[2018-04-12][19:10:30] [Trace] [@ tcp_session.go.193] 36 shutWrite
+[2018-04-12][19:10:30] [Trace] [@ trace.go.43] SessionFilterTrace.OnSessionClosed sid=36
+[2018-04-12][19:10:30] [Trace] [@ trace.go.38] SessionFilterTrace.OnSessionOpened sid=37
+[2018-04-12][19:10:30] [Trace] [@ serversessionfilter.go.29] (ssf *ServerSessionFilter) OnSessionOpened
+[2018-04-12][19:10:30] [Trace] [@ trace.go.69] SessionFilterTrace.OnPacketSent sid=37 size=44
+[2018-04-12][19:10:30] [Info] [@ trace.go.86] Session per five minuts: recvCntPerSec=0 sendCntPerSec=10
+[2018-04-12][19:10:30] [Trace] [@ trace.go.69] SessionFilterTrace.OnPacketSent sid=37 size=50
+[2018-04-12][19:15:30] [Trace] [@ tcp_session.go.156] s.sc.decoder.Decode(packetid:0) err:EOF 
+[2018-04-12][19:15:30] [Trace] [@ tcp_session.go.119] 37 ->close: TcpSession.recvRoutine err: EOF
+[2018-04-12][19:15:30] [Trace] [@ tcp_session.go.182] 37 shutRead
+[2018-04-12][19:15:30] [Trace] [@ tcp_session.go.62] 37 ->close: TcpSession.sendRoutine err: [comm expt]normal close send
+[2018-04-12][19:15:30] [Trace] [@ tcp_session.go.193] 37 shutWrite
+[2018-04-12][19:15:30] [Trace] [@ trace.go.43] SessionFilterTrace.OnSessionClosed sid=37
+[2018-04-12][19:15:31] [Trace] [@ trace.go.38] SessionFilterTrace.OnSessionOpened sid=38
+[2018-04-12][19:15:31] [Trace] [@ serversessionfilter.go.29] (ssf *ServerSessionFilter) OnSessionOpened
+[2018-04-12][19:15:31] [Trace] [@ trace.go.69] SessionFilterTrace.OnPacketSent sid=38 size=44
+[2018-04-12][19:15:31] [Info] [@ trace.go.86] Session per five minuts: recvCntPerSec=0 sendCntPerSec=0
+[2018-04-12][19:15:31] [Trace] [@ trace.go.69] SessionFilterTrace.OnPacketSent sid=38 size=50
+[2018-04-12][19:18:31] [Trace] [@ tcp_session.go.156] s.sc.decoder.Decode(packetid:0) err:EOF 
+[2018-04-12][19:18:31] [Trace] [@ tcp_session.go.119] 38 ->close: TcpSession.recvRoutine err: EOF
+[2018-04-12][19:18:31] [Trace] [@ tcp_session.go.182] 38 shutRead
+[2018-04-12][19:18:31] [Trace] [@ tcp_session.go.62] 38 ->close: TcpSession.sendRoutine err: [comm expt]normal close send
+[2018-04-12][19:18:31] [Trace] [@ tcp_session.go.193] 38 shutWrite
+[2018-04-12][19:18:31] [Trace] [@ trace.go.43] SessionFilterTrace.OnSessionClosed sid=38
