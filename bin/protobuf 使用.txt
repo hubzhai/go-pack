@@ -1,0 +1,36 @@
+﻿
+环境：安装 protobuf-2.5.0	
+在 .../protobuf-2.5.0/python  执行命令
+python setup.py build
+python setup.py install
+
+-------------------------------------------------------------------------------------------
+
+
+使用：
+
+1.  编译：xlsx2proto
+.../project/tools/xlsx2proto/
+
+2. 生成 dat 数据文件
+脚本： .../project/gen_data.bat
+环境：[/gocdoe/trunk/bin] 目录添加到path环境变量中，因用到了 protoc 命令；
+
+3. 生成 lua 数据解析协议文件
+脚本： .../project/gen_lua.bat
+
+
+
+
+
+
+
+
+
+
+
+
+-------------------------------------------------------------------------------------------
+
+可能需要下载文件: setuptools-0.6c11-py2.7.egg, 【手动下载可放在 .../protobuf-2.5.0/python/】
+https://pypi.python.org/packages/2.7/s/setuptools/setuptools-0.6c11-py2.7.egg

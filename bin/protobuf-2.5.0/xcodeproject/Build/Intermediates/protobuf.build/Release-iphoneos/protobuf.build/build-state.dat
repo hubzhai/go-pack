@@ -1,0 +1,1768 @@
+Tprotobuf
+v5
+r1
+cCheck dependencies
+cProcessPCH++ /work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/Build/Intermediates/PrecompiledHeaders/protobuf-Prefix-exmulbtaaofjkogbmxpmewibtqnm/protobuf-Prefix.pch.gch protobuf/protobuf-Prefix.pch normal armv7 c++ com.apple.compilers.llvmgcc42
+cCompileC Build/Intermediates/protobuf.build/Release-iphoneos/protobuf.build/Objects-normal/armv7/strutil.o /work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/protobuf/../../src/google/protobuf/stubs/strutil.cc normal armv7 c++ com.apple.compilers.llvmgcc42
+cCompileC Build/Intermediates/protobuf.build/Release-iphoneos/protobuf.build/Objects-normal/armv7/descriptor.o /work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/protobuf/../../src/google/protobuf/descriptor.cc normal armv7 c++ com.apple.compilers.llvmgcc42
+cCompileC Build/Intermediates/protobuf.build/Release-iphoneos/protobuf.build/Objects-normal/armv7/zero_copy_stream_impl.o /work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/protobuf/../../src/google/protobuf/io/zero_copy_stream_impl.cc normal armv7 c++ com.apple.compilers.llvmgcc42
+cCompileC Build/Intermediates/protobuf.build/Release-iphoneos/protobuf.build/Objects-normal/armv7/message_lite.o /work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/protobuf/../../src/google/protobuf/message_lite.cc normal armv7 c++ com.apple.compilers.llvmgcc42
+cCompileC Build/Intermediates/protobuf.build/Release-iphoneos/protobuf.build/Objects-normal/armv7/descriptor_database.o /work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/protobuf/../../src/google/protobuf/descriptor_database.cc normal armv7 c++ com.apple.compilers.llvmgcc42
+cCompileC Build/Intermediates/protobuf.build/Release-iphoneos/protobuf.build/Objects-normal/armv7/descriptor.pb.o /work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/protobuf/../../src/google/protobuf/descriptor.pb.cc normal armv7 c++ com.apple.compilers.llvmgcc42
+cCompileC Build/Intermediates/protobuf.build/Release-iphoneos/protobuf.build/Objects-normal/armv7/dynamic_message.o /work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/protobuf/../../src/google/protobuf/dynamic_message.cc normal armv7 c++ com.apple.compilers.llvmgcc42
+cCompileC Build/Intermediates/protobuf.build/Release-iphoneos/protobuf.build/Objects-normal/armv7/extension_set.o /work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/protobuf/../../src/google/protobuf/extension_set.cc normal armv7 c++ com.apple.compilers.llvmgcc42
+cCompileC Build/Intermediates/protobuf.build/Release-iphoneos/protobuf.build/Objects-normal/armv7/extension_set_heavy.o /work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/protobuf/../../src/google/protobuf/extension_set_heavy.cc normal armv7 c++ com.apple.compilers.llvmgcc42
+cCompileC Build/Intermediates/protobuf.build/Release-iphoneos/protobuf.build/Objects-normal/armv7/generated_message_reflection.o /work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/protobuf/../../src/google/protobuf/generated_message_reflection.cc normal armv7 c++ com.apple.compilers.llvmgcc42
+cCompileC Build/Intermediates/protobuf.build/Release-iphoneos/protobuf.build/Objects-normal/armv7/generated_message_util.o /work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/protobuf/../../src/google/protobuf/generated_message_util.cc normal armv7 c++ com.apple.compilers.llvmgcc42
+cCompileC Build/Intermediates/protobuf.build/Release-iphoneos/protobuf.build/Objects-normal/armv7/coded_stream.o /work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/protobuf/../../src/google/protobuf/io/coded_stream.cc normal armv7 c++ com.apple.compilers.llvmgcc42
+cCompileC Build/Intermediates/protobuf.build/Release-iphoneos/protobuf.build/Objects-normal/armv7/printer.o /work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/protobuf/../../src/google/protobuf/io/printer.cc normal armv7 c++ com.apple.compilers.llvmgcc42
+cCompileC Build/Intermediates/protobuf.build/Release-iphoneos/protobuf.build/Objects-normal/armv7/gzip_stream.o /work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/protobuf/../../src/google/protobuf/io/gzip_stream.cc normal armv7 c++ com.apple.compilers.llvmgcc42
+cCompileC Build/Intermediates/protobuf.build/Release-iphoneos/protobuf.build/Objects-normal/armv7/tokenizer.o /work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/protobuf/../../src/google/protobuf/io/tokenizer.cc normal armv7 c++ com.apple.compilers.llvmgcc42
+cCompileC Build/Intermediates/protobuf.build/Release-iphoneos/protobuf.build/Objects-normal/armv7/zero_copy_stream.o /work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/protobuf/../../src/google/protobuf/io/zero_copy_stream.cc normal armv7 c++ com.apple.compilers.llvmgcc42
+cCompileC Build/Intermediates/protobuf.build/Release-iphoneos/protobuf.build/Objects-normal/armv7/zero_copy_stream_impl_lite.o /work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/protobuf/../../src/google/protobuf/io/zero_copy_stream_impl_lite.cc normal armv7 c++ com.apple.compilers.llvmgcc42
+cCompileC Build/Intermediates/protobuf.build/Release-iphoneos/protobuf.build/Objects-normal/armv7/message.o /work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/protobuf/../../src/google/protobuf/message.cc normal armv7 c++ com.apple.compilers.llvmgcc42
+cCompileC Build/Intermediates/protobuf.build/Release-iphoneos/protobuf.build/Objects-normal/armv7/reflection_ops.o /work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/protobuf/../../src/google/protobuf/reflection_ops.cc normal armv7 c++ com.apple.compilers.llvmgcc42
+cCompileC Build/Intermediates/protobuf.build/Release-iphoneos/protobuf.build/Objects-normal/armv7/repeated_field.o /work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/protobuf/../../src/google/protobuf/repeated_field.cc normal armv7 c++ com.apple.compilers.llvmgcc42
+cCompileC Build/Intermediates/protobuf.build/Release-iphoneos/protobuf.build/Objects-normal/armv7/atomicops_internals_x86_msvc.o /work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/protobuf/../../src/google/protobuf/stubs/atomicops_internals_x86_msvc.cc normal armv7 c++ com.apple.compilers.llvmgcc42
+cCompileC Build/Intermediates/protobuf.build/Release-iphoneos/protobuf.build/Objects-normal/armv7/atomicops_internals_x86_gcc.o /work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/protobuf/../../src/google/protobuf/stubs/atomicops_internals_x86_gcc.cc normal armv7 c++ com.apple.compilers.llvmgcc42
+cCompileC Build/Intermediates/protobuf.build/Release-iphoneos/protobuf.build/Objects-normal/armv7/service.o /work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/protobuf/../../src/google/protobuf/service.cc normal armv7 c++ com.apple.compilers.llvmgcc42
+cCompileC Build/Intermediates/protobuf.build/Release-iphoneos/protobuf.build/Objects-normal/armv7/common.o /work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/protobuf/../../src/google/protobuf/stubs/common.cc normal armv7 c++ com.apple.compilers.llvmgcc42
+cCompileC Build/Intermediates/protobuf.build/Release-iphoneos/protobuf.build/Objects-normal/armv7/structurally_valid.o /work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/protobuf/../../src/google/protobuf/stubs/structurally_valid.cc normal armv7 c++ com.apple.compilers.llvmgcc42
+cCompileC Build/Intermediates/protobuf.build/Release-iphoneos/protobuf.build/Objects-normal/armv7/once.o /work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/protobuf/../../src/google/protobuf/stubs/once.cc normal armv7 c++ com.apple.compilers.llvmgcc42
+cCompileC Build/Intermediates/protobuf.build/Release-iphoneos/protobuf.build/Objects-normal/armv7/stringprintf.o /work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/protobuf/../../src/google/protobuf/stubs/stringprintf.cc normal armv7 c++ com.apple.compilers.llvmgcc42
+cCompileC Build/Intermediates/protobuf.build/Release-iphoneos/protobuf.build/Objects-normal/armv7/substitute.o /work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/protobuf/../../src/google/protobuf/stubs/substitute.cc normal armv7 c++ com.apple.compilers.llvmgcc42
+cCompileC Build/Intermediates/protobuf.build/Release-iphoneos/protobuf.build/Objects-normal/armv7/googletest.o /work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/protobuf/../../src/google/protobuf/testing/googletest.cc normal armv7 c++ com.apple.compilers.llvmgcc42
+cCompileC Build/Intermediates/protobuf.build/Release-iphoneos/protobuf.build/Objects-normal/armv7/zcgunzip.o /work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/protobuf/../../src/google/protobuf/testing/zcgunzip.cc normal armv7 c++ com.apple.compilers.llvmgcc42
+cCompileC Build/Intermediates/protobuf.build/Release-iphoneos/protobuf.build/Objects-normal/armv7/zcgzip.o /work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/protobuf/../../src/google/protobuf/testing/zcgzip.cc normal armv7 c++ com.apple.compilers.llvmgcc42
+cCompileC Build/Intermediates/protobuf.build/Release-iphoneos/protobuf.build/Objects-normal/armv7/file.o /work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/protobuf/../../src/google/protobuf/testing/file.cc normal armv7 c++ com.apple.compilers.llvmgcc42
+cCompileC Build/Intermediates/protobuf.build/Release-iphoneos/protobuf.build/Objects-normal/armv7/unknown_field_set.o /work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/protobuf/../../src/google/protobuf/unknown_field_set.cc normal armv7 c++ com.apple.compilers.llvmgcc42
+cCompileC Build/Intermediates/protobuf.build/Release-iphoneos/protobuf.build/Objects-normal/armv7/text_format.o /work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/protobuf/../../src/google/protobuf/text_format.cc normal armv7 c++ com.apple.compilers.llvmgcc42
+cCompileC Build/Intermediates/protobuf.build/Release-iphoneos/protobuf.build/Objects-normal/armv7/wire_format.o /work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/protobuf/../../src/google/protobuf/wire_format.cc normal armv7 c++ com.apple.compilers.llvmgcc42
+cCompileC Build/Intermediates/protobuf.build/Release-iphoneos/protobuf.build/Objects-normal/armv7/wire_format_lite.o /work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/protobuf/../../src/google/protobuf/wire_format_lite.cc normal armv7 c++ com.apple.compilers.llvmgcc42
+cLibtool /work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/Build/Products/Release-iphoneos/libprotobuf.a normal armv7
+
+N/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk
+c0000000050ED385D0000000000000110
+t1357723741
+s272
+
+N/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c0000000050F4C9AB000000000062AD10
+t1358219691
+s6466832
+
+N/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c0000000050F4C9AB00000000000015F7
+t1358219691
+s5623
+
+N/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk/usr/include/assert.h
+c0000000050F4C9C30000000000000F6E
+t1358219715
+s3950
+
+N/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk/usr/include/dirent.h
+c0000000050F4C9CC00000000000019BA
+t1358219724
+s6586
+
+N/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk/usr/include/errno.h
+c0000000050F4C9CC00000000000003EB
+t1358219724
+s1003
+
+N/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk/usr/include/fcntl.h
+c0000000050F4C9CD00000000000003EA
+t1358219725
+s1002
+
+N/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk/usr/include/inttypes.h
+c0000000050F4C9CD000000000000231A
+t1358219725
+s8986
+
+N/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk/usr/include/libkern/OSAtomic.h
+c0000000050F4C9CD000000000000764E
+t1358219725
+s30286
+
+N/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk/usr/include/math.h
+c0000000050F4C9D0000000000000697B
+t1358219728
+s27003
+
+N/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk/usr/include/pthread.h
+c0000000050F4C9D00000000000003CF0
+t1358219728
+s15600
+
+N/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk/usr/include/sched.h
+c0000000050F4C9D10000000000000560
+t1358219729
+s1376
+
+N/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk/usr/include/stdint.h
+c0000000050F4C9D100000000000018EF
+t1358219729
+s6383
+
+N/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk/usr/include/stdio.h
+c0000000050F4C9D10000000000004523
+t1358219729
+s17699
+
+N/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk/usr/include/stdlib.h
+c0000000050F4C9D10000000000003089
+t1358219729
+s12425
+
+N/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk/usr/include/string.h
+c0000000050F4C9D10000000000001A3A
+t1358219729
+s6714
+
+N/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk/usr/include/sys/param.h
+c0000000050F4C9D200000000000027BE
+t1358219730
+s10174
+
+N/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk/usr/include/sys/stat.h
+c0000000050F4C9D20000000000004B2F
+t1358219730
+s19247
+
+N/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk/usr/include/sys/types.h
+c0000000050F4C9D20000000000002795
+t1358219730
+s10133
+
+N/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk/usr/include/unistd.h
+c0000000050F4C9D20000000000006764
+t1358219730
+s26468
+
+N/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk/usr/include/zlib.h
+c0000000050F4C9D20000000000013A7F
+t1358219730
+s80511
+
+N/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/llvm-gcc-4.2/lib/gcc/arm-apple-darwin10/4.2.1/include/float.h
+c0000000050F4C9D80000000000001538
+t1358219736
+s5432
+
+N/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/llvm-gcc-4.2/lib/gcc/arm-apple-darwin10/4.2.1/include/limits.h
+c0000000050F4C9D80000000000000D03
+t1358219736
+s3331
+
+N/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/llvm-gcc-4.2/lib/gcc/arm-apple-darwin10/4.2.1/include/stdarg.h
+c0000000050F4C9D800000000000010DD
+t1358219736
+s4317
+
+N/work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/src/google/protobuf/descriptor.h
+c00000000540041040000000000010144
+t1409302788
+s65860
+i<string>
+i<vector>
+i<google/protobuf/stubs/common.h>
+
+N/work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/src/google/protobuf/descriptor.pb.h
+c000000005400410400000000000354AC
+t1409302788
+s218284
+i<string>
+i<google/protobuf/stubs/common.h>
+i<google/protobuf/generated_message_util.h>
+i<google/protobuf/message.h>
+i<google/protobuf/repeated_field.h>
+i<google/protobuf/extension_set.h>
+i<google/protobuf/generated_enum_reflection.h>
+i<google/protobuf/unknown_field_set.h>
+
+N/work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/src/google/protobuf/descriptor_database.h
+c0000000054004104000000000000436D
+t1409302788
+s17261
+i<map>
+i<string>
+i<utility>
+i<vector>
+i<google/protobuf/stubs/common.h>
+i<google/protobuf/descriptor.h>
+
+N/work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/src/google/protobuf/dynamic_message.h
+c000000005400410400000000000017E8
+t1409302788
+s6120
+i<google/protobuf/message.h>
+i<google/protobuf/stubs/common.h>
+
+N/work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/src/google/protobuf/extension_set.h
+c0000000054004104000000000000C3F2
+t1409302788
+s50162
+i<vector>
+i<map>
+i<utility>
+i<string>
+i<google/protobuf/stubs/common.h>
+
+N/work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/src/google/protobuf/generated_enum_reflection.h
+c00000000540041040000000000000E3A
+t1409302788
+s3642
+i<string>
+
+N/work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/src/google/protobuf/generated_message_reflection.h
+c00000000540041040000000000005082
+t1409302788
+s20610
+i<string>
+i<vector>
+i<google/protobuf/stubs/common.h>
+i<google/protobuf/generated_enum_reflection.h>
+i<google/protobuf/message.h>
+i<google/protobuf/unknown_field_set.h>
+
+N/work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/src/google/protobuf/generated_message_util.h
+c00000000540041040000000000000C99
+t1409302788
+s3225
+i<string>
+i<google/protobuf/stubs/common.h>
+
+N/work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/src/google/protobuf/io/coded_stream.h
+c0000000054004104000000000000B354
+t1409302788
+s45908
+i<string>
+i<sys/param.h>
+i<google/protobuf/stubs/common.h>
+
+N/work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/src/google/protobuf/io/coded_stream_inl.h
+c00000000540041040000000000000B07
+t1409302788
+s2823
+i<google/protobuf/io/coded_stream.h>
+i<string>
+i<google/protobuf/stubs/stl_util.h>
+
+N/work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/src/google/protobuf/io/gzip_stream.h
+c000000005400410400000000000019A5
+t1409302788
+s6565
+i<zlib.h>
+i<google/protobuf/stubs/common.h>
+i<google/protobuf/io/zero_copy_stream.h>
+
+N/work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/src/google/protobuf/io/printer.h
+c000000005400410400000000000015DC
+t1409302788
+s5596
+i<string>
+i<map>
+i<google/protobuf/stubs/common.h>
+
+N/work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/src/google/protobuf/io/tokenizer.h
+c00000000540041040000000000003C41
+t1409302788
+s15425
+i<string>
+i<vector>
+i<google/protobuf/stubs/common.h>
+
+N/work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/src/google/protobuf/io/zero_copy_stream.h
+c0000000054004104000000000000258A
+t1409302788
+s9610
+i<string>
+i<google/protobuf/stubs/common.h>
+
+N/work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/src/google/protobuf/io/zero_copy_stream_impl.h
+c000000005400410400000000000034DD
+t1409302788
+s13533
+i<string>
+i<iosfwd>
+i<google/protobuf/io/zero_copy_stream.h>
+i<google/protobuf/io/zero_copy_stream_impl_lite.h>
+i<google/protobuf/stubs/common.h>
+
+N/work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/src/google/protobuf/io/zero_copy_stream_impl_lite.h
+c000000005400410400000000000035ED
+t1409302788
+s13805
+i<string>
+i<iosfwd>
+i<google/protobuf/io/zero_copy_stream.h>
+i<google/protobuf/stubs/common.h>
+
+N/work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/src/google/protobuf/message.h
+c00000000540041040000000000009775
+t1409302788
+s38773
+i<vector>
+i<string>
+i<iostream>
+i<iosfwd>
+i<google/protobuf/message_lite.h>
+i<google/protobuf/stubs/common.h>
+i<google/protobuf/descriptor.h>
+
+N/work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/src/google/protobuf/message_lite.h
+c00000000540041040000000000002D89
+t1409302788
+s11657
+i<google/protobuf/stubs/common.h>
+
+N/work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/src/google/protobuf/reflection_ops.h
+c00000000540041040000000000000DBE
+t1409302788
+s3518
+i<google/protobuf/stubs/common.h>
+i<google/protobuf/message.h>
+
+N/work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/src/google/protobuf/repeated_field.h
+c0000000054004104000000000000C0A9
+t1409302788
+s49321
+i<algorithm>
+i<string>
+i<iterator>
+i<google/protobuf/stubs/common.h>
+i<google/protobuf/stubs/type_traits.h>
+i<google/protobuf/generated_message_util.h>
+i<google/protobuf/message_lite.h>
+
+N/work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/src/google/protobuf/service.h
+c00000000540041040000000000003319
+t1409302788
+s13081
+i<string>
+i<google/protobuf/stubs/common.h>
+
+N/work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/src/google/protobuf/stubs/atomicops.h
+c000000005400410400000000000022F3
+t1409302788
+s8947
+i<google/protobuf/stubs/platform_macros.h>
+i<google/protobuf/stubs/atomicops_internals_x86_msvc.h>
+i<google/protobuf/stubs/atomicops_internals_macosx.h>
+i<google/protobuf/stubs/atomicops_internals_x86_gcc.h>
+i<google/protobuf/stubs/atomicops_internals_arm_gcc.h>
+i<google/protobuf/stubs/atomicops_internals_arm_qnx.h>
+i<google/protobuf/stubs/atomicops_internals_mips_gcc.h>
+i<google/protobuf/stubs/atomicops_internals_pnacl.h>
+i<google/protobuf/stubs/atomicops_internals_atomicword_compat.h>
+
+N/work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/src/google/protobuf/stubs/atomicops_internals_arm_gcc.h
+c000000005400410400000000000015BD
+t1409302788
+s5565
+
+N/work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/src/google/protobuf/stubs/atomicops_internals_arm_qnx.h
+c0000000054004104000000000000136F
+t1409302788
+s4975
+i<pthread.h>
+
+N/work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/src/google/protobuf/stubs/atomicops_internals_atomicword_compat.h
+c00000000540041040000000000001428
+t1409302788
+s5160
+
+N/work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/src/google/protobuf/stubs/atomicops_internals_macosx.h
+c00000000540041040000000000001CC4
+t1409302788
+s7364
+i<libkern/OSAtomic.h>
+
+N/work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/src/google/protobuf/stubs/atomicops_internals_mips_gcc.h
+c00000000540041040000000000001C66
+t1409302788
+s7270
+
+N/work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/src/google/protobuf/stubs/atomicops_internals_pnacl.h
+c00000000540041040000000000000B28
+t1409302788
+s2856
+
+N/work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/src/google/protobuf/stubs/atomicops_internals_x86_gcc.h
+c000000005400410400000000000029C6
+t1409302788
+s10694
+
+N/work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/src/google/protobuf/stubs/atomicops_internals_x86_msvc.h
+c000000005400410400000000000014E9
+t1409302788
+s5353
+
+N/work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/src/google/protobuf/stubs/common.h
+c00000000540041040000000000009F92
+t1409302788
+s40850
+i<assert.h>
+i<stdlib.h>
+i<cstddef>
+i<string>
+i<string.h>
+i<inttypes.h>
+i<stdint.h>
+i<exception>
+
+N/work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/src/google/protobuf/stubs/hash.h
+c00000000540041040000000000001A7C
+t1409302788
+s6780
+i<string.h>
+i<google/protobuf/stubs/common.h>
+i"config.h"
+i<map>
+i<set>
+
+N/work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/src/google/protobuf/stubs/map-util.h
+c00000000540041040000000000001733
+t1409302788
+s5939
+i<google/protobuf/stubs/common.h>
+
+N/work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/src/google/protobuf/stubs/once.h
+c000000005400410400000000000015B7
+t1409302788
+s5559
+i<google/protobuf/stubs/atomicops.h>
+i<google/protobuf/stubs/common.h>
+
+N/work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/src/google/protobuf/stubs/platform_macros.h
+c00000000540041040000000000000B93
+t1409302788
+s2963
+i<google/protobuf/stubs/common.h>
+
+N/work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/src/google/protobuf/stubs/stl_util.h
+c00000000540041040000000000001439
+t1409302788
+s5177
+i<google/protobuf/stubs/common.h>
+
+N/work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/src/google/protobuf/stubs/stringprintf.h
+c00000000540041040000000000000CDF
+t1409302788
+s3295
+i<stdarg.h>
+i<string>
+i<vector>
+i<google/protobuf/stubs/common.h>
+
+N/work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/src/google/protobuf/stubs/strutil.h
+c00000000540041040000000000005007
+t1409302788
+s20487
+i<stdlib.h>
+i<vector>
+i<google/protobuf/stubs/common.h>
+
+N/work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/src/google/protobuf/stubs/substitute.h
+c00000000540041040000000000001DB1
+t1409302788
+s7601
+i<string>
+i<google/protobuf/stubs/common.h>
+i<google/protobuf/stubs/strutil.h>
+
+N/work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/src/google/protobuf/stubs/template_util.h
+c000000005400410400000000000012E3
+t1409302788
+s4835
+
+N/work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/src/google/protobuf/stubs/type_traits.h
+c000000005400410400000000000039A8
+t1409302788
+s14760
+i<utility>
+i<google/protobuf/stubs/template_util.h>
+
+N/work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/src/google/protobuf/testing/file.h
+c00000000540041040000000000000D35
+t1409302788
+s3381
+i<google/protobuf/stubs/common.h>
+
+N/work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/src/google/protobuf/testing/googletest.h
+c00000000540041040000000000000F37
+t1409302788
+s3895
+i<map>
+i<vector>
+i<google/protobuf/stubs/common.h>
+
+N/work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/src/google/protobuf/text_format.h
+c00000000540041040000000000003A8D
+t1409302788
+s14989
+i<map>
+i<string>
+i<vector>
+i<google/protobuf/stubs/common.h>
+i<google/protobuf/message.h>
+i<google/protobuf/descriptor.h>
+
+N/work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/src/google/protobuf/unknown_field_set.h
+c000000005400410400000000000028D3
+t1409302788
+s10451
+i<assert.h>
+i<string>
+i<vector>
+i<google/protobuf/stubs/common.h>
+
+N/work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/src/google/protobuf/wire_format.h
+c00000000540041040000000000002F53
+t1409302788
+s12115
+i<string>
+i<google/protobuf/stubs/common.h>
+i<google/protobuf/descriptor.pb.h>
+i<google/protobuf/descriptor.h>
+i<google/protobuf/message.h>
+i<google/protobuf/wire_format_lite.h>
+
+N/work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/src/google/protobuf/wire_format_lite.h
+c00000000540041040000000000006644
+t1409302788
+s26180
+i<string>
+i<google/protobuf/stubs/common.h>
+i<google/protobuf/message_lite.h>
+i<google/protobuf/io/coded_stream.h>
+
+N/work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/src/google/protobuf/wire_format_lite_inl.h
+c0000000054004104000000000000807E
+t1409302788
+s32894
+i<string>
+i<google/protobuf/stubs/common.h>
+i<google/protobuf/message_lite.h>
+i<google/protobuf/repeated_field.h>
+i<google/protobuf/wire_format_lite.h>
+i<google/protobuf/io/coded_stream.h>
+
+N/work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/Build/Intermediates/PrecompiledHeaders/protobuf-Prefix-exmulbtaaofjkogbmxpmewibtqnm/protobuf-Prefix.pch.gch
+t1411959315
+s2097520
+
+N/work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/Build/Intermediates/protobuf.build/Release-iphoneos/protobuf.build/Objects-normal/armv7/atomicops_internals_x86_gcc.o
+t1411959326
+s424
+
+N/work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/Build/Intermediates/protobuf.build/Release-iphoneos/protobuf.build/Objects-normal/armv7/atomicops_internals_x86_msvc.o
+t1411959326
+s424
+
+N/work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/Build/Intermediates/protobuf.build/Release-iphoneos/protobuf.build/Objects-normal/armv7/coded_stream.o
+t1411959322
+s68652
+
+N/work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/Build/Intermediates/protobuf.build/Release-iphoneos/protobuf.build/Objects-normal/armv7/common.o
+t1411959327
+s80132
+
+N/work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/Build/Intermediates/protobuf.build/Release-iphoneos/protobuf.build/Objects-normal/armv7/descriptor.o
+t1411959325
+s1849556
+
+N/work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/Build/Intermediates/protobuf.build/Release-iphoneos/protobuf.build/Objects-normal/armv7/descriptor.pb.o
+t1411959323
+s1254840
+
+N/work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/Build/Intermediates/protobuf.build/Release-iphoneos/protobuf.build/Objects-normal/armv7/descriptor_database.o
+t1411959319
+s783884
+
+N/work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/Build/Intermediates/protobuf.build/Release-iphoneos/protobuf.build/Objects-normal/armv7/dynamic_message.o
+t1411959317
+s485640
+
+N/work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/Build/Intermediates/protobuf.build/Release-iphoneos/protobuf.build/Objects-normal/armv7/extension_set.o
+t1411959321
+s531516
+
+N/work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/Build/Intermediates/protobuf.build/Release-iphoneos/protobuf.build/Objects-normal/armv7/extension_set_heavy.o
+t1411959321
+s507120
+
+N/work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/Build/Intermediates/protobuf.build/Release-iphoneos/protobuf.build/Objects-normal/armv7/file.o
+t1411959327
+s31568
+
+N/work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/Build/Intermediates/protobuf.build/Release-iphoneos/protobuf.build/Objects-normal/armv7/generated_message_reflection.o
+t1411959324
+s657440
+
+N/work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/Build/Intermediates/protobuf.build/Release-iphoneos/protobuf.build/Objects-normal/armv7/generated_message_util.o
+t1411959322
+s16956
+
+N/work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/Build/Intermediates/protobuf.build/Release-iphoneos/protobuf.build/Objects-normal/armv7/googletest.o
+t1411959328
+s134640
+
+N/work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/Build/Intermediates/protobuf.build/Release-iphoneos/protobuf.build/Objects-normal/armv7/gzip_stream.o
+t1411959323
+s31420
+
+N/work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/Build/Intermediates/protobuf.build/Release-iphoneos/protobuf.build/Objects-normal/armv7/message.o
+t1411959326
+s534748
+
+N/work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/Build/Intermediates/protobuf.build/Release-iphoneos/protobuf.build/Objects-normal/armv7/message_lite.o
+t1411959325
+s70960
+
+N/work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/Build/Intermediates/protobuf.build/Release-iphoneos/protobuf.build/Objects-normal/armv7/once.o
+t1411959326
+s5804
+
+N/work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/Build/Intermediates/protobuf.build/Release-iphoneos/protobuf.build/Objects-normal/armv7/printer.o
+t1411959323
+s83188
+
+N/work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/Build/Intermediates/protobuf.build/Release-iphoneos/protobuf.build/Objects-normal/armv7/protobuf.LinkFileList
+c000000005428CA13000000000000191E
+t1411959315
+s6430
+
+N/work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/Build/Intermediates/protobuf.build/Release-iphoneos/protobuf.build/Objects-normal/armv7/reflection_ops.o
+t1411959326
+s376100
+
+N/work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/Build/Intermediates/protobuf.build/Release-iphoneos/protobuf.build/Objects-normal/armv7/repeated_field.o
+t1411959326
+s20560
+
+N/work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/Build/Intermediates/protobuf.build/Release-iphoneos/protobuf.build/Objects-normal/armv7/service.o
+t1411959326
+s21896
+
+N/work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/Build/Intermediates/protobuf.build/Release-iphoneos/protobuf.build/Objects-normal/armv7/stringprintf.o
+t1411959327
+s29288
+
+N/work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/Build/Intermediates/protobuf.build/Release-iphoneos/protobuf.build/Objects-normal/armv7/structurally_valid.o
+t1411959327
+s12212
+
+N/work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/Build/Intermediates/protobuf.build/Release-iphoneos/protobuf.build/Objects-normal/armv7/strutil.o
+t1411959327
+s104920
+
+N/work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/Build/Intermediates/protobuf.build/Release-iphoneos/protobuf.build/Objects-normal/armv7/substitute.o
+t1411959327
+s33180
+
+N/work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/Build/Intermediates/protobuf.build/Release-iphoneos/protobuf.build/Objects-normal/armv7/text_format.o
+t1411959330
+s685720
+
+N/work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/Build/Intermediates/protobuf.build/Release-iphoneos/protobuf.build/Objects-normal/armv7/tokenizer.o
+t1411959324
+s91084
+
+N/work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/Build/Intermediates/protobuf.build/Release-iphoneos/protobuf.build/Objects-normal/armv7/unknown_field_set.o
+t1411959329
+s377832
+
+N/work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/Build/Intermediates/protobuf.build/Release-iphoneos/protobuf.build/Objects-normal/armv7/wire_format.o
+t1411959329
+s470760
+
+N/work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/Build/Intermediates/protobuf.build/Release-iphoneos/protobuf.build/Objects-normal/armv7/wire_format_lite.o
+t1411959329
+s90620
+
+N/work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/Build/Intermediates/protobuf.build/Release-iphoneos/protobuf.build/Objects-normal/armv7/zcgunzip.o
+t1411959327
+s12520
+
+N/work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/Build/Intermediates/protobuf.build/Release-iphoneos/protobuf.build/Objects-normal/armv7/zcgzip.o
+t1411959327
+s12436
+
+N/work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/Build/Intermediates/protobuf.build/Release-iphoneos/protobuf.build/Objects-normal/armv7/zero_copy_stream.o
+t1411959324
+s7468
+
+N/work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/Build/Intermediates/protobuf.build/Release-iphoneos/protobuf.build/Objects-normal/armv7/zero_copy_stream_impl.o
+t1411959325
+s119996
+
+N/work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/Build/Intermediates/protobuf.build/Release-iphoneos/protobuf.build/Objects-normal/armv7/zero_copy_stream_impl_lite.o
+t1411959324
+s68848
+
+N/work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/Build/Products/Release-iphoneos/libprotobuf.a
+t1411959330
+s9879432
+
+N/work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/protobuf/../../src/google/protobuf/descriptor.cc
+c0000000054004104000000000002DA83
+t1409302788
+s187011
+i<google/protobuf/stubs/hash.h>
+i<map>
+i<set>
+i<vector>
+i<algorithm>
+i<limits>
+i<google/protobuf/descriptor.h>
+i<google/protobuf/descriptor_database.h>
+i<google/protobuf/descriptor.pb.h>
+i<google/protobuf/dynamic_message.h>
+i<google/protobuf/text_format.h>
+i<google/protobuf/unknown_field_set.h>
+i<google/protobuf/wire_format.h>
+i<google/protobuf/io/coded_stream.h>
+i<google/protobuf/io/tokenizer.h>
+i<google/protobuf/io/zero_copy_stream_impl.h>
+i<google/protobuf/stubs/common.h>
+i<google/protobuf/stubs/once.h>
+i<google/protobuf/stubs/strutil.h>
+i<google/protobuf/stubs/substitute.h>
+i<google/protobuf/stubs/map-util.h>
+i<google/protobuf/stubs/stl_util.h>
+
+N/work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/protobuf/../../src/google/protobuf/descriptor.pb.cc
+c000000005400410400000000000472AA
+t1409302788
+s291498
+i"google/protobuf/descriptor.pb.h"
+i<algorithm>
+i<google/protobuf/stubs/common.h>
+i<google/protobuf/stubs/once.h>
+i<google/protobuf/io/coded_stream.h>
+i<google/protobuf/wire_format_lite_inl.h>
+i<google/protobuf/descriptor.h>
+i<google/protobuf/generated_message_reflection.h>
+i<google/protobuf/reflection_ops.h>
+i<google/protobuf/wire_format.h>
+
+N/work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/protobuf/../../src/google/protobuf/descriptor_database.cc
+c000000005400410400000000000048F0
+t1409302788
+s18672
+i<google/protobuf/descriptor_database.h>
+i<set>
+i<google/protobuf/descriptor.pb.h>
+i<google/protobuf/wire_format_lite_inl.h>
+i<google/protobuf/stubs/strutil.h>
+i<google/protobuf/stubs/stl_util.h>
+i<google/protobuf/stubs/map-util.h>
+
+N/work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/protobuf/../../src/google/protobuf/dynamic_message.cc
+c000000005400410400000000000050F2
+t1409302788
+s20722
+i<algorithm>
+i<google/protobuf/stubs/hash.h>
+i<google/protobuf/stubs/common.h>
+i<google/protobuf/dynamic_message.h>
+i<google/protobuf/descriptor.h>
+i<google/protobuf/descriptor.pb.h>
+i<google/protobuf/generated_message_util.h>
+i<google/protobuf/generated_message_reflection.h>
+i<google/protobuf/reflection_ops.h>
+i<google/protobuf/repeated_field.h>
+i<google/protobuf/extension_set.h>
+i<google/protobuf/wire_format.h>
+
+N/work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/protobuf/../../src/google/protobuf/extension_set.cc
+c0000000054004104000000000000E9E7
+t1409302788
+s59879
+i<google/protobuf/stubs/hash.h>
+i<google/protobuf/stubs/common.h>
+i<google/protobuf/stubs/once.h>
+i<google/protobuf/extension_set.h>
+i<google/protobuf/message_lite.h>
+i<google/protobuf/io/coded_stream.h>
+i<google/protobuf/io/zero_copy_stream_impl.h>
+i<google/protobuf/wire_format_lite_inl.h>
+i<google/protobuf/repeated_field.h>
+i<google/protobuf/stubs/map-util.h>
+
+N/work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/protobuf/../../src/google/protobuf/extension_set_heavy.cc
+c0000000054004104000000000000683F
+t1409302788
+s26687
+i<google/protobuf/io/zero_copy_stream_impl_lite.h>
+i<google/protobuf/descriptor.h>
+i<google/protobuf/extension_set.h>
+i<google/protobuf/message.h>
+i<google/protobuf/repeated_field.h>
+i<google/protobuf/wire_format.h>
+i<google/protobuf/wire_format_lite_inl.h>
+
+N/work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/protobuf/../../src/google/protobuf/generated_message_reflection.cc
+c0000000054004104000000000000C11A
+t1409302788
+s49434
+i<algorithm>
+i<google/protobuf/descriptor.pb.h>
+i<google/protobuf/generated_message_reflection.h>
+i<google/protobuf/descriptor.h>
+i<google/protobuf/repeated_field.h>
+i<google/protobuf/extension_set.h>
+i<google/protobuf/generated_message_util.h>
+i<google/protobuf/stubs/common.h>
+
+N/work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/protobuf/../../src/google/protobuf/generated_message_util.cc
+c00000000540041040000000000000878
+t1409302788
+s2168
+i<google/protobuf/generated_message_util.h>
+i<limits>
+
+N/work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/protobuf/../../src/google/protobuf/io/coded_stream.cc
+c00000000540041040000000000006A3C
+t1409302788
+s27196
+i<google/protobuf/io/coded_stream_inl.h>
+i<algorithm>
+i<limits.h>
+i<google/protobuf/io/zero_copy_stream.h>
+i<google/protobuf/stubs/common.h>
+i<google/protobuf/stubs/stl_util.h>
+
+N/work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/protobuf/../../src/google/protobuf/io/gzip_stream.cc
+c0000000054004104000000000000278E
+t1409302788
+s10126
+i"config.h"
+i<google/protobuf/io/gzip_stream.h>
+i<google/protobuf/stubs/common.h>
+
+N/work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/protobuf/../../src/google/protobuf/io/printer.cc
+c0000000054004104000000000000188B
+t1409302788
+s6283
+i<google/protobuf/io/printer.h>
+i<google/protobuf/io/zero_copy_stream.h>
+i<google/protobuf/stubs/common.h>
+
+N/work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/protobuf/../../src/google/protobuf/io/tokenizer.cc
+c00000000540041040000000000008D89
+t1409302788
+s36233
+i<google/protobuf/io/tokenizer.h>
+i<google/protobuf/stubs/common.h>
+i<google/protobuf/stubs/stringprintf.h>
+i<google/protobuf/io/zero_copy_stream.h>
+i<google/protobuf/stubs/strutil.h>
+i<google/protobuf/stubs/stl_util.h>
+
+N/work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/protobuf/../../src/google/protobuf/io/zero_copy_stream.cc
+c00000000540041040000000000000809
+t1409302788
+s2057
+i<google/protobuf/io/zero_copy_stream.h>
+
+N/work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/protobuf/../../src/google/protobuf/io/zero_copy_stream_impl.cc
+c000000005400410400000000000030D5
+t1409302788
+s12501
+i<io.h>
+i<unistd.h>
+i<sys/types.h>
+i<sys/stat.h>
+i<fcntl.h>
+i<errno.h>
+i<iostream>
+i<algorithm>
+i<google/protobuf/io/zero_copy_stream_impl.h>
+i<google/protobuf/stubs/common.h>
+i<google/protobuf/stubs/stl_util.h>
+
+N/work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/protobuf/../../src/google/protobuf/io/zero_copy_stream_impl_lite.cc
+c00000000540041040000000000002B22
+t1409302788
+s11042
+i<google/protobuf/io/zero_copy_stream_impl_lite.h>
+i<google/protobuf/stubs/common.h>
+i<google/protobuf/stubs/stl_util.h>
+
+N/work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/protobuf/../../src/google/protobuf/message.cc
+c00000000540041040000000000003194
+t1409302788
+s12692
+i<istream>
+i<stack>
+i<google/protobuf/stubs/hash.h>
+i<google/protobuf/message.h>
+i<google/protobuf/stubs/common.h>
+i<google/protobuf/stubs/once.h>
+i<google/protobuf/io/coded_stream.h>
+i<google/protobuf/io/zero_copy_stream_impl.h>
+i<google/protobuf/descriptor.pb.h>
+i<google/protobuf/descriptor.h>
+i<google/protobuf/generated_message_util.h>
+i<google/protobuf/reflection_ops.h>
+i<google/protobuf/wire_format.h>
+i<google/protobuf/stubs/strutil.h>
+i<google/protobuf/stubs/map-util.h>
+i<google/protobuf/stubs/stl_util.h>
+
+N/work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/protobuf/../../src/google/protobuf/message_lite.cc
+c0000000054004104000000000000327F
+t1409302788
+s12927
+i<google/protobuf/message_lite.h>
+i<string>
+i<google/protobuf/stubs/common.h>
+i<google/protobuf/io/coded_stream.h>
+i<google/protobuf/io/zero_copy_stream_impl_lite.h>
+i<google/protobuf/stubs/stl_util.h>
+
+N/work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/protobuf/../../src/google/protobuf/reflection_ops.cc
+c00000000540041040000000000002420
+t1409302788
+s9248
+i<string>
+i<vector>
+i<google/protobuf/reflection_ops.h>
+i<google/protobuf/descriptor.h>
+i<google/protobuf/descriptor.pb.h>
+i<google/protobuf/unknown_field_set.h>
+i<google/protobuf/stubs/strutil.h>
+
+N/work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/protobuf/../../src/google/protobuf/repeated_field.cc
+c00000000540041040000000000000C7E
+t1409302788
+s3198
+i<algorithm>
+i<google/protobuf/repeated_field.h>
+i<google/protobuf/stubs/common.h>
+
+N/work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/protobuf/../../src/google/protobuf/service.cc
+c000000005400410400000000000007D1
+t1409302788
+s2001
+i<google/protobuf/service.h>
+
+N/work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/protobuf/../../src/google/protobuf/stubs/atomicops_internals_x86_gcc.cc
+c00000000540041040000000000001437
+t1409302788
+s5175
+i<cstring>
+i<google/protobuf/stubs/atomicops.h>
+
+N/work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/protobuf/../../src/google/protobuf/stubs/atomicops_internals_x86_msvc.cc
+c000000005400410400000000000010C8
+t1409302788
+s4296
+i<google/protobuf/stubs/atomicops.h>
+i<windows.h>
+
+N/work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/protobuf/../../src/google/protobuf/stubs/common.cc
+c00000000540041040000000000002F26
+t1409302788
+s12070
+i<google/protobuf/stubs/common.h>
+i<google/protobuf/stubs/once.h>
+i<stdio.h>
+i<errno.h>
+i<vector>
+i"config.h"
+i<windows.h>
+i<pthread.h>
+
+N/work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/protobuf/../../src/google/protobuf/stubs/once.cc
+c00000000540041040000000000000DF8
+t1409302788
+s3576
+i<google/protobuf/stubs/once.h>
+i<windows.h>
+i<sched.h>
+i<google/protobuf/stubs/atomicops.h>
+
+N/work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/protobuf/../../src/google/protobuf/stubs/stringprintf.cc
+c00000000540041040000000000001834
+t1409302788
+s6196
+i<google/protobuf/stubs/stringprintf.h>
+i<errno.h>
+i<stdarg.h>
+i<stdio.h>
+i<vector>
+i<google/protobuf/stubs/common.h>
+i<google/protobuf/testing/googletest.h>
+
+N/work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/protobuf/../../src/google/protobuf/stubs/structurally_valid.cc
+c00000000540041040000000000005960
+t1409302788
+s22880
+i<google/protobuf/stubs/common.h>
+
+N/work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/protobuf/../../src/google/protobuf/stubs/strutil.cc
+c0000000054004104000000000000A84B
+t1409302788
+s43083
+i<google/protobuf/stubs/strutil.h>
+i<errno.h>
+i<float.h>
+i<limits>
+i<limits.h>
+i<stdio.h>
+i<iterator>
+
+N/work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/protobuf/../../src/google/protobuf/stubs/substitute.cc
+c00000000540041040000000000001343
+t1409302788
+s4931
+i<google/protobuf/stubs/substitute.h>
+i<google/protobuf/stubs/strutil.h>
+i<google/protobuf/stubs/stl_util.h>
+
+N/work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/protobuf/../../src/google/protobuf/testing/file.cc
+c00000000540041040000000000001605
+t1409302788
+s5637
+i<google/protobuf/testing/file.h>
+i<stdio.h>
+i<sys/stat.h>
+i<sys/types.h>
+i<windows.h>
+i<io.h>
+i<direct.h>
+i<dirent.h>
+i<unistd.h>
+i<errno.h>
+
+N/work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/protobuf/../../src/google/protobuf/testing/googletest.cc
+c00000000540041040000000000001C4D
+t1409302788
+s7245
+i<google/protobuf/testing/googletest.h>
+i<google/protobuf/testing/file.h>
+i<google/protobuf/stubs/strutil.h>
+i<sys/stat.h>
+i<sys/types.h>
+i<errno.h>
+i<stdlib.h>
+i<io.h>
+i<direct.h>
+i<unistd.h>
+i<stdio.h>
+i<fcntl.h>
+i<iostream>
+i<fstream>
+
+N/work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/protobuf/../../src/google/protobuf/testing/zcgunzip.cc
+c00000000540041040000000000000A69
+t1409302788
+s2665
+i"config.h"
+i<assert.h>
+i<stdio.h>
+i<stdlib.h>
+i<fcntl.h>
+i<google/protobuf/io/gzip_stream.h>
+i<google/protobuf/io/zero_copy_stream_impl.h>
+
+N/work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/protobuf/../../src/google/protobuf/testing/zcgzip.cc
+c00000000540041040000000000000AE7
+t1409302788
+s2791
+i"config.h"
+i<stdio.h>
+i<stdlib.h>
+i<fcntl.h>
+i<google/protobuf/io/gzip_stream.h>
+i<google/protobuf/io/zero_copy_stream_impl.h>
+
+N/work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/protobuf/../../src/google/protobuf/text_format.cc
+c0000000054004104000000000000C2F5
+t1409302788
+s49909
+i<float.h>
+i<math.h>
+i<stdio.h>
+i<stack>
+i<limits>
+i<vector>
+i<google/protobuf/text_format.h>
+i<google/protobuf/descriptor.h>
+i<google/protobuf/io/coded_stream.h>
+i<google/protobuf/io/zero_copy_stream.h>
+i<google/protobuf/io/zero_copy_stream_impl.h>
+i<google/protobuf/unknown_field_set.h>
+i<google/protobuf/descriptor.pb.h>
+i<google/protobuf/io/tokenizer.h>
+i<google/protobuf/stubs/strutil.h>
+i<google/protobuf/stubs/map-util.h>
+i<google/protobuf/stubs/stl_util.h>
+
+N/work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/protobuf/../../src/google/protobuf/unknown_field_set.cc
+c00000000540041040000000000001FF9
+t1409302788
+s8185
+i<google/protobuf/unknown_field_set.h>
+i<google/protobuf/stubs/common.h>
+i<google/protobuf/io/coded_stream.h>
+i<google/protobuf/io/zero_copy_stream.h>
+i<google/protobuf/io/zero_copy_stream_impl.h>
+i<google/protobuf/wire_format.h>
+i<google/protobuf/stubs/stl_util.h>
+
+N/work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/protobuf/../../src/google/protobuf/wire_format.cc
+c00000000540041040000000000009939
+t1409302788
+s39225
+i<stack>
+i<string>
+i<vector>
+i<google/protobuf/wire_format.h>
+i<google/protobuf/stubs/common.h>
+i<google/protobuf/descriptor.h>
+i<google/protobuf/wire_format_lite_inl.h>
+i<google/protobuf/descriptor.pb.h>
+i<google/protobuf/io/coded_stream.h>
+i<google/protobuf/io/zero_copy_stream.h>
+i<google/protobuf/io/zero_copy_stream_impl.h>
+i<google/protobuf/unknown_field_set.h>
+
+N/work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/protobuf/../../src/google/protobuf/wire_format_lite.cc
+c00000000540041040000000000003671
+t1409302788
+s13937
+i<google/protobuf/wire_format_lite_inl.h>
+i<stack>
+i<string>
+i<vector>
+i<google/protobuf/stubs/common.h>
+i<google/protobuf/io/coded_stream_inl.h>
+i<google/protobuf/io/zero_copy_stream.h>
+i<google/protobuf/io/zero_copy_stream_impl_lite.h>
+
+N/work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/protobuf/config.h
+c00000000540041080000000000000FF9
+t1409302792
+s4089
+
+N/work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/protobuf/protobuf-Prefix.pch
+c000000005400452B000000000000009D
+t1409303851
+s157
+i<Foundation/Foundation.h>
+
+CBuild AST from /work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/protobuf/../../src/google/protobuf/descriptor.cc
+r0
+
+CBuild AST from /work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/protobuf/../../src/google/protobuf/descriptor.pb.cc
+r0
+
+CBuild AST from /work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/protobuf/../../src/google/protobuf/descriptor_database.cc
+r0
+
+CBuild AST from /work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/protobuf/../../src/google/protobuf/dynamic_message.cc
+r0
+
+CBuild AST from /work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/protobuf/../../src/google/protobuf/extension_set.cc
+r0
+
+CBuild AST from /work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/protobuf/../../src/google/protobuf/extension_set_heavy.cc
+r0
+
+CBuild AST from /work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/protobuf/../../src/google/protobuf/generated_message_reflection.cc
+r0
+
+CBuild AST from /work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/protobuf/../../src/google/protobuf/generated_message_util.cc
+r0
+
+CBuild AST from /work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/protobuf/../../src/google/protobuf/io/coded_stream.cc
+r0
+
+CBuild AST from /work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/protobuf/../../src/google/protobuf/io/gzip_stream.cc
+r0
+
+CBuild AST from /work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/protobuf/../../src/google/protobuf/io/printer.cc
+r0
+
+CBuild AST from /work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/protobuf/../../src/google/protobuf/io/tokenizer.cc
+r0
+
+CBuild AST from /work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/protobuf/../../src/google/protobuf/io/zero_copy_stream.cc
+r0
+
+CBuild AST from /work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/protobuf/../../src/google/protobuf/io/zero_copy_stream_impl.cc
+r0
+
+CBuild AST from /work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/protobuf/../../src/google/protobuf/io/zero_copy_stream_impl_lite.cc
+r0
+
+CBuild AST from /work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/protobuf/../../src/google/protobuf/message.cc
+r0
+
+CBuild AST from /work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/protobuf/../../src/google/protobuf/message_lite.cc
+r0
+
+CBuild AST from /work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/protobuf/../../src/google/protobuf/reflection_ops.cc
+r0
+
+CBuild AST from /work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/protobuf/../../src/google/protobuf/repeated_field.cc
+r0
+
+CBuild AST from /work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/protobuf/../../src/google/protobuf/service.cc
+r0
+
+CBuild AST from /work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/protobuf/../../src/google/protobuf/stubs/atomicops_internals_x86_gcc.cc
+r0
+
+CBuild AST from /work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/protobuf/../../src/google/protobuf/stubs/atomicops_internals_x86_msvc.cc
+r0
+
+CBuild AST from /work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/protobuf/../../src/google/protobuf/stubs/common.cc
+r0
+
+CBuild AST from /work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/protobuf/../../src/google/protobuf/stubs/once.cc
+r0
+
+CBuild AST from /work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/protobuf/../../src/google/protobuf/stubs/stringprintf.cc
+r0
+
+CBuild AST from /work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/protobuf/../../src/google/protobuf/stubs/structurally_valid.cc
+r0
+
+CBuild AST from /work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/protobuf/../../src/google/protobuf/stubs/strutil.cc
+r0
+
+CBuild AST from /work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/protobuf/../../src/google/protobuf/stubs/substitute.cc
+r0
+
+CBuild AST from /work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/protobuf/../../src/google/protobuf/testing/file.cc
+r0
+
+CBuild AST from /work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/protobuf/../../src/google/protobuf/testing/googletest.cc
+r0
+
+CBuild AST from /work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/protobuf/../../src/google/protobuf/testing/zcgunzip.cc
+r0
+
+CBuild AST from /work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/protobuf/../../src/google/protobuf/testing/zcgzip.cc
+r0
+
+CBuild AST from /work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/protobuf/../../src/google/protobuf/text_format.cc
+r0
+
+CBuild AST from /work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/protobuf/../../src/google/protobuf/unknown_field_set.cc
+r0
+
+CBuild AST from /work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/protobuf/../../src/google/protobuf/wire_format.cc
+r0
+
+CBuild AST from /work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/protobuf/../../src/google/protobuf/wire_format_lite.cc
+r0
+
+CCheck dependencies
+r0
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies5c20edac01d9b941^98daeeac01d9b941^---0#1#0#--18"Check dependencies36"2539123B-42C9-4A46-98F2-3BEE37141FF8-
+
+CCompileC Build/Intermediates/protobuf.build/Release-iphoneos/protobuf.build/Objects-normal/armv7/atomicops_internals_x86_gcc.o /work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/protobuf/../../src/google/protobuf/stubs/atomicops_internals_x86_gcc.cc normal armv7 c++ com.apple.compilers.llvmgcc42
+s433652126.116579
+e433652126.425081
+r1
+xCompileC
+xBuild/Intermediates/protobuf.build/Release-iphoneos/protobuf.build/Objects-normal/armv7/atomicops_internals_x86_gcc.o
+x/work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/protobuf/../../src/google/protobuf/stubs/atomicops_internals_x86_gcc.cc
+xnormal
+xarmv7
+xc++
+xcom.apple.compilers.llvmgcc42
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection153"Compile /work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/protobuf/../../src/google/protobuf/stubs/atomicops_internals_x86_gcc.cc55fa1d9e01d9b941^31d16c9e01d9b941^---0#0#0#-19%DVTDocumentLocation2@161"file://localhost/work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/protobuf/../../src/google/protobuf/stubs/atomicops_internals_x86_gcc.cc0000000000000000^2745"CompileC Build/Intermediates/protobuf.build/Release-iphoneos/protobuf.build/Objects-normal/armv7/atomicops_internals_x86_gcc.o protobuf/../../src/google/protobuf/stubs/atomicops_internals_x86_gcc.cc normal armv7 c++ com.apple.compilers.llvmgcc42    cd /work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode 2.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/llvm-gcc-4.2" -x c++ -arch armv7 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -Os -Wreturn-type -Wunused-variable -Wuninitialized -isysroot "/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk" -gdwarf-2 -mthumb -miphoneos-version-min=6.1 -iquote /work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/Build/Intermediates/protobuf.build/Release-iphoneos/protobuf.build/protobuf-generated-files.hmap -I/work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/Build/Intermediates/protobuf.build/Release-iphoneos/protobuf.build/protobuf-own-target-headers.hmap -I/work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/Build/Intermediates/protobuf.build/Release-iphoneos/protobuf.build/protobuf-all-target-headers.hmap -iquote /work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/Build/Intermediates/protobuf.build/Release-iphoneos/protobuf.build/protobuf-project-headers.hmap -I/work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/Build/Products/Release-iphoneos/include -I../src -I/work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/Build/Intermediates/protobuf.build/Release-iphoneos/protobuf.build/DerivedSources/armv7 -I/work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/Build/Intermediates/protobuf.build/Release-iphoneos/protobuf.build/DerivedSources -F/work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/Build/Products/Release-iphoneos -include /work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/Build/Intermediates/PrecompiledHeaders/protobuf-Prefix-exmulbtaaofjkogbmxpmewibtqnm/protobuf-Prefix.pch -c /work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/protobuf/../../src/google/protobuf/stubs/atomicops_internals_x86_gcc.cc -o /work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/Build/Intermediates/protobuf.build/Release-iphoneos/protobuf.build/Objects-normal/armv7/atomicops_internals_x86_gcc.o36"3832E578-1613-4960-81F2-6151FA99B798-
+
+CCompileC Build/Intermediates/protobuf.build/Release-iphoneos/protobuf.build/Objects-normal/armv7/atomicops_internals_x86_msvc.o /work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/protobuf/../../src/google/protobuf/stubs/atomicops_internals_x86_msvc.cc normal armv7 c++ com.apple.compilers.llvmgcc42
+s433652126.204449
+e433652126.492356
+r1
+xCompileC
+xBuild/Intermediates/protobuf.build/Release-iphoneos/protobuf.build/Objects-normal/armv7/atomicops_internals_x86_msvc.o
+x/work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/protobuf/../../src/google/protobuf/stubs/atomicops_internals_x86_msvc.cc
+xnormal
+xarmv7
+xc++
+xcom.apple.compilers.llvmgcc42
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection154"Compile /work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/protobuf/../../src/google/protobuf/stubs/atomicops_internals_x86_msvc.cc4a7a349e01d9b941^0f0a7e9e01d9b941^---0#0#0#-19%DVTDocumentLocation2@162"file://localhost/work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/protobuf/../../src/google/protobuf/stubs/atomicops_internals_x86_msvc.cc0000000000000000^2749"CompileC Build/Intermediates/protobuf.build/Release-iphoneos/protobuf.build/Objects-normal/armv7/atomicops_internals_x86_msvc.o protobuf/../../src/google/protobuf/stubs/atomicops_internals_x86_msvc.cc normal armv7 c++ com.apple.compilers.llvmgcc42    cd /work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode 2.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/llvm-gcc-4.2" -x c++ -arch armv7 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -Os -Wreturn-type -Wunused-variable -Wuninitialized -isysroot "/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk" -gdwarf-2 -mthumb -miphoneos-version-min=6.1 -iquote /work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/Build/Intermediates/protobuf.build/Release-iphoneos/protobuf.build/protobuf-generated-files.hmap -I/work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/Build/Intermediates/protobuf.build/Release-iphoneos/protobuf.build/protobuf-own-target-headers.hmap -I/work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/Build/Intermediates/protobuf.build/Release-iphoneos/protobuf.build/protobuf-all-target-headers.hmap -iquote /work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/Build/Intermediates/protobuf.build/Release-iphoneos/protobuf.build/protobuf-project-headers.hmap -I/work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/Build/Products/Release-iphoneos/include -I../src -I/work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/Build/Intermediates/protobuf.build/Release-iphoneos/protobuf.build/DerivedSources/armv7 -I/work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/Build/Intermediates/protobuf.build/Release-iphoneos/protobuf.build/DerivedSources -F/work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/Build/Products/Release-iphoneos -include /work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/Build/Intermediates/PrecompiledHeaders/protobuf-Prefix-exmulbtaaofjkogbmxpmewibtqnm/protobuf-Prefix.pch -c /work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/protobuf/../../src/google/protobuf/stubs/atomicops_internals_x86_msvc.cc -o /work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/Build/Intermediates/protobuf.build/Release-iphoneos/protobuf.build/Objects-normal/armv7/atomicops_internals_x86_msvc.o36"B2FEB65B-9010-4A34-B13D-4295E10C4C5D-
+
+CCompileC Build/Intermediates/protobuf.build/Release-iphoneos/protobuf.build/Objects-normal/armv7/coded_stream.o /work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/protobuf/../../src/google/protobuf/io/coded_stream.cc normal armv7 c++ com.apple.compilers.llvmgcc42
+s433652122.303143
+e433652122.908946
+r1
+xCompileC
+xBuild/Intermediates/protobuf.build/Release-iphoneos/protobuf.build/Objects-normal/armv7/coded_stream.o
+x/work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/protobuf/../../src/google/protobuf/io/coded_stream.cc
+xnormal
+xarmv7
+xc++
+xcom.apple.compilers.llvmgcc42
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection135"Compile /work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/protobuf/../../src/google/protobuf/io/coded_stream.ccd7bd4d9a01d9b941^d5afe89a01d9b941^---0#0#0#-19%DVTDocumentLocation2@143"file://localhost/work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/protobuf/../../src/google/protobuf/io/coded_stream.cc0000000000000000^2679"CompileC Build/Intermediates/protobuf.build/Release-iphoneos/protobuf.build/Objects-normal/armv7/coded_stream.o protobuf/../../src/google/protobuf/io/coded_stream.cc normal armv7 c++ com.apple.compilers.llvmgcc42    cd /work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode 2.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/llvm-gcc-4.2" -x c++ -arch armv7 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -Os -Wreturn-type -Wunused-variable -Wuninitialized -isysroot "/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk" -gdwarf-2 -mthumb -miphoneos-version-min=6.1 -iquote /work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/Build/Intermediates/protobuf.build/Release-iphoneos/protobuf.build/protobuf-generated-files.hmap -I/work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/Build/Intermediates/protobuf.build/Release-iphoneos/protobuf.build/protobuf-own-target-headers.hmap -I/work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/Build/Intermediates/protobuf.build/Release-iphoneos/protobuf.build/protobuf-all-target-headers.hmap -iquote /work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/Build/Intermediates/protobuf.build/Release-iphoneos/protobuf.build/protobuf-project-headers.hmap -I/work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/Build/Products/Release-iphoneos/include -I../src -I/work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/Build/Intermediates/protobuf.build/Release-iphoneos/protobuf.build/DerivedSources/armv7 -I/work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/Build/Intermediates/protobuf.build/Release-iphoneos/protobuf.build/DerivedSources -F/work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/Build/Products/Release-iphoneos -include /work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/Build/Intermediates/PrecompiledHeaders/protobuf-Prefix-exmulbtaaofjkogbmxpmewibtqnm/protobuf-Prefix.pch -c /work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/protobuf/../../src/google/protobuf/io/coded_stream.cc -o /work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/Build/Intermediates/protobuf.build/Release-iphoneos/protobuf.build/Objects-normal/armv7/coded_stream.o36"1596C8DC-2A8D-4B31-A76F-171E07D8B94B-
+
+CCompileC Build/Intermediates/protobuf.build/Release-iphoneos/protobuf.build/Objects-normal/armv7/common.o /work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/protobuf/../../src/google/protobuf/stubs/common.cc normal armv7 c++ com.apple.compilers.llvmgcc42
+s433652126.426456
+e433652127.112201
+r1
+xCompileC
+xBuild/Intermediates/protobuf.build/Release-iphoneos/protobuf.build/Objects-normal/armv7/common.o
+x/work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/protobuf/../../src/google/protobuf/stubs/common.cc
+xnormal
+xarmv7
+xc++
+xcom.apple.compilers.llvmgcc42
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection132"Compile /work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/protobuf/../../src/google/protobuf/stubs/common.ccf44e6d9e01d9b941^6bb81c9f01d9b941^---0#0#0#-19%DVTDocumentLocation2@140"file://localhost/work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/protobuf/../../src/google/protobuf/stubs/common.cc0000000000000000^2661"CompileC Build/Intermediates/protobuf.build/Release-iphoneos/protobuf.build/Objects-normal/armv7/common.o protobuf/../../src/google/protobuf/stubs/common.cc normal armv7 c++ com.apple.compilers.llvmgcc42    cd /work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode 2.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/llvm-gcc-4.2" -x c++ -arch armv7 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -Os -Wreturn-type -Wunused-variable -Wuninitialized -isysroot "/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk" -gdwarf-2 -mthumb -miphoneos-version-min=6.1 -iquote /work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/Build/Intermediates/protobuf.build/Release-iphoneos/protobuf.build/protobuf-generated-files.hmap -I/work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/Build/Intermediates/protobuf.build/Release-iphoneos/protobuf.build/protobuf-own-target-headers.hmap -I/work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/Build/Intermediates/protobuf.build/Release-iphoneos/protobuf.build/protobuf-all-target-headers.hmap -iquote /work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/Build/Intermediates/protobuf.build/Release-iphoneos/protobuf.build/protobuf-project-headers.hmap -I/work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/Build/Products/Release-iphoneos/include -I../src -I/work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/Build/Intermediates/protobuf.build/Release-iphoneos/protobuf.build/DerivedSources/armv7 -I/work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/Build/Intermediates/protobuf.build/Release-iphoneos/protobuf.build/DerivedSources -F/work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/Build/Products/Release-iphoneos -include /work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/Build/Intermediates/PrecompiledHeaders/protobuf-Prefix-exmulbtaaofjkogbmxpmewibtqnm/protobuf-Prefix.pch -c /work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/protobuf/../../src/google/protobuf/stubs/common.cc -o /work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/Build/Intermediates/protobuf.build/Release-iphoneos/protobuf.build/Objects-normal/armv7/common.o36"4BD8655E-4661-43A9-AC5A-901D3FD9483C-
+
+CCompileC Build/Intermediates/protobuf.build/Release-iphoneos/protobuf.build/Objects-normal/armv7/descriptor.o /work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/protobuf/../../src/google/protobuf/descriptor.cc normal armv7 c++ com.apple.compilers.llvmgcc42
+s433652115.657260
+e433652125.884686
+r1
+xCompileC
+xBuild/Intermediates/protobuf.build/Release-iphoneos/protobuf.build/Objects-normal/armv7/descriptor.o
+x/work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/protobuf/../../src/google/protobuf/descriptor.cc
+xnormal
+xarmv7
+xc++
+xcom.apple.compilers.llvmgcc42
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection130"Compile /work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/protobuf/../../src/google/protobuf/descriptor.cc6daba99301d9b941^8979e29d01d9b941^---0#0#0#-19%DVTDocumentLocation2@138"file://localhost/work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/protobuf/../../src/google/protobuf/descriptor.cc0000000000000000^2665"CompileC Build/Intermediates/protobuf.build/Release-iphoneos/protobuf.build/Objects-normal/armv7/descriptor.o protobuf/../../src/google/protobuf/descriptor.cc normal armv7 c++ com.apple.compilers.llvmgcc42    cd /work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode 2.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/llvm-gcc-4.2" -x c++ -arch armv7 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -Os -Wreturn-type -Wunused-variable -Wuninitialized -isysroot "/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk" -gdwarf-2 -mthumb -miphoneos-version-min=6.1 -iquote /work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/Build/Intermediates/protobuf.build/Release-iphoneos/protobuf.build/protobuf-generated-files.hmap -I/work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/Build/Intermediates/protobuf.build/Release-iphoneos/protobuf.build/protobuf-own-target-headers.hmap -I/work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/Build/Intermediates/protobuf.build/Release-iphoneos/protobuf.build/protobuf-all-target-headers.hmap -iquote /work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/Build/Intermediates/protobuf.build/Release-iphoneos/protobuf.build/protobuf-project-headers.hmap -I/work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/Build/Products/Release-iphoneos/include -I../src -I/work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/Build/Intermediates/protobuf.build/Release-iphoneos/protobuf.build/DerivedSources/armv7 -I/work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/Build/Intermediates/protobuf.build/Release-iphoneos/protobuf.build/DerivedSources -F/work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/Build/Products/Release-iphoneos -include /work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/Build/Intermediates/PrecompiledHeaders/protobuf-Prefix-exmulbtaaofjkogbmxpmewibtqnm/protobuf-Prefix.pch -c /work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/protobuf/../../src/google/protobuf/descriptor.cc -o /work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/Build/Intermediates/protobuf.build/Release-iphoneos/protobuf.build/Objects-normal/armv7/descriptor.o36"AA9C9F6B-6E80-4233-BA37-B961E5A3E23C-
+
+CCompileC Build/Intermediates/protobuf.build/Release-iphoneos/protobuf.build/Objects-normal/armv7/descriptor.pb.o /work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/protobuf/../../src/google/protobuf/descriptor.pb.cc normal armv7 c++ com.apple.compilers.llvmgcc42
+s433652115.660376
+e433652123.267700
+r1
+xCompileC
+xBuild/Intermediates/protobuf.build/Release-iphoneos/protobuf.build/Objects-normal/armv7/descriptor.pb.o
+x/work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/protobuf/../../src/google/protobuf/descriptor.pb.cc
+xnormal
+xarmv7
+xc++
+xcom.apple.compilers.llvmgcc42
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection133"Compile /work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/protobuf/../../src/google/protobuf/descriptor.pb.cc2c4aa99301d9b941^4487449b01d9b941^---0#0#0#-19%DVTDocumentLocation2@141"file://localhost/work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/protobuf/../../src/google/protobuf/descriptor.pb.cc0000000000000000^2677"CompileC Build/Intermediates/protobuf.build/Release-iphoneos/protobuf.build/Objects-normal/armv7/descriptor.pb.o protobuf/../../src/google/protobuf/descriptor.pb.cc normal armv7 c++ com.apple.compilers.llvmgcc42    cd /work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode 2.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/llvm-gcc-4.2" -x c++ -arch armv7 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -Os -Wreturn-type -Wunused-variable -Wuninitialized -isysroot "/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk" -gdwarf-2 -mthumb -miphoneos-version-min=6.1 -iquote /work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/Build/Intermediates/protobuf.build/Release-iphoneos/protobuf.build/protobuf-generated-files.hmap -I/work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/Build/Intermediates/protobuf.build/Release-iphoneos/protobuf.build/protobuf-own-target-headers.hmap -I/work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/Build/Intermediates/protobuf.build/Release-iphoneos/protobuf.build/protobuf-all-target-headers.hmap -iquote /work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/Build/Intermediates/protobuf.build/Release-iphoneos/protobuf.build/protobuf-project-headers.hmap -I/work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/Build/Products/Release-iphoneos/include -I../src -I/work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/Build/Intermediates/protobuf.build/Release-iphoneos/protobuf.build/DerivedSources/armv7 -I/work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/Build/Intermediates/protobuf.build/Release-iphoneos/protobuf.build/DerivedSources -F/work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/Build/Products/Release-iphoneos -include /work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/Build/Intermediates/PrecompiledHeaders/protobuf-Prefix-exmulbtaaofjkogbmxpmewibtqnm/protobuf-Prefix.pch -c /work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/protobuf/../../src/google/protobuf/descriptor.pb.cc -o /work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/Build/Intermediates/protobuf.build/Release-iphoneos/protobuf.build/Objects-normal/armv7/descriptor.pb.o36"4A4B0C14-ECC1-410D-A06B-5DE0E6FFA08E-
+
+CCompileC Build/Intermediates/protobuf.build/Release-iphoneos/protobuf.build/Objects-normal/armv7/descriptor_database.o /work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/protobuf/../../src/google/protobuf/descriptor_database.cc normal armv7 c++ com.apple.compilers.llvmgcc42
+s433652115.661118
+e433652119.497981
+r1
+xCompileC
+xBuild/Intermediates/protobuf.build/Release-iphoneos/protobuf.build/Objects-normal/armv7/descriptor_database.o
+x/work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/protobuf/../../src/google/protobuf/descriptor_database.cc
+xnormal
+xarmv7
+xc++
+xcom.apple.compilers.llvmgcc42
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection139"Compile /work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/protobuf/../../src/google/protobuf/descriptor_database.cc7899a99301d9b941^e57a7f9701d9b941^---0#0#0#-19%DVTDocumentLocation2@147"file://localhost/work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/protobuf/../../src/google/protobuf/descriptor_database.cc0000000000000000^2701"CompileC Build/Intermediates/protobuf.build/Release-iphoneos/protobuf.build/Objects-normal/armv7/descriptor_database.o protobuf/../../src/google/protobuf/descriptor_database.cc normal armv7 c++ com.apple.compilers.llvmgcc42    cd /work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode 2.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/llvm-gcc-4.2" -x c++ -arch armv7 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -Os -Wreturn-type -Wunused-variable -Wuninitialized -isysroot "/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk" -gdwarf-2 -mthumb -miphoneos-version-min=6.1 -iquote /work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/Build/Intermediates/protobuf.build/Release-iphoneos/protobuf.build/protobuf-generated-files.hmap -I/work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/Build/Intermediates/protobuf.build/Release-iphoneos/protobuf.build/protobuf-own-target-headers.hmap -I/work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/Build/Intermediates/protobuf.build/Release-iphoneos/protobuf.build/protobuf-all-target-headers.hmap -iquote /work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/Build/Intermediates/protobuf.build/Release-iphoneos/protobuf.build/protobuf-project-headers.hmap -I/work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/Build/Products/Release-iphoneos/include -I../src -I/work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/Build/Intermediates/protobuf.build/Release-iphoneos/protobuf.build/DerivedSources/armv7 -I/work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/Build/Intermediates/protobuf.build/Release-iphoneos/protobuf.build/DerivedSources -F/work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/Build/Products/Release-iphoneos -include /work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/Build/Intermediates/PrecompiledHeaders/protobuf-Prefix-exmulbtaaofjkogbmxpmewibtqnm/protobuf-Prefix.pch -c /work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/protobuf/../../src/google/protobuf/descriptor_database.cc -o /work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/Build/Intermediates/protobuf.build/Release-iphoneos/protobuf.build/Objects-normal/armv7/descriptor_database.o36"F319D827-F7C7-4270-9672-09572EF72BA0-
+
+CCompileC Build/Intermediates/protobuf.build/Release-iphoneos/protobuf.build/Objects-normal/armv7/dynamic_message.o /work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/protobuf/../../src/google/protobuf/dynamic_message.cc normal armv7 c++ com.apple.compilers.llvmgcc42
+s433652115.671443
+e433652117.879481
+r1
+xCompileC
+xBuild/Intermediates/protobuf.build/Release-iphoneos/protobuf.build/Objects-normal/armv7/dynamic_message.o
+x/work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/protobuf/../../src/google/protobuf/dynamic_message.cc
+xnormal
+xarmv7
+xc++
+xcom.apple.compilers.llvmgcc42
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection135"Compile /work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/protobuf/../../src/google/protobuf/dynamic_message.cca708ac9301d9b941^3525e19501d9b941^---0#0#0#-19%DVTDocumentLocation2@143"file://localhost/work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/protobuf/../../src/google/protobuf/dynamic_message.cc0000000000000000^2685"CompileC Build/Intermediates/protobuf.build/Release-iphoneos/protobuf.build/Objects-normal/armv7/dynamic_message.o protobuf/../../src/google/protobuf/dynamic_message.cc normal armv7 c++ com.apple.compilers.llvmgcc42    cd /work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode 2.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/llvm-gcc-4.2" -x c++ -arch armv7 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -Os -Wreturn-type -Wunused-variable -Wuninitialized -isysroot "/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk" -gdwarf-2 -mthumb -miphoneos-version-min=6.1 -iquote /work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/Build/Intermediates/protobuf.build/Release-iphoneos/protobuf.build/protobuf-generated-files.hmap -I/work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/Build/Intermediates/protobuf.build/Release-iphoneos/protobuf.build/protobuf-own-target-headers.hmap -I/work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/Build/Intermediates/protobuf.build/Release-iphoneos/protobuf.build/protobuf-all-target-headers.hmap -iquote /work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/Build/Intermediates/protobuf.build/Release-iphoneos/protobuf.build/protobuf-project-headers.hmap -I/work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/Build/Products/Release-iphoneos/include -I../src -I/work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/Build/Intermediates/protobuf.build/Release-iphoneos/protobuf.build/DerivedSources/armv7 -I/work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/Build/Intermediates/protobuf.build/Release-iphoneos/protobuf.build/DerivedSources -F/work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/Build/Products/Release-iphoneos -include /work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/Build/Intermediates/PrecompiledHeaders/protobuf-Prefix-exmulbtaaofjkogbmxpmewibtqnm/protobuf-Prefix.pch -c /work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/protobuf/../../src/google/protobuf/dynamic_message.cc -o /work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/Build/Intermediates/protobuf.build/Release-iphoneos/protobuf.build/Objects-normal/armv7/dynamic_message.o36"472692CA-9B65-4D4A-8F8B-65A32182EE88-
+
+CCompileC Build/Intermediates/protobuf.build/Release-iphoneos/protobuf.build/Objects-normal/armv7/extension_set.o /work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/protobuf/../../src/google/protobuf/extension_set.cc normal armv7 c++ com.apple.compilers.llvmgcc42
+s433652117.880895
+e433652121.990139
+r1
+xCompileC
+xBuild/Intermediates/protobuf.build/Release-iphoneos/protobuf.build/Objects-normal/armv7/extension_set.o
+x/work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/protobuf/../../src/google/protobuf/extension_set.cc
+xnormal
+xarmv7
+xc++
+xcom.apple.compilers.llvmgcc42
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection133"Compile /work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/protobuf/../../src/google/protobuf/extension_set.cc71aae19501d9b941^f67cfd9901d9b941^---0#0#0#-19%DVTDocumentLocation2@141"file://localhost/work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/protobuf/../../src/google/protobuf/extension_set.cc0000000000000000^2677"CompileC Build/Intermediates/protobuf.build/Release-iphoneos/protobuf.build/Objects-normal/armv7/extension_set.o protobuf/../../src/google/protobuf/extension_set.cc normal armv7 c++ com.apple.compilers.llvmgcc42    cd /work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode 2.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/llvm-gcc-4.2" -x c++ -arch armv7 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -Os -Wreturn-type -Wunused-variable -Wuninitialized -isysroot "/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk" -gdwarf-2 -mthumb -miphoneos-version-min=6.1 -iquote /work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/Build/Intermediates/protobuf.build/Release-iphoneos/protobuf.build/protobuf-generated-files.hmap -I/work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/Build/Intermediates/protobuf.build/Release-iphoneos/protobuf.build/protobuf-own-target-headers.hmap -I/work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/Build/Intermediates/protobuf.build/Release-iphoneos/protobuf.build/protobuf-all-target-headers.hmap -iquote /work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/Build/Intermediates/protobuf.build/Release-iphoneos/protobuf.build/protobuf-project-headers.hmap -I/work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/Build/Products/Release-iphoneos/include -I../src -I/work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/Build/Intermediates/protobuf.build/Release-iphoneos/protobuf.build/DerivedSources/armv7 -I/work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/Build/Intermediates/protobuf.build/Release-iphoneos/protobuf.build/DerivedSources -F/work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/Build/Products/Release-iphoneos -include /work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/Build/Intermediates/PrecompiledHeaders/protobuf-Prefix-exmulbtaaofjkogbmxpmewibtqnm/protobuf-Prefix.pch -c /work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/protobuf/../../src/google/protobuf/extension_set.cc -o /work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/Build/Intermediates/protobuf.build/Release-iphoneos/protobuf.build/Objects-normal/armv7/extension_set.o36"DCE83824-2038-4920-9508-AD86D0E74340-
+
+CCompileC Build/Intermediates/protobuf.build/Release-iphoneos/protobuf.build/Objects-normal/armv7/extension_set_heavy.o /work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/protobuf/../../src/google/protobuf/extension_set_heavy.cc normal armv7 c++ com.apple.compilers.llvmgcc42
+s433652119.499452
+e433652121.666742
+r1
+xCompileC
+xBuild/Intermediates/protobuf.build/Release-iphoneos/protobuf.build/Objects-normal/armv7/extension_set_heavy.o
+x/work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/protobuf/../../src/google/protobuf/extension_set_heavy.cc
+xnormal
+xarmv7
+xc++
+xcom.apple.compilers.llvmgcc42
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection139"Compile /work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/protobuf/../../src/google/protobuf/extension_set_heavy.cce3fe7f9701d9b941^e2aeaa9901d9b941^---0#0#0#-19%DVTDocumentLocation2@147"file://localhost/work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/protobuf/../../src/google/protobuf/extension_set_heavy.cc0000000000000000^2701"CompileC Build/Intermediates/protobuf.build/Release-iphoneos/protobuf.build/Objects-normal/armv7/extension_set_heavy.o protobuf/../../src/google/protobuf/extension_set_heavy.cc normal armv7 c++ com.apple.compilers.llvmgcc42    cd /work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode 2.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/llvm-gcc-4.2" -x c++ -arch armv7 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -Os -Wreturn-type -Wunused-variable -Wuninitialized -isysroot "/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk" -gdwarf-2 -mthumb -miphoneos-version-min=6.1 -iquote /work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/Build/Intermediates/protobuf.build/Release-iphoneos/protobuf.build/protobuf-generated-files.hmap -I/work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/Build/Intermediates/protobuf.build/Release-iphoneos/protobuf.build/protobuf-own-target-headers.hmap -I/work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/Build/Intermediates/protobuf.build/Release-iphoneos/protobuf.build/protobuf-all-target-headers.hmap -iquote /work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/Build/Intermediates/protobuf.build/Release-iphoneos/protobuf.build/protobuf-project-headers.hmap -I/work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/Build/Products/Release-iphoneos/include -I../src -I/work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/Build/Intermediates/protobuf.build/Release-iphoneos/protobuf.build/DerivedSources/armv7 -I/work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/Build/Intermediates/protobuf.build/Release-iphoneos/protobuf.build/DerivedSources -F/work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/Build/Products/Release-iphoneos -include /work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/Build/Intermediates/PrecompiledHeaders/protobuf-Prefix-exmulbtaaofjkogbmxpmewibtqnm/protobuf-Prefix.pch -c /work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/protobuf/../../src/google/protobuf/extension_set_heavy.cc -o /work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/Build/Intermediates/protobuf.build/Release-iphoneos/protobuf.build/Objects-normal/armv7/extension_set_heavy.o36"CE4D1E2B-F3A7-43F3-99CF-52A6803C02D2-
+
+CCompileC Build/Intermediates/protobuf.build/Release-iphoneos/protobuf.build/Objects-normal/armv7/file.o /work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/protobuf/../../src/google/protobuf/testing/file.cc normal armv7 c++ com.apple.compilers.llvmgcc42
+s433652127.131896
+e433652127.531485
+r1
+xCompileC
+xBuild/Intermediates/protobuf.build/Release-iphoneos/protobuf.build/Objects-normal/armv7/file.o
+x/work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/protobuf/../../src/google/protobuf/testing/file.cc
+xnormal
+xarmv7
+xc++
+xcom.apple.compilers.llvmgcc42
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection132"Compile /work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/protobuf/../../src/google/protobuf/testing/file.cc53e7219f01d9b941^7c0e889f01d9b941^---0#0#0#-19%DVTDocumentLocation2@140"file://localhost/work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/protobuf/../../src/google/protobuf/testing/file.cc0000000000000000^2657"CompileC Build/Intermediates/protobuf.build/Release-iphoneos/protobuf.build/Objects-normal/armv7/file.o protobuf/../../src/google/protobuf/testing/file.cc normal armv7 c++ com.apple.compilers.llvmgcc42    cd /work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode 2.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/llvm-gcc-4.2" -x c++ -arch armv7 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -Os -Wreturn-type -Wunused-variable -Wuninitialized -isysroot "/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk" -gdwarf-2 -mthumb -miphoneos-version-min=6.1 -iquote /work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/Build/Intermediates/protobuf.build/Release-iphoneos/protobuf.build/protobuf-generated-files.hmap -I/work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/Build/Intermediates/protobuf.build/Release-iphoneos/protobuf.build/protobuf-own-target-headers.hmap -I/work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/Build/Intermediates/protobuf.build/Release-iphoneos/protobuf.build/protobuf-all-target-headers.hmap -iquote /work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/Build/Intermediates/protobuf.build/Release-iphoneos/protobuf.build/protobuf-project-headers.hmap -I/work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/Build/Products/Release-iphoneos/include -I../src -I/work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/Build/Intermediates/protobuf.build/Release-iphoneos/protobuf.build/DerivedSources/armv7 -I/work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/Build/Intermediates/protobuf.build/Release-iphoneos/protobuf.build/DerivedSources -F/work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/Build/Products/Release-iphoneos -include /work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/Build/Intermediates/PrecompiledHeaders/protobuf-Prefix-exmulbtaaofjkogbmxpmewibtqnm/protobuf-Prefix.pch -c /work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/protobuf/../../src/google/protobuf/testing/file.cc -o /work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/Build/Intermediates/protobuf.build/Release-iphoneos/protobuf.build/Objects-normal/armv7/file.o36"BF3329CB-F7E3-4F9C-824D-BB5152136296-
+
+CCompileC Build/Intermediates/protobuf.build/Release-iphoneos/protobuf.build/Objects-normal/armv7/generated_message_reflection.o /work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/protobuf/../../src/google/protobuf/generated_message_reflection.cc normal armv7 c++ com.apple.compilers.llvmgcc42
+s433652121.668151
+e433652124.704871
+r1
+xCompileC
+xBuild/Intermediates/protobuf.build/Release-iphoneos/protobuf.build/Objects-normal/armv7/generated_message_reflection.o
+x/work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/protobuf/../../src/google/protobuf/generated_message_reflection.cc
+xnormal
+xarmv7
+xc++
+xcom.apple.compilers.llvmgcc42
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection148"Compile /work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/protobuf/../../src/google/protobuf/generated_message_reflection.cc4d2dab9901d9b941^7171b49c01d9b941^---0#0#0#-19%DVTDocumentLocation2@156"file://localhost/work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/protobuf/../../src/google/protobuf/generated_message_reflection.cc0000000000000000^2737"CompileC Build/Intermediates/protobuf.build/Release-iphoneos/protobuf.build/Objects-normal/armv7/generated_message_reflection.o protobuf/../../src/google/protobuf/generated_message_reflection.cc normal armv7 c++ com.apple.compilers.llvmgcc42    cd /work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode 2.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/llvm-gcc-4.2" -x c++ -arch armv7 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -Os -Wreturn-type -Wunused-variable -Wuninitialized -isysroot "/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk" -gdwarf-2 -mthumb -miphoneos-version-min=6.1 -iquote /work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/Build/Intermediates/protobuf.build/Release-iphoneos/protobuf.build/protobuf-generated-files.hmap -I/work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/Build/Intermediates/protobuf.build/Release-iphoneos/protobuf.build/protobuf-own-target-headers.hmap -I/work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/Build/Intermediates/protobuf.build/Release-iphoneos/protobuf.build/protobuf-all-target-headers.hmap -iquote /work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/Build/Intermediates/protobuf.build/Release-iphoneos/protobuf.build/protobuf-project-headers.hmap -I/work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/Build/Products/Release-iphoneos/include -I../src -I/work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/Build/Intermediates/protobuf.build/Release-iphoneos/protobuf.build/DerivedSources/armv7 -I/work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/Build/Intermediates/protobuf.build/Release-iphoneos/protobuf.build/DerivedSources -F/work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/Build/Products/Release-iphoneos -include /work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/Build/Intermediates/PrecompiledHeaders/protobuf-Prefix-exmulbtaaofjkogbmxpmewibtqnm/protobuf-Prefix.pch -c /work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/protobuf/../../src/google/protobuf/generated_message_reflection.cc -o /work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/Build/Intermediates/protobuf.build/Release-iphoneos/protobuf.build/Objects-normal/armv7/generated_message_reflection.o36"41D0A302-7CAB-4196-A458-C8A38118B068-
+
+CCompileC Build/Intermediates/protobuf.build/Release-iphoneos/protobuf.build/Objects-normal/armv7/generated_message_util.o /work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/protobuf/../../src/google/protobuf/generated_message_util.cc normal armv7 c++ com.apple.compilers.llvmgcc42
+s433652121.991524
+e433652122.301759
+r1
+xCompileC
+xBuild/Intermediates/protobuf.build/Release-iphoneos/protobuf.build/Objects-normal/armv7/generated_message_util.o
+x/work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/protobuf/../../src/google/protobuf/generated_message_util.cc
+xnormal
+xarmv7
+xc++
+xcom.apple.compilers.llvmgcc42
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection142"Compile /work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/protobuf/../../src/google/protobuf/generated_message_util.cca5f7fd9901d9b941^4b3f4d9a01d9b941^---0#0#0#-19%DVTDocumentLocation2@150"file://localhost/work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/protobuf/../../src/google/protobuf/generated_message_util.cc0000000000000000^2713"CompileC Build/Intermediates/protobuf.build/Release-iphoneos/protobuf.build/Objects-normal/armv7/generated_message_util.o protobuf/../../src/google/protobuf/generated_message_util.cc normal armv7 c++ com.apple.compilers.llvmgcc42    cd /work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode 2.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/llvm-gcc-4.2" -x c++ -arch armv7 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -Os -Wreturn-type -Wunused-variable -Wuninitialized -isysroot "/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk" -gdwarf-2 -mthumb -miphoneos-version-min=6.1 -iquote /work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/Build/Intermediates/protobuf.build/Release-iphoneos/protobuf.build/protobuf-generated-files.hmap -I/work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/Build/Intermediates/protobuf.build/Release-iphoneos/protobuf.build/protobuf-own-target-headers.hmap -I/work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/Build/Intermediates/protobuf.build/Release-iphoneos/protobuf.build/protobuf-all-target-headers.hmap -iquote /work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/Build/Intermediates/protobuf.build/Release-iphoneos/protobuf.build/protobuf-project-headers.hmap -I/work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/Build/Products/Release-iphoneos/include -I../src -I/work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/Build/Intermediates/protobuf.build/Release-iphoneos/protobuf.build/DerivedSources/armv7 -I/work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/Build/Intermediates/protobuf.build/Release-iphoneos/protobuf.build/DerivedSources -F/work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/Build/Products/Release-iphoneos -include /work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/Build/Intermediates/PrecompiledHeaders/protobuf-Prefix-exmulbtaaofjkogbmxpmewibtqnm/protobuf-Prefix.pch -c /work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/protobuf/../../src/google/protobuf/generated_message_util.cc -o /work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/Build/Intermediates/protobuf.build/Release-iphoneos/protobuf.build/Objects-normal/armv7/generated_message_util.o36"5257FDF9-34CF-4E49-9A8C-2F6781252FC6-
+
+CCompileC Build/Intermediates/protobuf.build/Release-iphoneos/protobuf.build/Objects-normal/armv7/googletest.o /work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/protobuf/../../src/google/protobuf/testing/googletest.cc normal armv7 c++ com.apple.compilers.llvmgcc42
+s433652127.232591
+e433652128.305870
+r1
+xCompileC
+xBuild/Intermediates/protobuf.build/Release-iphoneos/protobuf.build/Objects-normal/armv7/googletest.o
+x/work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/protobuf/../../src/google/protobuf/testing/googletest.cc
+xnormal
+xarmv7
+xc++
+xcom.apple.compilers.llvmgcc42
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection138"Compile /work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/protobuf/../../src/google/protobuf/testing/googletest.cc47ae3b9f01d9b941^d74c4ea001d9b941^---0#0#0#-19%DVTDocumentLocation2@146"file://localhost/work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/protobuf/../../src/google/protobuf/testing/googletest.cc0000000000000000^2681"CompileC Build/Intermediates/protobuf.build/Release-iphoneos/protobuf.build/Objects-normal/armv7/googletest.o protobuf/../../src/google/protobuf/testing/googletest.cc normal armv7 c++ com.apple.compilers.llvmgcc42    cd /work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode 2.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/llvm-gcc-4.2" -x c++ -arch armv7 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -Os -Wreturn-type -Wunused-variable -Wuninitialized -isysroot "/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk" -gdwarf-2 -mthumb -miphoneos-version-min=6.1 -iquote /work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/Build/Intermediates/protobuf.build/Release-iphoneos/protobuf.build/protobuf-generated-files.hmap -I/work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/Build/Intermediates/protobuf.build/Release-iphoneos/protobuf.build/protobuf-own-target-headers.hmap -I/work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/Build/Intermediates/protobuf.build/Release-iphoneos/protobuf.build/protobuf-all-target-headers.hmap -iquote /work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/Build/Intermediates/protobuf.build/Release-iphoneos/protobuf.build/protobuf-project-headers.hmap -I/work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/Build/Products/Release-iphoneos/include -I../src -I/work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/Build/Intermediates/protobuf.build/Release-iphoneos/protobuf.build/DerivedSources/armv7 -I/work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/Build/Intermediates/protobuf.build/Release-iphoneos/protobuf.build/DerivedSources -F/work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/Build/Products/Release-iphoneos -include /work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/Build/Intermediates/PrecompiledHeaders/protobuf-Prefix-exmulbtaaofjkogbmxpmewibtqnm/protobuf-Prefix.pch -c /work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/protobuf/../../src/google/protobuf/testing/googletest.cc -o /work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/Build/Intermediates/protobuf.build/Release-iphoneos/protobuf.build/Objects-normal/armv7/googletest.o36"D21ECD48-2CE8-4F1B-A3E2-115582A0F0AB-
+
+CCompileC Build/Intermediates/protobuf.build/Release-iphoneos/protobuf.build/Objects-normal/armv7/gzip_stream.o /work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/protobuf/../../src/google/protobuf/io/gzip_stream.cc normal armv7 c++ com.apple.compilers.llvmgcc42
+s433652122.910415
+e433652123.379060
+r1
+xCompileC
+xBuild/Intermediates/protobuf.build/Release-iphoneos/protobuf.build/Objects-normal/armv7/gzip_stream.o
+x/work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/protobuf/../../src/google/protobuf/io/gzip_stream.cc
+xnormal
+xarmv7
+xc++
+xcom.apple.compilers.llvmgcc42
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection134"Compile /work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/protobuf/../../src/google/protobuf/io/gzip_stream.cc6e33e99a01d9b941^1216619b01d9b941^---0#0#0#-19%DVTDocumentLocation2@142"file://localhost/work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/protobuf/../../src/google/protobuf/io/gzip_stream.cc0000000000000000^2675"CompileC Build/Intermediates/protobuf.build/Release-iphoneos/protobuf.build/Objects-normal/armv7/gzip_stream.o protobuf/../../src/google/protobuf/io/gzip_stream.cc normal armv7 c++ com.apple.compilers.llvmgcc42    cd /work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode 2.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/llvm-gcc-4.2" -x c++ -arch armv7 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -Os -Wreturn-type -Wunused-variable -Wuninitialized -isysroot "/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk" -gdwarf-2 -mthumb -miphoneos-version-min=6.1 -iquote /work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/Build/Intermediates/protobuf.build/Release-iphoneos/protobuf.build/protobuf-generated-files.hmap -I/work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/Build/Intermediates/protobuf.build/Release-iphoneos/protobuf.build/protobuf-own-target-headers.hmap -I/work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/Build/Intermediates/protobuf.build/Release-iphoneos/protobuf.build/protobuf-all-target-headers.hmap -iquote /work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/Build/Intermediates/protobuf.build/Release-iphoneos/protobuf.build/protobuf-project-headers.hmap -I/work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/Build/Products/Release-iphoneos/include -I../src -I/work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/Build/Intermediates/protobuf.build/Release-iphoneos/protobuf.build/DerivedSources/armv7 -I/work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/Build/Intermediates/protobuf.build/Release-iphoneos/protobuf.build/DerivedSources -F/work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/Build/Products/Release-iphoneos -include /work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/Build/Intermediates/PrecompiledHeaders/protobuf-Prefix-exmulbtaaofjkogbmxpmewibtqnm/protobuf-Prefix.pch -c /work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/protobuf/../../src/google/protobuf/io/gzip_stream.cc -o /work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/Build/Intermediates/protobuf.build/Release-iphoneos/protobuf.build/Objects-normal/armv7/gzip_stream.o36"37F01647-4D21-4C6B-A573-6640331EC9C6-
+
+CCompileC Build/Intermediates/protobuf.build/Release-iphoneos/protobuf.build/Objects-normal/armv7/message.o /work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/protobuf/../../src/google/protobuf/message.cc normal armv7 c++ com.apple.compilers.llvmgcc42
+s433652124.706256
+e433652126.858603
+r1
+xCompileC
+xBuild/Intermediates/protobuf.build/Release-iphoneos/protobuf.build/Objects-normal/armv7/message.o
+x/work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/protobuf/../../src/google/protobuf/message.cc
+xnormal
+xarmv7
+xc++
+xcom.apple.compilers.llvmgcc42
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection127"Compile /work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/protobuf/../../src/google/protobuf/message.cc33fbb49c01d9b941^4ddbdb9e01d9b941^---0#0#0#-19%DVTDocumentLocation2@135"file://localhost/work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/protobuf/../../src/google/protobuf/message.cc0000000000000000^2653"CompileC Build/Intermediates/protobuf.build/Release-iphoneos/protobuf.build/Objects-normal/armv7/message.o protobuf/../../src/google/protobuf/message.cc normal armv7 c++ com.apple.compilers.llvmgcc42    cd /work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode 2.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/llvm-gcc-4.2" -x c++ -arch armv7 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -Os -Wreturn-type -Wunused-variable -Wuninitialized -isysroot "/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk" -gdwarf-2 -mthumb -miphoneos-version-min=6.1 -iquote /work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/Build/Intermediates/protobuf.build/Release-iphoneos/protobuf.build/protobuf-generated-files.hmap -I/work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/Build/Intermediates/protobuf.build/Release-iphoneos/protobuf.build/protobuf-own-target-headers.hmap -I/work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/Build/Intermediates/protobuf.build/Release-iphoneos/protobuf.build/protobuf-all-target-headers.hmap -iquote /work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/Build/Intermediates/protobuf.build/Release-iphoneos/protobuf.build/protobuf-project-headers.hmap -I/work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/Build/Products/Release-iphoneos/include -I../src -I/work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/Build/Intermediates/protobuf.build/Release-iphoneos/protobuf.build/DerivedSources/armv7 -I/work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/Build/Intermediates/protobuf.build/Release-iphoneos/protobuf.build/DerivedSources -F/work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/Build/Products/Release-iphoneos -include /work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/Build/Intermediates/PrecompiledHeaders/protobuf-Prefix-exmulbtaaofjkogbmxpmewibtqnm/protobuf-Prefix.pch -c /work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/protobuf/../../src/google/protobuf/message.cc -o /work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/Build/Intermediates/protobuf.build/Release-iphoneos/protobuf.build/Objects-normal/armv7/message.o36"861D9DAA-9FA0-4E29-873F-CB67DEA37913-
+
+CCompileC Build/Intermediates/protobuf.build/Release-iphoneos/protobuf.build/Objects-normal/armv7/message_lite.o /work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/protobuf/../../src/google/protobuf/message_lite.cc normal armv7 c++ com.apple.compilers.llvmgcc42
+s433652124.909845
+e433652125.551941
+r1
+xCompileC
+xBuild/Intermediates/protobuf.build/Release-iphoneos/protobuf.build/Objects-normal/armv7/message_lite.o
+x/work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/protobuf/../../src/google/protobuf/message_lite.cc
+xnormal
+xarmv7
+xc++
+xcom.apple.compilers.llvmgcc42
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection132"Compile /work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/protobuf/../../src/google/protobuf/message_lite.cc910ce99c01d9b941^6a4b8d9d01d9b941^---0#0#0#-19%DVTDocumentLocation2@140"file://localhost/work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/protobuf/../../src/google/protobuf/message_lite.cc0000000000000000^2673"CompileC Build/Intermediates/protobuf.build/Release-iphoneos/protobuf.build/Objects-normal/armv7/message_lite.o protobuf/../../src/google/protobuf/message_lite.cc normal armv7 c++ com.apple.compilers.llvmgcc42    cd /work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode 2.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/llvm-gcc-4.2" -x c++ -arch armv7 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -Os -Wreturn-type -Wunused-variable -Wuninitialized -isysroot "/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk" -gdwarf-2 -mthumb -miphoneos-version-min=6.1 -iquote /work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/Build/Intermediates/protobuf.build/Release-iphoneos/protobuf.build/protobuf-generated-files.hmap -I/work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/Build/Intermediates/protobuf.build/Release-iphoneos/protobuf.build/protobuf-own-target-headers.hmap -I/work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/Build/Intermediates/protobuf.build/Release-iphoneos/protobuf.build/protobuf-all-target-headers.hmap -iquote /work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/Build/Intermediates/protobuf.build/Release-iphoneos/protobuf.build/protobuf-project-headers.hmap -I/work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/Build/Products/Release-iphoneos/include -I../src -I/work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/Build/Intermediates/protobuf.build/Release-iphoneos/protobuf.build/DerivedSources/armv7 -I/work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/Build/Intermediates/protobuf.build/Release-iphoneos/protobuf.build/DerivedSources -F/work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/Build/Products/Release-iphoneos -include /work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/Build/Intermediates/PrecompiledHeaders/protobuf-Prefix-exmulbtaaofjkogbmxpmewibtqnm/protobuf-Prefix.pch -c /work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/protobuf/../../src/google/protobuf/message_lite.cc -o /work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/Build/Intermediates/protobuf.build/Release-iphoneos/protobuf.build/Objects-normal/armv7/message_lite.o36"1EBA77F7-5769-4BDC-913A-EEC2AE976D3B-
+
+CCompileC Build/Intermediates/protobuf.build/Release-iphoneos/protobuf.build/Objects-normal/armv7/once.o /work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/protobuf/../../src/google/protobuf/stubs/once.cc normal armv7 c++ com.apple.compilers.llvmgcc42
+s433652126.497666
+e433652126.859293
+r1
+xCompileC
+xBuild/Intermediates/protobuf.build/Release-iphoneos/protobuf.build/Objects-normal/armv7/once.o
+x/work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/protobuf/../../src/google/protobuf/stubs/once.cc
+xnormal
+xarmv7
+xc++
+xcom.apple.compilers.llvmgcc42
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection130"Compile /work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/protobuf/../../src/google/protobuf/stubs/once.ccbd8a849e01d9b941^33fcdb9e01d9b941^---0#0#0#-19%DVTDocumentLocation2@138"file://localhost/work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/protobuf/../../src/google/protobuf/stubs/once.cc0000000000000000^2653"CompileC Build/Intermediates/protobuf.build/Release-iphoneos/protobuf.build/Objects-normal/armv7/once.o protobuf/../../src/google/protobuf/stubs/once.cc normal armv7 c++ com.apple.compilers.llvmgcc42    cd /work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode 2.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/llvm-gcc-4.2" -x c++ -arch armv7 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -Os -Wreturn-type -Wunused-variable -Wuninitialized -isysroot "/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk" -gdwarf-2 -mthumb -miphoneos-version-min=6.1 -iquote /work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/Build/Intermediates/protobuf.build/Release-iphoneos/protobuf.build/protobuf-generated-files.hmap -I/work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/Build/Intermediates/protobuf.build/Release-iphoneos/protobuf.build/protobuf-own-target-headers.hmap -I/work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/Build/Intermediates/protobuf.build/Release-iphoneos/protobuf.build/protobuf-all-target-headers.hmap -iquote /work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/Build/Intermediates/protobuf.build/Release-iphoneos/protobuf.build/protobuf-project-headers.hmap -I/work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/Build/Products/Release-iphoneos/include -I../src -I/work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/Build/Intermediates/protobuf.build/Release-iphoneos/protobuf.build/DerivedSources/armv7 -I/work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/Build/Intermediates/protobuf.build/Release-iphoneos/protobuf.build/DerivedSources -F/work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/Build/Products/Release-iphoneos -include /work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/Build/Intermediates/PrecompiledHeaders/protobuf-Prefix-exmulbtaaofjkogbmxpmewibtqnm/protobuf-Prefix.pch -c /work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/protobuf/../../src/google/protobuf/stubs/once.cc -o /work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/Build/Intermediates/protobuf.build/Release-iphoneos/protobuf.build/Objects-normal/armv7/once.o36"B984CBD3-7280-409B-B4FE-27ED97FB897A-
+
+CCompileC Build/Intermediates/protobuf.build/Release-iphoneos/protobuf.build/Objects-normal/armv7/printer.o /work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/protobuf/../../src/google/protobuf/io/printer.cc normal armv7 c++ com.apple.compilers.llvmgcc42
+s433652123.269088
+e433652123.925691
+r1
+xCompileC
+xBuild/Intermediates/protobuf.build/Release-iphoneos/protobuf.build/Objects-normal/armv7/printer.o
+x/work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/protobuf/../../src/google/protobuf/io/printer.cc
+xnormal
+xarmv7
+xc++
+xcom.apple.compilers.llvmgcc42
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection130"Compile /work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/protobuf/../../src/google/protobuf/io/printer.cc1805459b01d9b941^09f9ec9b01d9b941^---0#0#0#-19%DVTDocumentLocation2@138"file://localhost/work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/protobuf/../../src/google/protobuf/io/printer.cc0000000000000000^2659"CompileC Build/Intermediates/protobuf.build/Release-iphoneos/protobuf.build/Objects-normal/armv7/printer.o protobuf/../../src/google/protobuf/io/printer.cc normal armv7 c++ com.apple.compilers.llvmgcc42    cd /work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode 2.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/llvm-gcc-4.2" -x c++ -arch armv7 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -Os -Wreturn-type -Wunused-variable -Wuninitialized -isysroot "/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk" -gdwarf-2 -mthumb -miphoneos-version-min=6.1 -iquote /work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/Build/Intermediates/protobuf.build/Release-iphoneos/protobuf.build/protobuf-generated-files.hmap -I/work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/Build/Intermediates/protobuf.build/Release-iphoneos/protobuf.build/protobuf-own-target-headers.hmap -I/work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/Build/Intermediates/protobuf.build/Release-iphoneos/protobuf.build/protobuf-all-target-headers.hmap -iquote /work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/Build/Intermediates/protobuf.build/Release-iphoneos/protobuf.build/protobuf-project-headers.hmap -I/work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/Build/Products/Release-iphoneos/include -I../src -I/work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/Build/Intermediates/protobuf.build/Release-iphoneos/protobuf.build/DerivedSources/armv7 -I/work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/Build/Intermediates/protobuf.build/Release-iphoneos/protobuf.build/DerivedSources -F/work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/Build/Products/Release-iphoneos -include /work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/Build/Intermediates/PrecompiledHeaders/protobuf-Prefix-exmulbtaaofjkogbmxpmewibtqnm/protobuf-Prefix.pch -c /work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/protobuf/../../src/google/protobuf/io/printer.cc -o /work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/Build/Intermediates/protobuf.build/Release-iphoneos/protobuf.build/Objects-normal/armv7/printer.o36"85474F4A-0C49-4EE7-A823-B38BAF9C1AFC-
+
+CCompileC Build/Intermediates/protobuf.build/Release-iphoneos/protobuf.build/Objects-normal/armv7/reflection_ops.o /work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/protobuf/../../src/google/protobuf/reflection_ops.cc normal armv7 c++ com.apple.compilers.llvmgcc42
+s433652125.179785
+e433652126.706262
+r1
+xCompileC
+xBuild/Intermediates/protobuf.build/Release-iphoneos/protobuf.build/Objects-normal/armv7/reflection_ops.o
+x/work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/protobuf/../../src/google/protobuf/reflection_ops.cc
+xnormal
+xarmv7
+xc++
+xcom.apple.compilers.llvmgcc42
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection134"Compile /work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/protobuf/../../src/google/protobuf/reflection_ops.cc1f312e9d01d9b941^deccb49e01d9b941^---0#0#0#-19%DVTDocumentLocation2@142"file://localhost/work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/protobuf/../../src/google/protobuf/reflection_ops.cc0000000000000000^2681"CompileC Build/Intermediates/protobuf.build/Release-iphoneos/protobuf.build/Objects-normal/armv7/reflection_ops.o protobuf/../../src/google/protobuf/reflection_ops.cc normal armv7 c++ com.apple.compilers.llvmgcc42    cd /work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode 2.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/llvm-gcc-4.2" -x c++ -arch armv7 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -Os -Wreturn-type -Wunused-variable -Wuninitialized -isysroot "/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk" -gdwarf-2 -mthumb -miphoneos-version-min=6.1 -iquote /work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/Build/Intermediates/protobuf.build/Release-iphoneos/protobuf.build/protobuf-generated-files.hmap -I/work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/Build/Intermediates/protobuf.build/Release-iphoneos/protobuf.build/protobuf-own-target-headers.hmap -I/work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/Build/Intermediates/protobuf.build/Release-iphoneos/protobuf.build/protobuf-all-target-headers.hmap -iquote /work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/Build/Intermediates/protobuf.build/Release-iphoneos/protobuf.build/protobuf-project-headers.hmap -I/work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/Build/Products/Release-iphoneos/include -I../src -I/work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/Build/Intermediates/protobuf.build/Release-iphoneos/protobuf.build/DerivedSources/armv7 -I/work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/Build/Intermediates/protobuf.build/Release-iphoneos/protobuf.build/DerivedSources -F/work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/Build/Products/Release-iphoneos -include /work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/Build/Intermediates/PrecompiledHeaders/protobuf-Prefix-exmulbtaaofjkogbmxpmewibtqnm/protobuf-Prefix.pch -c /work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/protobuf/../../src/google/protobuf/reflection_ops.cc -o /work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/Build/Intermediates/protobuf.build/Release-iphoneos/protobuf.build/Objects-normal/armv7/reflection_ops.o36"06EDF280-785F-4C49-A99A-49356C07FB20-
+
+CCompileC Build/Intermediates/protobuf.build/Release-iphoneos/protobuf.build/Objects-normal/armv7/repeated_field.o /work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/protobuf/../../src/google/protobuf/repeated_field.cc normal armv7 c++ com.apple.compilers.llvmgcc42
+s433652125.553305
+e433652126.115174
+r1
+xCompileC
+xBuild/Intermediates/protobuf.build/Release-iphoneos/protobuf.build/Objects-normal/armv7/repeated_field.o
+x/work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/protobuf/../../src/google/protobuf/repeated_field.cc
+xnormal
+xarmv7
+xc++
+xcom.apple.compilers.llvmgcc42
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection134"Compile /work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/protobuf/../../src/google/protobuf/repeated_field.cc6dc68d9d01d9b941^317b1d9e01d9b941^---0#0#0#-19%DVTDocumentLocation2@142"file://localhost/work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/protobuf/../../src/google/protobuf/repeated_field.cc0000000000000000^2681"CompileC Build/Intermediates/protobuf.build/Release-iphoneos/protobuf.build/Objects-normal/armv7/repeated_field.o protobuf/../../src/google/protobuf/repeated_field.cc normal armv7 c++ com.apple.compilers.llvmgcc42    cd /work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode 2.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/llvm-gcc-4.2" -x c++ -arch armv7 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -Os -Wreturn-type -Wunused-variable -Wuninitialized -isysroot "/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk" -gdwarf-2 -mthumb -miphoneos-version-min=6.1 -iquote /work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/Build/Intermediates/protobuf.build/Release-iphoneos/protobuf.build/protobuf-generated-files.hmap -I/work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/Build/Intermediates/protobuf.build/Release-iphoneos/protobuf.build/protobuf-own-target-headers.hmap -I/work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/Build/Intermediates/protobuf.build/Release-iphoneos/protobuf.build/protobuf-all-target-headers.hmap -iquote /work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/Build/Intermediates/protobuf.build/Release-iphoneos/protobuf.build/protobuf-project-headers.hmap -I/work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/Build/Products/Release-iphoneos/include -I../src -I/work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/Build/Intermediates/protobuf.build/Release-iphoneos/protobuf.build/DerivedSources/armv7 -I/work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/Build/Intermediates/protobuf.build/Release-iphoneos/protobuf.build/DerivedSources -F/work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/Build/Products/Release-iphoneos -include /work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/Build/Intermediates/PrecompiledHeaders/protobuf-Prefix-exmulbtaaofjkogbmxpmewibtqnm/protobuf-Prefix.pch -c /work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/protobuf/../../src/google/protobuf/repeated_field.cc -o /work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/Build/Intermediates/protobuf.build/Release-iphoneos/protobuf.build/Objects-normal/armv7/repeated_field.o36"B2D84E8A-3FBF-414F-86BA-976D04D28184-
+
+CCompileC Build/Intermediates/protobuf.build/Release-iphoneos/protobuf.build/Objects-normal/armv7/service.o /work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/protobuf/../../src/google/protobuf/service.cc normal armv7 c++ com.apple.compilers.llvmgcc42
+s433652125.886072
+e433652126.203058
+r1
+xCompileC
+xBuild/Intermediates/protobuf.build/Release-iphoneos/protobuf.build/Objects-normal/armv7/service.o
+x/work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/protobuf/../../src/google/protobuf/service.cc
+xnormal
+xarmv7
+xc++
+xcom.apple.compilers.llvmgcc42
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection127"Compile /work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/protobuf/../../src/google/protobuf/service.cc49f4e29d01d9b941^90f6339e01d9b941^---0#0#0#-19%DVTDocumentLocation2@135"file://localhost/work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/protobuf/../../src/google/protobuf/service.cc0000000000000000^2653"CompileC Build/Intermediates/protobuf.build/Release-iphoneos/protobuf.build/Objects-normal/armv7/service.o protobuf/../../src/google/protobuf/service.cc normal armv7 c++ com.apple.compilers.llvmgcc42    cd /work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode 2.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/llvm-gcc-4.2" -x c++ -arch armv7 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -Os -Wreturn-type -Wunused-variable -Wuninitialized -isysroot "/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk" -gdwarf-2 -mthumb -miphoneos-version-min=6.1 -iquote /work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/Build/Intermediates/protobuf.build/Release-iphoneos/protobuf.build/protobuf-generated-files.hmap -I/work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/Build/Intermediates/protobuf.build/Release-iphoneos/protobuf.build/protobuf-own-target-headers.hmap -I/work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/Build/Intermediates/protobuf.build/Release-iphoneos/protobuf.build/protobuf-all-target-headers.hmap -iquote /work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/Build/Intermediates/protobuf.build/Release-iphoneos/protobuf.build/protobuf-project-headers.hmap -I/work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/Build/Products/Release-iphoneos/include -I../src -I/work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/Build/Intermediates/protobuf.build/Release-iphoneos/protobuf.build/DerivedSources/armv7 -I/work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/Build/Intermediates/protobuf.build/Release-iphoneos/protobuf.build/DerivedSources -F/work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/Build/Products/Release-iphoneos -include /work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/Build/Intermediates/PrecompiledHeaders/protobuf-Prefix-exmulbtaaofjkogbmxpmewibtqnm/protobuf-Prefix.pch -c /work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/protobuf/../../src/google/protobuf/service.cc -o /work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/Build/Intermediates/protobuf.build/Release-iphoneos/protobuf.build/Objects-normal/armv7/service.o36"B68828FF-A2FF-45C8-A9D5-87FBFC8DA1A4-
+
+CCompileC Build/Intermediates/protobuf.build/Release-iphoneos/protobuf.build/Objects-normal/armv7/stringprintf.o /work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/protobuf/../../src/google/protobuf/stubs/stringprintf.cc normal armv7 c++ com.apple.compilers.llvmgcc42
+s433652126.707608
+e433652127.130435
+r1
+xCompileC
+xBuild/Intermediates/protobuf.build/Release-iphoneos/protobuf.build/Objects-normal/armv7/stringprintf.o
+x/work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/protobuf/../../src/google/protobuf/stubs/stringprintf.cc
+xnormal
+xarmv7
+xc++
+xcom.apple.compilers.llvmgcc42
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection138"Compile /work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/protobuf/../../src/google/protobuf/stubs/stringprintf.ccbf47b59e01d9b941^aa63219f01d9b941^---0#0#0#-19%DVTDocumentLocation2@146"file://localhost/work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/protobuf/../../src/google/protobuf/stubs/stringprintf.cc0000000000000000^2685"CompileC Build/Intermediates/protobuf.build/Release-iphoneos/protobuf.build/Objects-normal/armv7/stringprintf.o protobuf/../../src/google/protobuf/stubs/stringprintf.cc normal armv7 c++ com.apple.compilers.llvmgcc42    cd /work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode 2.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/llvm-gcc-4.2" -x c++ -arch armv7 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -Os -Wreturn-type -Wunused-variable -Wuninitialized -isysroot "/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk" -gdwarf-2 -mthumb -miphoneos-version-min=6.1 -iquote /work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/Build/Intermediates/protobuf.build/Release-iphoneos/protobuf.build/protobuf-generated-files.hmap -I/work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/Build/Intermediates/protobuf.build/Release-iphoneos/protobuf.build/protobuf-own-target-headers.hmap -I/work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/Build/Intermediates/protobuf.build/Release-iphoneos/protobuf.build/protobuf-all-target-headers.hmap -iquote /work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/Build/Intermediates/protobuf.build/Release-iphoneos/protobuf.build/protobuf-project-headers.hmap -I/work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/Build/Products/Release-iphoneos/include -I../src -I/work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/Build/Intermediates/protobuf.build/Release-iphoneos/protobuf.build/DerivedSources/armv7 -I/work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/Build/Intermediates/protobuf.build/Release-iphoneos/protobuf.build/DerivedSources -F/work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/Build/Products/Release-iphoneos -include /work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/Build/Intermediates/PrecompiledHeaders/protobuf-Prefix-exmulbtaaofjkogbmxpmewibtqnm/protobuf-Prefix.pch -c /work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/protobuf/../../src/google/protobuf/stubs/stringprintf.cc -o /work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/Build/Intermediates/protobuf.build/Release-iphoneos/protobuf.build/Objects-normal/armv7/stringprintf.o36"FD9B4BBF-6931-49F8-A19E-2FA896E17567-
+
+CCompileC Build/Intermediates/protobuf.build/Release-iphoneos/protobuf.build/Objects-normal/armv7/structurally_valid.o /work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/protobuf/../../src/google/protobuf/stubs/structurally_valid.cc normal armv7 c++ com.apple.compilers.llvmgcc42
+s433652126.859840
+e433652127.230947
+r1
+xCompileC
+xBuild/Intermediates/protobuf.build/Release-iphoneos/protobuf.build/Objects-normal/armv7/structurally_valid.o
+x/work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/protobuf/../../src/google/protobuf/stubs/structurally_valid.cc
+xnormal
+xarmv7
+xc++
+xcom.apple.compilers.llvmgcc42
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection144"Compile /work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/protobuf/../../src/google/protobuf/stubs/structurally_valid.cc0740dc9e01d9b941^b01e3b9f01d9b941^---0#0#0#-19%DVTDocumentLocation2@152"file://localhost/work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/protobuf/../../src/google/protobuf/stubs/structurally_valid.cc0000000000000000^2709"CompileC Build/Intermediates/protobuf.build/Release-iphoneos/protobuf.build/Objects-normal/armv7/structurally_valid.o protobuf/../../src/google/protobuf/stubs/structurally_valid.cc normal armv7 c++ com.apple.compilers.llvmgcc42    cd /work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode 2.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/llvm-gcc-4.2" -x c++ -arch armv7 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -Os -Wreturn-type -Wunused-variable -Wuninitialized -isysroot "/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk" -gdwarf-2 -mthumb -miphoneos-version-min=6.1 -iquote /work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/Build/Intermediates/protobuf.build/Release-iphoneos/protobuf.build/protobuf-generated-files.hmap -I/work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/Build/Intermediates/protobuf.build/Release-iphoneos/protobuf.build/protobuf-own-target-headers.hmap -I/work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/Build/Intermediates/protobuf.build/Release-iphoneos/protobuf.build/protobuf-all-target-headers.hmap -iquote /work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/Build/Intermediates/protobuf.build/Release-iphoneos/protobuf.build/protobuf-project-headers.hmap -I/work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/Build/Products/Release-iphoneos/include -I../src -I/work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/Build/Intermediates/protobuf.build/Release-iphoneos/protobuf.build/DerivedSources/armv7 -I/work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/Build/Intermediates/protobuf.build/Release-iphoneos/protobuf.build/DerivedSources -F/work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/Build/Products/Release-iphoneos -include /work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/Build/Intermediates/PrecompiledHeaders/protobuf-Prefix-exmulbtaaofjkogbmxpmewibtqnm/protobuf-Prefix.pch -c /work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/protobuf/../../src/google/protobuf/stubs/structurally_valid.cc -o /work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/Build/Intermediates/protobuf.build/Release-iphoneos/protobuf.build/Objects-normal/armv7/structurally_valid.o36"15296A9A-8E82-4C72-934F-8B20DFBE8987-
+
+CCompileC Build/Intermediates/protobuf.build/Release-iphoneos/protobuf.build/Objects-normal/armv7/strutil.o /work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/protobuf/../../src/google/protobuf/stubs/strutil.cc normal armv7 c++ com.apple.compilers.llvmgcc42
+s433652126.859920
+e433652127.976928
+r1
+xCompileC
+xBuild/Intermediates/protobuf.build/Release-iphoneos/protobuf.build/Objects-normal/armv7/strutil.o
+x/work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/protobuf/../../src/google/protobuf/stubs/strutil.cc
+xnormal
+xarmv7
+xc++
+xcom.apple.compilers.llvmgcc42
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection133"Compile /work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/protobuf/../../src/google/protobuf/stubs/strutil.cc205ddc9e01d9b941^e816fa9f01d9b941^---0#0#0#-19%DVTDocumentLocation2@141"file://localhost/work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/protobuf/../../src/google/protobuf/stubs/strutil.cc0000000000000000^2665"CompileC Build/Intermediates/protobuf.build/Release-iphoneos/protobuf.build/Objects-normal/armv7/strutil.o protobuf/../../src/google/protobuf/stubs/strutil.cc normal armv7 c++ com.apple.compilers.llvmgcc42    cd /work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode 2.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/llvm-gcc-4.2" -x c++ -arch armv7 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -Os -Wreturn-type -Wunused-variable -Wuninitialized -isysroot "/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk" -gdwarf-2 -mthumb -miphoneos-version-min=6.1 -iquote /work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/Build/Intermediates/protobuf.build/Release-iphoneos/protobuf.build/protobuf-generated-files.hmap -I/work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/Build/Intermediates/protobuf.build/Release-iphoneos/protobuf.build/protobuf-own-target-headers.hmap -I/work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/Build/Intermediates/protobuf.build/Release-iphoneos/protobuf.build/protobuf-all-target-headers.hmap -iquote /work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/Build/Intermediates/protobuf.build/Release-iphoneos/protobuf.build/protobuf-project-headers.hmap -I/work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/Build/Products/Release-iphoneos/include -I../src -I/work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/Build/Intermediates/protobuf.build/Release-iphoneos/protobuf.build/DerivedSources/armv7 -I/work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/Build/Intermediates/protobuf.build/Release-iphoneos/protobuf.build/DerivedSources -F/work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/Build/Products/Release-iphoneos -include /work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/Build/Intermediates/PrecompiledHeaders/protobuf-Prefix-exmulbtaaofjkogbmxpmewibtqnm/protobuf-Prefix.pch -c /work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/protobuf/../../src/google/protobuf/stubs/strutil.cc -o /work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/Build/Intermediates/protobuf.build/Release-iphoneos/protobuf.build/Objects-normal/armv7/strutil.o36"2B6A77CF-D94D-447B-A291-9F0C502018D7-
+
+CCompileC Build/Intermediates/protobuf.build/Release-iphoneos/protobuf.build/Objects-normal/armv7/substitute.o /work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/protobuf/../../src/google/protobuf/stubs/substitute.cc normal armv7 c++ com.apple.compilers.llvmgcc42
+s433652127.113538
+e433652127.538618
+r1
+xCompileC
+xBuild/Intermediates/protobuf.build/Release-iphoneos/protobuf.build/Objects-normal/armv7/substitute.o
+x/work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/protobuf/../../src/google/protobuf/stubs/substitute.cc
+xnormal
+xarmv7
+xc++
+xcom.apple.compilers.llvmgcc42
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection136"Compile /work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/protobuf/../../src/google/protobuf/stubs/substitute.ccb5321d9f01d9b941^9be2899f01d9b941^---0#0#0#-19%DVTDocumentLocation2@144"file://localhost/work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/protobuf/../../src/google/protobuf/stubs/substitute.cc0000000000000000^2677"CompileC Build/Intermediates/protobuf.build/Release-iphoneos/protobuf.build/Objects-normal/armv7/substitute.o protobuf/../../src/google/protobuf/stubs/substitute.cc normal armv7 c++ com.apple.compilers.llvmgcc42    cd /work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode 2.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/llvm-gcc-4.2" -x c++ -arch armv7 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -Os -Wreturn-type -Wunused-variable -Wuninitialized -isysroot "/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk" -gdwarf-2 -mthumb -miphoneos-version-min=6.1 -iquote /work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/Build/Intermediates/protobuf.build/Release-iphoneos/protobuf.build/protobuf-generated-files.hmap -I/work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/Build/Intermediates/protobuf.build/Release-iphoneos/protobuf.build/protobuf-own-target-headers.hmap -I/work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/Build/Intermediates/protobuf.build/Release-iphoneos/protobuf.build/protobuf-all-target-headers.hmap -iquote /work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/Build/Intermediates/protobuf.build/Release-iphoneos/protobuf.build/protobuf-project-headers.hmap -I/work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/Build/Products/Release-iphoneos/include -I../src -I/work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/Build/Intermediates/protobuf.build/Release-iphoneos/protobuf.build/DerivedSources/armv7 -I/work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/Build/Intermediates/protobuf.build/Release-iphoneos/protobuf.build/DerivedSources -F/work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/Build/Products/Release-iphoneos -include /work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/Build/Intermediates/PrecompiledHeaders/protobuf-Prefix-exmulbtaaofjkogbmxpmewibtqnm/protobuf-Prefix.pch -c /work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/protobuf/../../src/google/protobuf/stubs/substitute.cc -o /work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/Build/Intermediates/protobuf.build/Release-iphoneos/protobuf.build/Objects-normal/armv7/substitute.o36"D31223B9-9134-4E25-BBA6-2E0950CC663D-
+
+CCompileC Build/Intermediates/protobuf.build/Release-iphoneos/protobuf.build/Objects-normal/armv7/text_format.o /work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/protobuf/../../src/google/protobuf/text_format.cc normal armv7 c++ com.apple.compilers.llvmgcc42
+s433652127.855769
+e433652130.141498
+r1
+xCompileC
+xBuild/Intermediates/protobuf.build/Release-iphoneos/protobuf.build/Objects-normal/armv7/text_format.o
+x/work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/protobuf/../../src/google/protobuf/text_format.cc
+xnormal
+xarmv7
+xc++
+xcom.apple.compilers.llvmgcc42
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection131"Compile /work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/protobuf/../../src/google/protobuf/text_format.cc8f35db9f01d9b941^263924a201d9b941^---0#0#0#-19%DVTDocumentLocation2@139"file://localhost/work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/protobuf/../../src/google/protobuf/text_format.cc0000000000000000^2669"CompileC Build/Intermediates/protobuf.build/Release-iphoneos/protobuf.build/Objects-normal/armv7/text_format.o protobuf/../../src/google/protobuf/text_format.cc normal armv7 c++ com.apple.compilers.llvmgcc42    cd /work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode 2.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/llvm-gcc-4.2" -x c++ -arch armv7 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -Os -Wreturn-type -Wunused-variable -Wuninitialized -isysroot "/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk" -gdwarf-2 -mthumb -miphoneos-version-min=6.1 -iquote /work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/Build/Intermediates/protobuf.build/Release-iphoneos/protobuf.build/protobuf-generated-files.hmap -I/work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/Build/Intermediates/protobuf.build/Release-iphoneos/protobuf.build/protobuf-own-target-headers.hmap -I/work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/Build/Intermediates/protobuf.build/Release-iphoneos/protobuf.build/protobuf-all-target-headers.hmap -iquote /work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/Build/Intermediates/protobuf.build/Release-iphoneos/protobuf.build/protobuf-project-headers.hmap -I/work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/Build/Products/Release-iphoneos/include -I../src -I/work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/Build/Intermediates/protobuf.build/Release-iphoneos/protobuf.build/DerivedSources/armv7 -I/work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/Build/Intermediates/protobuf.build/Release-iphoneos/protobuf.build/DerivedSources -F/work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/Build/Products/Release-iphoneos -include /work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/Build/Intermediates/PrecompiledHeaders/protobuf-Prefix-exmulbtaaofjkogbmxpmewibtqnm/protobuf-Prefix.pch -c /work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/protobuf/../../src/google/protobuf/text_format.cc -o /work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/Build/Intermediates/protobuf.build/Release-iphoneos/protobuf.build/Objects-normal/armv7/text_format.o36"EB25D504-A0B9-49E0-830D-189846BDCF66-
+
+CCompileC Build/Intermediates/protobuf.build/Release-iphoneos/protobuf.build/Objects-normal/armv7/tokenizer.o /work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/protobuf/../../src/google/protobuf/io/tokenizer.cc normal armv7 c++ com.apple.compilers.llvmgcc42
+s433652123.380424
+e433652124.321272
+r1
+xCompileC
+xBuild/Intermediates/protobuf.build/Release-iphoneos/protobuf.build/Objects-normal/armv7/tokenizer.o
+x/work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/protobuf/../../src/google/protobuf/io/tokenizer.cc
+xnormal
+xarmv7
+xc++
+xcom.apple.compilers.llvmgcc42
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection132"Compile /work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/protobuf/../../src/google/protobuf/io/tokenizer.ccb284619b01d9b941^463f529c01d9b941^---0#0#0#-19%DVTDocumentLocation2@140"file://localhost/work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/protobuf/../../src/google/protobuf/io/tokenizer.cc0000000000000000^2667"CompileC Build/Intermediates/protobuf.build/Release-iphoneos/protobuf.build/Objects-normal/armv7/tokenizer.o protobuf/../../src/google/protobuf/io/tokenizer.cc normal armv7 c++ com.apple.compilers.llvmgcc42    cd /work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode 2.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/llvm-gcc-4.2" -x c++ -arch armv7 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -Os -Wreturn-type -Wunused-variable -Wuninitialized -isysroot "/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk" -gdwarf-2 -mthumb -miphoneos-version-min=6.1 -iquote /work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/Build/Intermediates/protobuf.build/Release-iphoneos/protobuf.build/protobuf-generated-files.hmap -I/work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/Build/Intermediates/protobuf.build/Release-iphoneos/protobuf.build/protobuf-own-target-headers.hmap -I/work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/Build/Intermediates/protobuf.build/Release-iphoneos/protobuf.build/protobuf-all-target-headers.hmap -iquote /work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/Build/Intermediates/protobuf.build/Release-iphoneos/protobuf.build/protobuf-project-headers.hmap -I/work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/Build/Products/Release-iphoneos/include -I../src -I/work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/Build/Intermediates/protobuf.build/Release-iphoneos/protobuf.build/DerivedSources/armv7 -I/work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/Build/Intermediates/protobuf.build/Release-iphoneos/protobuf.build/DerivedSources -F/work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/Build/Products/Release-iphoneos -include /work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/Build/Intermediates/PrecompiledHeaders/protobuf-Prefix-exmulbtaaofjkogbmxpmewibtqnm/protobuf-Prefix.pch -c /work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/protobuf/../../src/google/protobuf/io/tokenizer.cc -o /work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/Build/Intermediates/protobuf.build/Release-iphoneos/protobuf.build/Objects-normal/armv7/tokenizer.o36"345A5B04-53E7-488E-89F5-1DAF516EF5D7-
+
+CCompileC Build/Intermediates/protobuf.build/Release-iphoneos/protobuf.build/Objects-normal/armv7/unknown_field_set.o /work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/protobuf/../../src/google/protobuf/unknown_field_set.cc normal armv7 c++ com.apple.compilers.llvmgcc42
+s433652127.877196
+e433652129.235571
+r1
+xCompileC
+xBuild/Intermediates/protobuf.build/Release-iphoneos/protobuf.build/Objects-normal/armv7/unknown_field_set.o
+x/work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/protobuf/../../src/google/protobuf/unknown_field_set.cc
+xnormal
+xarmv7
+xc++
+xcom.apple.compilers.llvmgcc42
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection137"Compile /work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/protobuf/../../src/google/protobuf/unknown_field_set.cc39b4e09f01d9b941^874d3ca101d9b941^---0#0#0#-19%DVTDocumentLocation2@145"file://localhost/work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/protobuf/../../src/google/protobuf/unknown_field_set.cc0000000000000000^2693"CompileC Build/Intermediates/protobuf.build/Release-iphoneos/protobuf.build/Objects-normal/armv7/unknown_field_set.o protobuf/../../src/google/protobuf/unknown_field_set.cc normal armv7 c++ com.apple.compilers.llvmgcc42    cd /work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode 2.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/llvm-gcc-4.2" -x c++ -arch armv7 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -Os -Wreturn-type -Wunused-variable -Wuninitialized -isysroot "/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk" -gdwarf-2 -mthumb -miphoneos-version-min=6.1 -iquote /work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/Build/Intermediates/protobuf.build/Release-iphoneos/protobuf.build/protobuf-generated-files.hmap -I/work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/Build/Intermediates/protobuf.build/Release-iphoneos/protobuf.build/protobuf-own-target-headers.hmap -I/work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/Build/Intermediates/protobuf.build/Release-iphoneos/protobuf.build/protobuf-all-target-headers.hmap -iquote /work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/Build/Intermediates/protobuf.build/Release-iphoneos/protobuf.build/protobuf-project-headers.hmap -I/work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/Build/Products/Release-iphoneos/include -I../src -I/work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/Build/Intermediates/protobuf.build/Release-iphoneos/protobuf.build/DerivedSources/armv7 -I/work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/Build/Intermediates/protobuf.build/Release-iphoneos/protobuf.build/DerivedSources -F/work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/Build/Products/Release-iphoneos -include /work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/Build/Intermediates/PrecompiledHeaders/protobuf-Prefix-exmulbtaaofjkogbmxpmewibtqnm/protobuf-Prefix.pch -c /work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/protobuf/../../src/google/protobuf/unknown_field_set.cc -o /work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/Build/Intermediates/protobuf.build/Release-iphoneos/protobuf.build/Objects-normal/armv7/unknown_field_set.o36"566AB943-618C-4E4C-817D-8347654BF13E-
+
+CCompileC Build/Intermediates/protobuf.build/Release-iphoneos/protobuf.build/Objects-normal/armv7/wire_format.o /work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/protobuf/../../src/google/protobuf/wire_format.cc normal armv7 c++ com.apple.compilers.llvmgcc42
+s433652127.978273
+e433652129.641155
+r1
+xCompileC
+xBuild/Intermediates/protobuf.build/Release-iphoneos/protobuf.build/Objects-normal/armv7/wire_format.o
+x/work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/protobuf/../../src/google/protobuf/wire_format.cc
+xnormal
+xarmv7
+xc++
+xcom.apple.compilers.llvmgcc42
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection131"Compile /work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/protobuf/../../src/google/protobuf/wire_format.cc0893fa9f01d9b941^f321a4a101d9b941^---0#0#0#-19%DVTDocumentLocation2@139"file://localhost/work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/protobuf/../../src/google/protobuf/wire_format.cc0000000000000000^2669"CompileC Build/Intermediates/protobuf.build/Release-iphoneos/protobuf.build/Objects-normal/armv7/wire_format.o protobuf/../../src/google/protobuf/wire_format.cc normal armv7 c++ com.apple.compilers.llvmgcc42    cd /work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode 2.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/llvm-gcc-4.2" -x c++ -arch armv7 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -Os -Wreturn-type -Wunused-variable -Wuninitialized -isysroot "/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk" -gdwarf-2 -mthumb -miphoneos-version-min=6.1 -iquote /work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/Build/Intermediates/protobuf.build/Release-iphoneos/protobuf.build/protobuf-generated-files.hmap -I/work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/Build/Intermediates/protobuf.build/Release-iphoneos/protobuf.build/protobuf-own-target-headers.hmap -I/work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/Build/Intermediates/protobuf.build/Release-iphoneos/protobuf.build/protobuf-all-target-headers.hmap -iquote /work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/Build/Intermediates/protobuf.build/Release-iphoneos/protobuf.build/protobuf-project-headers.hmap -I/work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/Build/Products/Release-iphoneos/include -I../src -I/work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/Build/Intermediates/protobuf.build/Release-iphoneos/protobuf.build/DerivedSources/armv7 -I/work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/Build/Intermediates/protobuf.build/Release-iphoneos/protobuf.build/DerivedSources -F/work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/Build/Products/Release-iphoneos -include /work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/Build/Intermediates/PrecompiledHeaders/protobuf-Prefix-exmulbtaaofjkogbmxpmewibtqnm/protobuf-Prefix.pch -c /work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/protobuf/../../src/google/protobuf/wire_format.cc -o /work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/Build/Intermediates/protobuf.build/Release-iphoneos/protobuf.build/Objects-normal/armv7/wire_format.o36"16707E03-E525-46A7-94D0-D8AF16B247CB-
+
+CCompileC Build/Intermediates/protobuf.build/Release-iphoneos/protobuf.build/Objects-normal/armv7/wire_format_lite.o /work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/protobuf/../../src/google/protobuf/wire_format_lite.cc normal armv7 c++ com.apple.compilers.llvmgcc42
+s433652128.307237
+e433652129.166256
+r1
+xCompileC
+xBuild/Intermediates/protobuf.build/Release-iphoneos/protobuf.build/Objects-normal/armv7/wire_format_lite.o
+x/work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/protobuf/../../src/google/protobuf/wire_format_lite.cc
+xnormal
+xarmv7
+xc++
+xcom.apple.compilers.llvmgcc42
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection136"Compile /work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/protobuf/../../src/google/protobuf/wire_format_lite.ccd1c94ea001d9b941^088f2aa101d9b941^---0#0#0#-19%DVTDocumentLocation2@144"file://localhost/work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/protobuf/../../src/google/protobuf/wire_format_lite.cc0000000000000000^2689"CompileC Build/Intermediates/protobuf.build/Release-iphoneos/protobuf.build/Objects-normal/armv7/wire_format_lite.o protobuf/../../src/google/protobuf/wire_format_lite.cc normal armv7 c++ com.apple.compilers.llvmgcc42    cd /work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode 2.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/llvm-gcc-4.2" -x c++ -arch armv7 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -Os -Wreturn-type -Wunused-variable -Wuninitialized -isysroot "/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk" -gdwarf-2 -mthumb -miphoneos-version-min=6.1 -iquote /work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/Build/Intermediates/protobuf.build/Release-iphoneos/protobuf.build/protobuf-generated-files.hmap -I/work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/Build/Intermediates/protobuf.build/Release-iphoneos/protobuf.build/protobuf-own-target-headers.hmap -I/work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/Build/Intermediates/protobuf.build/Release-iphoneos/protobuf.build/protobuf-all-target-headers.hmap -iquote /work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/Build/Intermediates/protobuf.build/Release-iphoneos/protobuf.build/protobuf-project-headers.hmap -I/work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/Build/Products/Release-iphoneos/include -I../src -I/work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/Build/Intermediates/protobuf.build/Release-iphoneos/protobuf.build/DerivedSources/armv7 -I/work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/Build/Intermediates/protobuf.build/Release-iphoneos/protobuf.build/DerivedSources -F/work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/Build/Products/Release-iphoneos -include /work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/Build/Intermediates/PrecompiledHeaders/protobuf-Prefix-exmulbtaaofjkogbmxpmewibtqnm/protobuf-Prefix.pch -c /work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/protobuf/../../src/google/protobuf/wire_format_lite.cc -o /work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/Build/Intermediates/protobuf.build/Release-iphoneos/protobuf.build/Objects-normal/armv7/wire_format_lite.o36"479D32B3-3F56-41FF-915B-B6FE9BC33E9C-
+
+CCompileC Build/Intermediates/protobuf.build/Release-iphoneos/protobuf.build/Objects-normal/armv7/zcgunzip.o /work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/protobuf/../../src/google/protobuf/testing/zcgunzip.cc normal armv7 c++ com.apple.compilers.llvmgcc42
+s433652127.532837
+e433652127.854460
+r1
+xCompileC
+xBuild/Intermediates/protobuf.build/Release-iphoneos/protobuf.build/Objects-normal/armv7/zcgunzip.o
+x/work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/protobuf/../../src/google/protobuf/testing/zcgunzip.cc
+xnormal
+xarmv7
+xc++
+xcom.apple.compilers.llvmgcc42
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection136"Compile /work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/protobuf/../../src/google/protobuf/testing/zcgunzip.cc198d889f01d9b941^4bcdda9f01d9b941^---0#0#0#-19%DVTDocumentLocation2@144"file://localhost/work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/protobuf/../../src/google/protobuf/testing/zcgunzip.cc0000000000000000^2673"CompileC Build/Intermediates/protobuf.build/Release-iphoneos/protobuf.build/Objects-normal/armv7/zcgunzip.o protobuf/../../src/google/protobuf/testing/zcgunzip.cc normal armv7 c++ com.apple.compilers.llvmgcc42    cd /work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode 2.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/llvm-gcc-4.2" -x c++ -arch armv7 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -Os -Wreturn-type -Wunused-variable -Wuninitialized -isysroot "/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk" -gdwarf-2 -mthumb -miphoneos-version-min=6.1 -iquote /work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/Build/Intermediates/protobuf.build/Release-iphoneos/protobuf.build/protobuf-generated-files.hmap -I/work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/Build/Intermediates/protobuf.build/Release-iphoneos/protobuf.build/protobuf-own-target-headers.hmap -I/work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/Build/Intermediates/protobuf.build/Release-iphoneos/protobuf.build/protobuf-all-target-headers.hmap -iquote /work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/Build/Intermediates/protobuf.build/Release-iphoneos/protobuf.build/protobuf-project-headers.hmap -I/work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/Build/Products/Release-iphoneos/include -I../src -I/work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/Build/Intermediates/protobuf.build/Release-iphoneos/protobuf.build/DerivedSources/armv7 -I/work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/Build/Intermediates/protobuf.build/Release-iphoneos/protobuf.build/DerivedSources -F/work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/Build/Products/Release-iphoneos -include /work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/Build/Intermediates/PrecompiledHeaders/protobuf-Prefix-exmulbtaaofjkogbmxpmewibtqnm/protobuf-Prefix.pch -c /work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/protobuf/../../src/google/protobuf/testing/zcgunzip.cc -o /work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/Build/Intermediates/protobuf.build/Release-iphoneos/protobuf.build/Objects-normal/armv7/zcgunzip.o36"D6D14A12-D5C4-45E5-9935-60C64BE531F7-
+
+CCompileC Build/Intermediates/protobuf.build/Release-iphoneos/protobuf.build/Objects-normal/armv7/zcgzip.o /work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/protobuf/../../src/google/protobuf/testing/zcgzip.cc normal armv7 c++ com.apple.compilers.llvmgcc42
+s433652127.539946
+e433652127.874756
+r1
+xCompileC
+xBuild/Intermediates/protobuf.build/Release-iphoneos/protobuf.build/Objects-normal/armv7/zcgzip.o
+x/work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/protobuf/../../src/google/protobuf/testing/zcgzip.cc
+xnormal
+xarmv7
+xc++
+xcom.apple.compilers.llvmgcc42
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection134"Compile /work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/protobuf/../../src/google/protobuf/testing/zcgzip.cc075d8a9f01d9b941^39efdf9f01d9b941^---0#0#0#-19%DVTDocumentLocation2@142"file://localhost/work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/protobuf/../../src/google/protobuf/testing/zcgzip.cc0000000000000000^2665"CompileC Build/Intermediates/protobuf.build/Release-iphoneos/protobuf.build/Objects-normal/armv7/zcgzip.o protobuf/../../src/google/protobuf/testing/zcgzip.cc normal armv7 c++ com.apple.compilers.llvmgcc42    cd /work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode 2.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/llvm-gcc-4.2" -x c++ -arch armv7 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -Os -Wreturn-type -Wunused-variable -Wuninitialized -isysroot "/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk" -gdwarf-2 -mthumb -miphoneos-version-min=6.1 -iquote /work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/Build/Intermediates/protobuf.build/Release-iphoneos/protobuf.build/protobuf-generated-files.hmap -I/work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/Build/Intermediates/protobuf.build/Release-iphoneos/protobuf.build/protobuf-own-target-headers.hmap -I/work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/Build/Intermediates/protobuf.build/Release-iphoneos/protobuf.build/protobuf-all-target-headers.hmap -iquote /work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/Build/Intermediates/protobuf.build/Release-iphoneos/protobuf.build/protobuf-project-headers.hmap -I/work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/Build/Products/Release-iphoneos/include -I../src -I/work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/Build/Intermediates/protobuf.build/Release-iphoneos/protobuf.build/DerivedSources/armv7 -I/work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/Build/Intermediates/protobuf.build/Release-iphoneos/protobuf.build/DerivedSources -F/work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/Build/Products/Release-iphoneos -include /work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/Build/Intermediates/PrecompiledHeaders/protobuf-Prefix-exmulbtaaofjkogbmxpmewibtqnm/protobuf-Prefix.pch -c /work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/protobuf/../../src/google/protobuf/testing/zcgzip.cc -o /work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/Build/Intermediates/protobuf.build/Release-iphoneos/protobuf.build/Objects-normal/armv7/zcgzip.o36"51686FB1-D075-412B-93EE-A1C06DA5CD9C-
+
+CCompileC Build/Intermediates/protobuf.build/Release-iphoneos/protobuf.build/Objects-normal/armv7/zero_copy_stream.o /work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/protobuf/../../src/google/protobuf/io/zero_copy_stream.cc normal armv7 c++ com.apple.compilers.llvmgcc42
+s433652123.927074
+e433652124.231309
+r1
+xCompileC
+xBuild/Intermediates/protobuf.build/Release-iphoneos/protobuf.build/Objects-normal/armv7/zero_copy_stream.o
+x/work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/protobuf/../../src/google/protobuf/io/zero_copy_stream.cc
+xnormal
+xarmv7
+xc++
+xcom.apple.compilers.llvmgcc42
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection139"Compile /work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/protobuf/../../src/google/protobuf/io/zero_copy_stream.cc9b76ed9b01d9b941^48363b9c01d9b941^---0#0#0#-19%DVTDocumentLocation2@147"file://localhost/work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/protobuf/../../src/google/protobuf/io/zero_copy_stream.cc0000000000000000^2695"CompileC Build/Intermediates/protobuf.build/Release-iphoneos/protobuf.build/Objects-normal/armv7/zero_copy_stream.o protobuf/../../src/google/protobuf/io/zero_copy_stream.cc normal armv7 c++ com.apple.compilers.llvmgcc42    cd /work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode 2.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/llvm-gcc-4.2" -x c++ -arch armv7 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -Os -Wreturn-type -Wunused-variable -Wuninitialized -isysroot "/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk" -gdwarf-2 -mthumb -miphoneos-version-min=6.1 -iquote /work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/Build/Intermediates/protobuf.build/Release-iphoneos/protobuf.build/protobuf-generated-files.hmap -I/work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/Build/Intermediates/protobuf.build/Release-iphoneos/protobuf.build/protobuf-own-target-headers.hmap -I/work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/Build/Intermediates/protobuf.build/Release-iphoneos/protobuf.build/protobuf-all-target-headers.hmap -iquote /work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/Build/Intermediates/protobuf.build/Release-iphoneos/protobuf.build/protobuf-project-headers.hmap -I/work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/Build/Products/Release-iphoneos/include -I../src -I/work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/Build/Intermediates/protobuf.build/Release-iphoneos/protobuf.build/DerivedSources/armv7 -I/work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/Build/Intermediates/protobuf.build/Release-iphoneos/protobuf.build/DerivedSources -F/work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/Build/Products/Release-iphoneos -include /work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/Build/Intermediates/PrecompiledHeaders/protobuf-Prefix-exmulbtaaofjkogbmxpmewibtqnm/protobuf-Prefix.pch -c /work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/protobuf/../../src/google/protobuf/io/zero_copy_stream.cc -o /work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/Build/Intermediates/protobuf.build/Release-iphoneos/protobuf.build/Objects-normal/armv7/zero_copy_stream.o36"111B2735-BC2D-4441-86F8-BFEAD6F36D4F-
+
+CCompileC Build/Intermediates/protobuf.build/Release-iphoneos/protobuf.build/Objects-normal/armv7/zero_copy_stream_impl.o /work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/protobuf/../../src/google/protobuf/io/zero_copy_stream_impl.cc normal armv7 c++ com.apple.compilers.llvmgcc42
+s433652124.239200
+e433652125.178126
+r1
+xCompileC
+xBuild/Intermediates/protobuf.build/Release-iphoneos/protobuf.build/Objects-normal/armv7/zero_copy_stream_impl.o
+x/work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/protobuf/../../src/google/protobuf/io/zero_copy_stream_impl.cc
+xnormal
+xarmv7
+xc++
+xcom.apple.compilers.llvmgcc42
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection144"Compile /work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/protobuf/../../src/google/protobuf/io/zero_copy_stream_impl.ccab043f9c01d9b941^ed992d9d01d9b941^---0#0#0#-19%DVTDocumentLocation2@152"file://localhost/work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/protobuf/../../src/google/protobuf/io/zero_copy_stream_impl.cc0000000000000000^2715"CompileC Build/Intermediates/protobuf.build/Release-iphoneos/protobuf.build/Objects-normal/armv7/zero_copy_stream_impl.o protobuf/../../src/google/protobuf/io/zero_copy_stream_impl.cc normal armv7 c++ com.apple.compilers.llvmgcc42    cd /work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode 2.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/llvm-gcc-4.2" -x c++ -arch armv7 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -Os -Wreturn-type -Wunused-variable -Wuninitialized -isysroot "/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk" -gdwarf-2 -mthumb -miphoneos-version-min=6.1 -iquote /work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/Build/Intermediates/protobuf.build/Release-iphoneos/protobuf.build/protobuf-generated-files.hmap -I/work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/Build/Intermediates/protobuf.build/Release-iphoneos/protobuf.build/protobuf-own-target-headers.hmap -I/work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/Build/Intermediates/protobuf.build/Release-iphoneos/protobuf.build/protobuf-all-target-headers.hmap -iquote /work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/Build/Intermediates/protobuf.build/Release-iphoneos/protobuf.build/protobuf-project-headers.hmap -I/work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/Build/Products/Release-iphoneos/include -I../src -I/work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/Build/Intermediates/protobuf.build/Release-iphoneos/protobuf.build/DerivedSources/armv7 -I/work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/Build/Intermediates/protobuf.build/Release-iphoneos/protobuf.build/DerivedSources -F/work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/Build/Products/Release-iphoneos -include /work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/Build/Intermediates/PrecompiledHeaders/protobuf-Prefix-exmulbtaaofjkogbmxpmewibtqnm/protobuf-Prefix.pch -c /work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/protobuf/../../src/google/protobuf/io/zero_copy_stream_impl.cc -o /work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/Build/Intermediates/protobuf.build/Release-iphoneos/protobuf.build/Objects-normal/armv7/zero_copy_stream_impl.o36"08674950-096E-465B-8910-4AA7EC609D7B-
+
+CCompileC Build/Intermediates/protobuf.build/Release-iphoneos/protobuf.build/Objects-normal/armv7/zero_copy_stream_impl_lite.o /work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/protobuf/../../src/google/protobuf/io/zero_copy_stream_impl_lite.cc normal armv7 c++ com.apple.compilers.llvmgcc42
+s433652124.322630
+e433652124.908502
+r1
+xCompileC
+xBuild/Intermediates/protobuf.build/Release-iphoneos/protobuf.build/Objects-normal/armv7/zero_copy_stream_impl_lite.o
+x/work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/protobuf/../../src/google/protobuf/io/zero_copy_stream_impl_lite.cc
+xnormal
+xarmv7
+xc++
+xcom.apple.compilers.llvmgcc42
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection149"Compile /work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/protobuf/../../src/google/protobuf/io/zero_copy_stream_impl_lite.cc1bb9529c01d9b941^ab92e89c01d9b941^---0#0#0#-19%DVTDocumentLocation2@157"file://localhost/work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/protobuf/../../src/google/protobuf/io/zero_copy_stream_impl_lite.cc0000000000000000^2735"CompileC Build/Intermediates/protobuf.build/Release-iphoneos/protobuf.build/Objects-normal/armv7/zero_copy_stream_impl_lite.o protobuf/../../src/google/protobuf/io/zero_copy_stream_impl_lite.cc normal armv7 c++ com.apple.compilers.llvmgcc42    cd /work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode 2.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/llvm-gcc-4.2" -x c++ -arch armv7 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -Os -Wreturn-type -Wunused-variable -Wuninitialized -isysroot "/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk" -gdwarf-2 -mthumb -miphoneos-version-min=6.1 -iquote /work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/Build/Intermediates/protobuf.build/Release-iphoneos/protobuf.build/protobuf-generated-files.hmap -I/work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/Build/Intermediates/protobuf.build/Release-iphoneos/protobuf.build/protobuf-own-target-headers.hmap -I/work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/Build/Intermediates/protobuf.build/Release-iphoneos/protobuf.build/protobuf-all-target-headers.hmap -iquote /work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/Build/Intermediates/protobuf.build/Release-iphoneos/protobuf.build/protobuf-project-headers.hmap -I/work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/Build/Products/Release-iphoneos/include -I../src -I/work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/Build/Intermediates/protobuf.build/Release-iphoneos/protobuf.build/DerivedSources/armv7 -I/work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/Build/Intermediates/protobuf.build/Release-iphoneos/protobuf.build/DerivedSources -F/work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/Build/Products/Release-iphoneos -include /work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/Build/Intermediates/PrecompiledHeaders/protobuf-Prefix-exmulbtaaofjkogbmxpmewibtqnm/protobuf-Prefix.pch -c /work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/protobuf/../../src/google/protobuf/io/zero_copy_stream_impl_lite.cc -o /work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/Build/Intermediates/protobuf.build/Release-iphoneos/protobuf.build/Objects-normal/armv7/zero_copy_stream_impl_lite.o36"DB47A7C7-6E72-4F59-86BC-3C8B5C5ACFF6-
+
+CLibtool /work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/Build/Products/Release-iphoneos/libprotobuf.a normal armv7
+s433652130.148646
+e433652130.291628
+r1
+xLibtool
+x/work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/Build/Products/Release-iphoneos/libprotobuf.a
+xnormal
+xarmv7
+o/Applications/Xcode 2.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool: -dynamic not specified the following flags are invalid: -ObjC 
+o/Applications/Xcode 2.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool: file: /work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/Build/Intermediates/protobuf.build/Release-iphoneos/protobuf.build/Objects-normal/armv7/atomicops_internals_x86_gcc.o has no symbols
+o/Applications/Xcode 2.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool: file: /work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/Build/Intermediates/protobuf.build/Release-iphoneos/protobuf.build/Objects-normal/armv7/atomicops_internals_x86_msvc.o has no symbols
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection66"Libtool Build/Products/Release-iphoneos/libprotobuf.a normal armv79d2b26a201d9b941^97ac4aa201d9b941^-784"/Applications/Xcode 2.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool: -dynamic not specified the following flags are invalid: -ObjC /Applications/Xcode 2.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool: file: /work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/Build/Intermediates/protobuf.build/Release-iphoneos/protobuf.build/Objects-normal/armv7/atomicops_internals_x86_gcc.o has no symbols/Applications/Xcode 2.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool: file: /work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/Build/Intermediates/protobuf.build/Release-iphoneos/protobuf.build/Objects-normal/armv7/atomicops_internals_x86_msvc.o has no symbols-0#0#0#--1081"Libtool Build/Products/Release-iphoneos/libprotobuf.a normal armv7    cd /work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject    setenv IPHONEOS_DEPLOYMENT_TARGET 6.1    setenv PATH "/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode 2.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Applications/Xcode 2.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool" -static -arch_only armv7 -syslibroot "/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk" -L/work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/Build/Products/Release-iphoneos -filelist /work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/Build/Intermediates/protobuf.build/Release-iphoneos/protobuf.build/Objects-normal/armv7/protobuf.LinkFileList -ObjC -framework Foundation -o /work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/Build/Products/Release-iphoneos/libprotobuf.a36"5A0E029B-A8E7-4C18-8ACD-0612C50AB76C-
+
+CProcessPCH++ /work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/Build/Intermediates/PrecompiledHeaders/protobuf-Prefix-exmulbtaaofjkogbmxpmewibtqnm/protobuf-Prefix.pch.gch protobuf/protobuf-Prefix.pch normal armv7 c++ com.apple.compilers.llvmgcc42
+s433652115.590598
+e433652115.649311
+r1
+xProcessPCH++
+x/work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/Build/Intermediates/PrecompiledHeaders/protobuf-Prefix-exmulbtaaofjkogbmxpmewibtqnm/protobuf-Prefix.pch.gch
+xprotobuf/protobuf-Prefix.pch
+xnormal
+xarmv7
+xc++
+xcom.apple.compilers.llvmgcc42
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection39"Precompile protobuf/protobuf-Prefix.pch6746979301d9b941^c938a69301d9b941^---0#0#0#-19%DVTDocumentLocation2@118"file://localhost/work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/protobuf/protobuf-Prefix.pch0000000000000000^2463"ProcessPCH++ Build/Intermediates/PrecompiledHeaders/protobuf-Prefix-exmulbtaaofjkogbmxpmewibtqnm/protobuf-Prefix.pch.gch protobuf/protobuf-Prefix.pch normal armv7 c++ com.apple.compilers.llvmgcc42    cd /work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode 2.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/llvm-gcc-4.2" -x c++-header -arch armv7 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -Os -Wreturn-type -Wunused-variable -Wuninitialized -isysroot "/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk" -gdwarf-2 -mthumb -miphoneos-version-min=6.1 -iquote /work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/Build/Intermediates/protobuf.build/Release-iphoneos/protobuf.build/protobuf-generated-files.hmap -I/work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/Build/Intermediates/protobuf.build/Release-iphoneos/protobuf.build/protobuf-own-target-headers.hmap -I/work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/Build/Intermediates/protobuf.build/Release-iphoneos/protobuf.build/protobuf-all-target-headers.hmap -iquote /work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/Build/Intermediates/protobuf.build/Release-iphoneos/protobuf.build/protobuf-project-headers.hmap -I/work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/Build/Products/Release-iphoneos/include -I../src -I/work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/Build/Intermediates/protobuf.build/Release-iphoneos/protobuf.build/DerivedSources/armv7 -I/work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/Build/Intermediates/protobuf.build/Release-iphoneos/protobuf.build/DerivedSources -F/work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/Build/Products/Release-iphoneos -c /work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/protobuf/protobuf-Prefix.pch -o /work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/Build/Intermediates/PrecompiledHeaders/protobuf-Prefix-exmulbtaaofjkogbmxpmewibtqnm/protobuf-Prefix.pch.gch36"852A7312-172C-438C-B6AD-95D66234C951-
+
+CProcessPCH++ /work/projects/cocos2d-x-2.2.5/trunk/external/protobuf-2.5.0/xcodeproject/DerivedData/protobuf/Index/PrecompiledHeaders/protobuf-Prefix-glgwlvqabtmckochdgdtclcesmuw_ast/protobuf-Prefix.pch.pth protobuf/protobuf-Prefix.pch normal armv7 c++ com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
