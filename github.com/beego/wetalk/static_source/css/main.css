@@ -1,0 +1,350 @@
+
+/* nav-cats */
+.nav-cats {
+  padding: 6px 10px;
+}
+
+.nav-cats .cat {
+  display: inline-block;
+}
+
+.nav-cats .cat a {
+  display: block;
+  padding: 3px 8px;
+  margin: 1px 0;
+  border-radius: 3px;
+}
+
+.nav-cats .cat a:hover {
+  text-decoration: none;
+  background-color: #ddd;
+}
+
+.nav-cats .cat a.active {
+  color: #fff;
+  background-color: #444;
+}
+
+.breadcrumb.nav-cats {
+  padding: 5px 10px;
+}
+
+/* nav-topics */
+.nav-topics .topic a {
+  padding: 3px 3px;
+}
+
+.nav-topics .topic a:hover {
+  text-decoration: underline;
+}
+
+/* post-list */
+.post-list .post .avatar {
+  margin-left: 5px;
+  float: left;
+}
+
+.post-list .post .title {
+  margin: 0 20px 0 65px;
+  line-height: 24px;
+  font-size: 15px;
+  font-weight: normal;
+}
+
+.post-list .post.noavatar .title {
+  margin: 0 20px 0 0;
+}
+
+.post-list .post.noavatar .meta {
+  margin: 7px 0 0;
+}
+
+.post-list .post .meta {
+  color: #aaa;
+  margin: 7px 0 0 65px;
+  font-size: 12px;
+}
+
+.post-list .post .meta .time,
+.post-list .post .meta .last-reply {
+  padding: 2px 1px;
+}
+
+.post-list .post .meta .tag {
+  color: #999;
+  border-radius: 3px;
+  padding: 2px 3px;
+  background-color: #eee;
+}
+
+.post-list .post .meta .tag:hover {
+  color: #666;
+  background-color: #ddd;
+  text-decoration: none;
+}
+
+.post-list .post .data {
+  color: #aaa;
+}
+
+.post-list .post .data i {
+  margin-left: 5px;
+  margin-right: 10px;
+}
+
+/* login page */
+.auth-page {
+  margin-bottom: 20px;
+}
+
+.auth-page .title {
+  font-size: 20px;
+  padding: 5px 0 10px 0;
+  margin-bottom: 20px;
+  border-bottom: 1px solid #ddd;
+}
+
+.auth-page .title .icon {
+  margin-right: 10px;
+}
+
+/* settings profile */
+.profile-avatar {
+  padding: 10px;
+  margin-bottom: 5px;
+  background-color: #eee;
+  border: 1px solid #eee;
+}
+
+.profile-avatar img {
+  vertical-align: bottom;
+  margin-right: 10px;
+}
+
+.nav-side .active > a {
+  padding-left: 10px;
+  border-left: 5px solid #24b2eb;
+  background-color: #eee;
+  color: #000;
+}
+
+.nav-side .head .icon {
+  margin-right: 10px;
+}
+
+.topic-info .topic-img {
+  margin: 0 15px 0;
+}
+
+.topic-info .topic-img img {
+  width: 60px;
+}
+
+.topic-info .topic-intro {
+  text-indent: 2em;
+  margin: 0 10px 0 90px;
+  margin-bottom: 0;
+  font-size: 14px;
+  line-height: 24px;
+}
+
+.topic-info .topic-meta {
+  margin: 10px 10px 0 0;
+}
+
+.topic-info .topic-meta .badge {
+  background-color: #aaa;
+}
+
+.topic-info .topic-meta .input-group-addon,
+.topic-info .topic-meta .input-group-btn {
+  width: auto;
+}
+
+#post-new .post-langs {
+  width: 120px;
+  float: left;
+}
+
+#post-new .post-categories,
+#post-new .post-topics {
+  width: 170px;
+  float: left;
+  margin-left: 10px;
+}
+
+.post-show .post-title {
+  font-size: 22px;
+  line-height: 1.3em;
+  margin: 5px 0;
+  padding: 0 0 10px;
+  font-weight: 700;
+}
+
+.post-show .post-content {
+  padding: 0 0 15px;
+  margin: 15px 0 0 0;
+}
+
+.post-show .post-meta {
+  color: #aaa;
+}
+
+.post-show .post-meta .tag {
+  border-radius: 3px;
+  padding: 2px 3px;
+  background-color: #eee;
+}
+
+.post-show .post-meta .tag:hover {
+  background-color: #ddd;
+  text-decoration: none;
+}
+
+#post-reply .markdown-editor textarea,
+#post-reply .markdown-editor .md-preview {
+  min-height: 122px;
+}
+
+.post-comments .comment .avatar {
+  float: left;
+}
+
+.post-comments .comment .meta {
+  margin: 0 0 10px 0;
+}
+
+.post-comments .comment .meta a {
+  margin-right: 5px;
+  font-weight: bold;
+}
+
+.post-comments .comment .content {
+  margin: 0 0 0 58px;
+}
+
+.post-comments .comment.noavatar .content {
+  margin: 0;
+}
+
+.post-comments .comment.highlight {
+  background: #eee;
+}
+
+.article-show .post-title {
+  font-size: 28px;
+}
+
+/* user home */
+.user-page .detail li {
+  font-size: 14px;
+  padding-top: 5px;
+}
+
+.user-page .detail li:first-child {
+  padding-top: 0;
+}
+
+.user-page .detail li > i {
+  color: #999;
+  padding: 0 7px 0 0;
+}
+
+.user-page .detail ul {
+  margin: 0;
+}
+
+.user-page .info {
+  padding: 10px;
+}
+
+.user-page .info > h3 {
+  margin: 0 0 6px;
+}
+
+.user-page .info > strong {
+  padding-left: 5px;
+  font-size: 14px;
+  color: #777;
+}
+
+.user-page .info > p {
+  padding-left: 5px;
+  margin: 10px 0 0;
+  color: #333;
+}
+
+.user-page .detail,
+.user-page .stats {
+  border-top: 1px solid #ddd;
+  padding: 10px 5px;
+}
+
+.user-page .stats a {
+  float: left;
+  text-align: center;
+  font-size: 11px;
+}
+
+.user-page .stats a:hover {
+  text-decoration: none;
+}
+
+.user-page .stats a strong {
+  display: block;
+  width: 70px;
+  font-size: 18px;
+  padding: 0 0 5px;
+}
+
+.user-page .socials a {
+  font-size: 16px;
+}
+
+.user-page .socials a:hover {
+  text-decoration: none;
+  color: #2892BC;
+}
+
+.user-page .nav-topics {
+  line-height: 24px;
+}
+
+.user-box .avatar {
+  display: block;
+  float: left;
+}
+
+.user-box .info {
+  float: left;
+  padding: 0 0 0 9px;
+}
+
+.user-box .intro {
+  margin: 9px 0 0;
+  height: 18px;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+.user-list {
+  padding: 0 0 0 10px;
+}
+
+.user-list .user-box {
+  padding: 9px;
+  margin: 15px 10px 0 0;
+  float: left;
+  width: 170px;
+  height: 90px;
+  overflow: hidden;
+  background: #f5f5f5;
+  border: 1px solid #f5f5f5;
+}
+
+.user-list .user-box:hover {
+  border: 1px solid #ddd;
+  -webkit-box-shadow: 1px 0 4px rgba(0, 0, 0, 0.05);
+  box-shadow: 1px 0 4px rgba(0, 0, 0, 0.05);
+}

@@ -1,0 +1,1 @@
+{"email_notify_plugin":{"description":"评论及回复等邮件提醒","is_activate":false,"name":"邮件提醒"},"hello_plugin":{"description":"插件样例，页面最后输出执行时间 \u003c!-- excute time --\u003e 注释","is_activate":true,"name":"Sample Hello Plugin"}}
