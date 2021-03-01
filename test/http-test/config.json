@@ -1,0 +1,82 @@
+{
+    "netlib": {
+    },
+	"tx": {
+		"TxSkeletonName": "github.com/idealeak/goserver.v3/srvlib/txcommskeleton"
+	},
+	"module": {
+		"Options": {
+			"QueueBacklog": 1024,
+			"MaxDone": 1024,
+			"Interval": 100
+		}
+	},
+	"executor": {
+		"Options": {
+			"QueueBacklog": 1024,
+			"MaxDone": 1024,
+			"Interval": 31002
+			},
+		"Worker": {
+			"WorkerCnt": 8,
+			"Options": {
+				"QueueBacklog": 1024,
+				"MaxDone": 1024,
+				"Interval": 0
+			}
+		}
+	},
+	"timer": {
+		"Options": {
+			"QueueBacklog": 1024,
+			"MaxDone": 1024,
+			"Interval": 100
+		}
+	},
+
+    "core": {
+	    "MaxProcs": 4
+    },
+
+	"cmdline": {
+		"SupportCmdLine": true
+	},
+	"signal":{
+		"SupportSignal": true
+	},
+	"admin": {
+		"SupportAdmin": true,
+		"AdminHttpPort": 80
+	},
+	"srvctrl": {
+		"StartScript": "",
+		"IsDevMode": true
+	},
+	"mongo": {
+	  	"Dbs": {
+		  	"user": {
+				"Host": "127.0.0.1",
+				"Database": "inner_game_hj",
+		  		"User": "",
+		  		"Password": ""
+		  	},
+		  	"log": {
+				"Host": "127.0.0.1",
+				"Database": "inner_log_hj",
+		  		"User": "",
+		  		"Password": ""
+		  	}
+	  	}
+    },
+	"common":{
+		"AppId": "5a7553560c9cf51c105678f3",
+		"IsDevMode":true
+	},
+	"costum":{},
+	"profile":{},
+	"Config": {
+		"EtcdUrl": ["192.168.2.47:2379"],
+		"EtcdUser": "root",
+		"EtcdPwd": "123456"
+	}
+}
